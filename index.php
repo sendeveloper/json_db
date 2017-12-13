@@ -2,7 +2,7 @@
 	require_once("config.php");
 
 	$start = 0; 
-	$end = 1;
+	$end = 17;
 	for ($i=$start;$i<$end;$i++)
 	{
 		$file_name = "adult_pharmacist_childs_{$i}.json";
@@ -124,7 +124,7 @@
 				$page = isset($data['tabs'][0]['startpage']) ? $data['tabs'][0]['startpage'] : 0;
 				$content = $mysqli->escape_string($data['tabs'][0]['irregular']['content']);
 
-				$irregular_sql = "INSERT INTO header_iregular (page_id, header, page, content) VALUES ({$page_id}, '{$header}', $page, '{$content}')";
+				$irregular_sql = "INSERT INTO irregular_content (page_id, header, page, content) VALUES ({$page_id}, '{$header}', $page, '{$content}')";
 				$mysqli->query($irregular_sql);
 
 				$irregular_id = $mysqli->insert_id;
@@ -136,7 +136,7 @@
 					$title = $mysqli->escape_string($irregular_button['title']);
 					$class = "";
 					$goto = $irregular_button['goto'];
-					$ir_button_sql = "INSERT INTO header_iregular (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
+					$ir_button_sql = "INSERT INTO irregular_buttons (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
 					$mysqli->query($ir_button_sql);
 				}
 				if (isset($data['tabs'][0]['irregular']['buttongo']))
@@ -148,7 +148,7 @@
 						$title = $mysqli->escape_string($each_buttongo['title']);
 						$class = $each_buttongo['class'];
 						$goto = $each_buttongo['goto'];
-						$ir_button_sql = "INSERT INTO header_iregular (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
+						$ir_button_sql = "INSERT INTO irregular_buttons (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
 						$mysqli->query($ir_button_sql);
 					}
 				}
