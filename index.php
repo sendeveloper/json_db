@@ -62,6 +62,65 @@
 
 					$mode_not_sql = "INSERT INTO mode_not (page_id, mode_no, content1, content2) VALUES ({$page_id}, '{$mode_no}', '{$content1}', '$content2')";
 					$mysqli->query($mode_not_sql);
+
+					foreach ($buttons as $each_button) {
+						$class = $each_button['class'];
+						$title = $mysqli->escape_string($each_button['title']);
+						$goto = $each_button['goto'];
+
+						$mode_not_button_sql = "INSERT INTO mode_not_buttons (page_id, class, title, goto) VALUES ({$page_id}, '{$class}', '{$title}', $goto)";
+						$mysqli->query($mode_not_button_sql);
+					}
+				}
+			}
+
+			foreach($data['tabs'] as $tab_id => $each_tab)
+			{			
+				if (isset($each_tab['collapsable']))
+				{
+					foreach($each_tab['collapsable'] as $each_collapsable)
+					{
+						$title = $mysqli->escape_string($each_collapsable['title']);
+						$content = $mysqli->escape_string($each_collapsable['content']);
+						$mode = isset($each_collapsable['mode']) ? $each_collapsable['mode'] : '';
+						$mode_above = isset($each_collapsable['mode_above']) ? $each_collapsable['mode_above'] : '';
+
+						$collapsable_sql = "INSERT INTO collapsable (page_id, tab_id, title, content, mode, mode_above) VALUES ({$page_id}, '{$tab_id}', '{$title}', '{$content}', '{$mode}', '$mode_above')";
+						$mysqli->query($collapsable_sql);
+
+						if (isset($each_collapsable['buttons']))
+						{
+							$collapsable_id = $mysqli->insert_id;
+							$col_buttons = $each_collapsable['buttons'];
+							foreach ($col_buttons as $each_col_buttons) {
+								$type = $each_col_buttons['type'];
+								$title = $mysqli->escape_string($each_col_buttons['title']);
+								$goto = $each_col_buttons['goto'];
+								$collapsable_button_sql = "INSERT INTO collapsable_buttons (page_id, collapsable_id, type, title, goto) VALUES ({$page_id}, {$collapsable_id}, '{$type}', '{$title}', '{$goto}')";
+								$mysqli->query($collapsable_button_sql);
+							}
+						}
+					}
+				}
+
+				if (isset($each_tab['buttons']))
+				{
+					$buttons = $each_tab['buttons'];
+					foreach($buttons as $each_button)
+					{
+						$class = $each_button['class'];
+						$title = $mysqli->escape_string($each_button['title']);
+						$goto = $each_button['goto'];
+						$button_sql = "INSERT INTO buttons (page_id, tab_id, class, title, goto) VALUES ({$page_id}, {$tab_id}, '{$class}', '{$title}', '{$goto}')";
+						$mysqli->query($button_sql);
+					}
+				}
+				if (isset($each_tab['why']))
+				{
+					$why = $each_tab['why'];
+					$why_sql = "INSERT INTO why (page_id, tab_id, class, content) VALUES ({$page_id}, {$tab_id}, '{$why}')";
+					var_dump($why_sql);
+					$mysqli->query($why_sql);
 				}
 			}
 		}
