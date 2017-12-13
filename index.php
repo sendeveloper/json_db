@@ -1,8 +1,8 @@
 <?php
 	require_once("config.php");
 
-	$start = 2; 
-	$end = 3;
+	$start = 	7; 
+	$end = 		8;
 	for ($i=$start;$i<$end;$i++)
 	{
 		$file_name = "adult_pharmacist_childs_{$i}.json";
