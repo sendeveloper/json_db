@@ -118,8 +118,7 @@
 				if (isset($each_tab['why']))
 				{
 					$why = $each_tab['why'];
-					$why_sql = "INSERT INTO why (page_id, tab_id, class, content) VALUES ({$page_id}, {$tab_id}, '{$why}')";
-					var_dump($why_sql);
+					$why_sql = "INSERT INTO why (page_id, tab_id, content) VALUES ({$page_id}, {$tab_id}, '{$why}')";
 					$mysqli->query($why_sql);
 				}
 			}
