@@ -1,8 +1,8 @@
 <?php
 	require_once("config.php");
 
-	$start = 0; 
-	$end = 17;
+	$start = 2; 
+	$end = 3;
 	for ($i=$start;$i<$end;$i++)
 	{
 		$file_name = "adult_pharmacist_childs_{$i}.json";
@@ -115,6 +115,19 @@
 					$goto = $list_field['goto'];
 					$mode_sql = "INSERT INTO ullist (page_id, content, goto) VALUES ({$page_id}, '{$content}', '{$goto}')";
 					$mysqli->query($mode_sql);
+				}
+			}
+
+			if (isset($data['tabs'][0]['firstpage_buttons']))
+			{
+				foreach($data['tabs'][0]['firstpage_buttons'] as $button_key => $button_field)
+				{
+					$type = $button_field['type'];
+					$title = $mysqli->escape_string($button_field['title']);
+					$goto = $button_field['goto'];
+
+					$button_sql = "INSERT INTO firstpage_buttons (page_id, type, title, goto) VALUES ({$page_id}, '{$type}', '{$title}', {$goto})";
+					$mysqli->query($button_sql);
 				}
 			}
 
