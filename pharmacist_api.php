@@ -43,7 +43,6 @@ if (isset($_REQUEST['id']))
 					$data['tabs'][0]['irregular']['content'] = $irregular_row['content'];
 
 					$ir_button_sql = "SELECT * from irregular_buttons WHERE page_id={$id} and irregular_id={$ir_id}";
-					var_dump($ir_button_sql);
 					if ($ir_button_result = $mysqli->query($ir_button_sql))
 					{
 						if ($ir_button_result->num_rows > 0)
@@ -59,7 +58,7 @@ if (isset($_REQUEST['id']))
 								$data['tabs'][0]['irregular']['buttongo'] = array();
 								$data['tabs'][0]['irregular']['buttongo'][0] = array();
 								$data['tabs'][0]['irregular']['buttongo'][0]['title'] = $ir_button_row['title'];
-								$data['tabs'][0]['irregular']['buttongo'][0]['content'] = $ir_button_row['content'];
+								$data['tabs'][0]['irregular']['buttongo'][0]['class'] = $ir_button_row['class'];
 								$data['tabs'][0]['irregular']['buttongo'][0]['goto'] = $ir_button_row['goto'];
 							}
 						}
@@ -80,6 +79,26 @@ if (isset($_REQUEST['id']))
 					}
 				}
 			}
+
+			$firstpage_buttons_sql = "SELECT * from firstpage_buttons WHERE page_id={$id}";
+			if ($firstpage_buttons_result = $mysqli->query($firstpage_buttons_sql))
+			{
+				if ($firstpage_buttons_result->num_rows > 0)
+				{
+					$data['tabs'][0]['firstpage_buttons'] = array();
+					while($firstpage_buttons_row = $firstpage_buttons_result->fetch_assoc())
+					{
+						$each = array();
+						$each['type'] = $firstpage_buttons_row['type'];
+						$each['title'] = $firstpage_buttons_row['title'];
+						$each['goto'] = $firstpage_buttons_row['goto'] . '';
+						$data['tabs'][0]['firstpage_buttons'][] = $each;
+					}
+				}
+			}
+
+			
+
 			$data['tabs'][0]['fieldset'] = array();
 			$data['tabs'][0]['fieldspecial'] = array();
 			$field_sql = "SELECT * from fieldset WHERE page_id={$id}";
