@@ -1,7 +1,9 @@
 <?php
 	require_once("config.php");
 
-	for ($i=0;$i<4;$i++)
+	$start = 0; 
+	$end = 1;
+	for ($i=$start;$i<$end;$i++)
 	{
 		$file_name = "adult_pharmacist_childs_{$i}.json";
 		$content = file_get_contents("json/{$file_name}");
