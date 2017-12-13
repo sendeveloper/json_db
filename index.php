@@ -11,7 +11,12 @@
 			$pages_sql = "INSERT INTO pages (page_id, theme_type,title) VALUES ({$key}, 0, '{$data['title']}')";
 			var_dump($pages_sql);
 			$mysqli->query($pages_sql);
-			
+
+			$content = isset($data['tabs'][0]['top_header']) ? $mysqli->escape_string($data['tabs'][0]['top_header']) : '';
+
+			$topheader_sql = "INSERT INTO top_header (page_id, content) VALUES ({$key}, '$content')";
+			$mysqli->query($topheader_sql);
+
 		}
 		// print_r($json_data);
 	}
