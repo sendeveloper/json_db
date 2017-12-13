@@ -1,0 +1,365 @@
+{
+	"20": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n",
+				"header_iregular": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span class=\"firstname bluefont\"> </span><br>\n                <p>Alright, let's see what to use over-the-counter for this dry mouth.</p>\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-barry.svg\" width=\"100\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"blueBorderAll\">\n            <p>You will need saliva substitutes to help with this dry mouth.</p>\n            <p>Bear in mind that this is a temporary fix. The best way to take care of this is getting rid of the cause of dryness of the mouth.</p>\n            <p>With this in mind, see what we recommend for dry mouth over-the-counter</p>\n            <hr class=\"hrblue\">\n            <p class=\"centerText\">\n                <img src=\"assets/img/people/adult/mouth/drymouth-lady2.svg\" width=\"180\" alt=\"Lady experiencing dry mouth\">\n            </p>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+				"header": "",
+				"startpage": -1,
+				"fieldset": [
+				],
+				"fieldspecial": [],
+				"mode": {
+				},
+				"mode_not": [
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"color14\">xylitol</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Look for formulations with xylitol which is a tooth-friendly sugar alcohol.<img alt=\"Woman pouring mouthwash\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/mouthwash-lady.svg\" class=\"img_style65\">&nbsp;</p>\n                <p>\n                    It has advantages of reducing cavities, remineralization&nbsp;of the enamel before cavities are formed and&nbsp;the sensation of&nbsp;sweetness increases&nbsp;<!--StartFragment-->secretion of saliva.&nbsp;<!--EndFragment-->\n                </p>\n                <p><span style=\"font-size:10px;\"><em>Examples: Biotene, Oasis, ACT</em></span></p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color11\">Carboxymethylcellulose</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Look for formulations of mouthwashes<img alt=\"Woman using mouthwash\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/mouthwash-lady-opp.svg\" class=\"img_style65\"> with carboxymethyl cellulose or hydroxyethyl cellulose.</p>\n                <p>The viscosity&nbsp;simulates saliva.</p>\n                <p><span style=\"font-size:10px;\"><em>Examples: Biotene, Oasis</em></span></p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color59\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>1. Regularly sip water.<br>\n                    2. Chew sugar-free gums or suck on sugar-free hard candies.<br>\n                    3. Stay away from over-the-counter antihistamines<br>\n                    4. Do not breathe through the mouth.&nbsp;<br>\n                    5. Cut down on the intake of coffee or energy drinks. They contain caffeine which can cause dry mouth.\n                </p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					}
+				],
+				"irregular": {
+					"page": -1,
+					"content": "<div class=\"clearboth divider1\"></div>\n        <p class=\"grayfontSmallSmall centerText\">\n            Last updated by pharmacist on : \n            02/01/2016 at 10:49:pm          \n        </p>"
+				}
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> Know this about the <span class=\"orangefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-tony.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 8,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span>What if you are <span class=\"orangefont\">currently experiencing</span> any of the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightBlue\">\n                    Or if you have a question for the pharmacist?\n                </div>\n            </div>\n            <div class=\"grid_4\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-tony.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 9,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\"> <span>No <span class=\"bluefont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-tony.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"21": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"header": "<p class=\"redBorder redfont centerText\">Article currently being updated and reviewed by the pharmacist. <br>Please check back later.</p>",
+				"collapsable": []
+			},
+			{
+				"collapsable": []
+			},
+			{
+				"collapsable": []
+			},
+			{
+
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"22": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n",
+				"header_iregular": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"firstname greenfont\"></span><br>\n                Stuffy nose? Let's take care of this.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-cyan.svg\" width=\"100\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"blueBorderAll\">\n            <p>This will assume you are only looking at a stuffy nose for one reason or another.</p>\n            <p>The approach would be to thin the mucus, reduce the inflammation and shrink the swollen blood vessels.</p>\n            <p>With this in mind, see what I recommend below.</p>\n            <p class=\"centerText\">\n                <br>\n                <img src=\"assets/img/people/adult/nose/stuffynose-lady.svg\" width=\"130\" alt=\"Lady blowing her nose\">\n            </p>\n            <br>\n        </div>",
+				"header": "",
+				"startpage": -1,
+				"fieldset": [
+				],
+				"fieldspecial": [],
+				"mode": {
+				},
+				"mode_not": [
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"color57\">Saline wash</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Always better to start with a saline wash before using medications.<img alt=\"lady using saline spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/saline-spray-lady.svg\" class=\"img_style66\"></p>\n                <p>Medications for stuffy nose comes with some baggage. They will either bump up the blood pressure, make you wired, deny you sleep, make you jittery or even cause stuffy nose if you use it for too long.</p>\n                <p>&nbsp;</p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color62\">Neti-Pot</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>A good idea if you want to avoid using decongestant<img alt=\"Woman using neti-pot\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/netipot-woman.svg\" class=\"img_style67\"> medications as much as possible.</p>\n                <p>The only problem is, you either like it or you don't. To like it, use it with <span class=\"color65\">Alkalol®</span> a&nbsp;<span style=\"font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 11.52px; line-height: 17.28px;\" class=\"color64\">saline rinse formulated with natural extracts and essential oils</span>&nbsp; for an invigorating clean.</p>\n                <p>Once you get past the initial feeling of accidentally inhaling water while swimming, you will love using it. &nbsp;</p>\n                <p>&nbsp;&nbsp;</p>\n                <p>&nbsp;</p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color8\">Decongestants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color3\">Nasal sprays</span></p>\n                <p>Start with the decongestant nasal spray. These start to work within 10 minutes.<img alt=\"Hand holding nasal spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/hand-holding-nasalspray.svg\" class=\"img_style37\"></p>\n                <p>You can then switch to decongestant tablets or syrup if still congested after 3 or 4 days.</p>\n                <p>At about 3&nbsp;to 5&nbsp;days, you must stop using the nasal spray if you still have a stuffy nose. That is when you will start experiencing the rebound effect of the nasal spray making you congested instead of providing relief (rebound effect).</p>\n                <p>&nbsp;</p>\n                <p><span style=\"font-size:12px;\">Prefer nasal spray with<span class=\"color11\"> oxymetazoline</span> for 12-hour dosing.</span></p>\n                <p><span style=\"font-size:12px;\">Those with<span class=\"color6\"> phenylephrine</span> require more frequent use of 4 to 6 hours.</span><br>\n                    &nbsp;\n                </p>\n                <p><span class=\"color8\">Pills</span>:</p>\n                <p>Ask for <span class=\"color7\">pseudoephedrine</span> at the pharmacy counter.<img alt=\"Woman at the pharmacy counter\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/pharmacy-counter.svg\" class=\"img_style68\"></p>\n                <p>You will need a government issued&nbsp;ID to monitor your daily or monthly quantity&nbsp;limit.</p>\n                <p><span class=\"color8\">Do not use phenylephrine found in the cold aisle.</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n                <p>The strength approved by the FDA for nasal congestion is not effective and using a higher dose will cause more side effects and won't work either. Stay away from that.</p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color63\">Nasal spray steroids</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color3\">Steroidal nasal sprays</span> can reduce<img alt=\"Lady using nasal spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/nasalspray-lady3.svg\" class=\"img_style69\"> the inflammation that is causing the nasal congestion.</p>\n                <p>But you have to give it about 7 days&nbsp;to kick in.</p>\n                <p>If you&nbsp;get nasal congestion often as in allergy situations or nasal polyps,&nbsp;you will need to invest in this. Both for prevention and relief purposes.</p>\n                <p><strong><span class=\"color8\">Do not</span></strong> get this if your stuffy nose is due to a <span class=\"color58\">cold.</span> It won't work.</p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color37\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>1. Invest in a humidifier.&nbsp;<img alt=\"Humidifier\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/humidifier.svg\" class=\"img_style70\"></p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					}
+				],
+				"irregular": {
+					"page": -1,
+					"content": "<div class=\"clearboth divider1\"></div>\n        <p class=\"grayfontSmallSmall centerText\">\n            Last updated by pharmacist on : \n            02/02/2016 at 04:35:pm          \n        </p>\n        <br>",
+					"buttongo": [{
+						"title": "Compare Decongestants",
+						"class": "linkCyanBorder robotoLightSmall ui-link",
+						"goto": 2201
+					}]
+				}
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 10,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightBlue\">\n                    Or if you have a question for the pharmacist?\n                </div>\n            </div>\n            <div class=\"grid_4\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 11,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen centerText\"> <span>No <span class=\"greenfont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"23": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n",
+				"header_iregular": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"firstname orangefont\"></span><br>\n                Let's take care of this runny nose.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-carly-cyan.svg\" width=\"100\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"blueBorderAll\">\n            <p>This will assume you are only looking at a runny nose for reasons other than a cold, flu or allergy situations.</p>\n            <p>With this in mind, see what I recommend for runny nose below.</p>\n            <p class=\"centerText\">\n                <br>\n                <img src=\"assets/img/people/adult/nose/sinus-man.svg\" width=\"130\" alt=\"Man blowing his nose\">\n            </p>\n            <br>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+				"header": "",
+				"startpage": -1,
+				"fieldset": [
+				],
+				"fieldspecial": [],
+				"mode": {
+				},
+				"mode_not": [
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"color6\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>If the runny nose is caused by histamine&nbsp;</p>\n                <p><img alt=\"Lady taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-taking-pill.svg\" class=\"img_style71\"></p>\n                <p>release as in allergy situations, an antihistamine should take care of it by blocking histamine getting to the cells.</p>\n                <p>There are two types of antihistamines used for a runny nose, first generation <em>(diphenhydramine, chlorpheniramine)</em> and second generation <em>(loratadine, cetirizine, fexofenadine)</em>. The main difference is the side effect of drowsiness caused by first-generation antihistamines.</p>\n                <p>If the runny nose is caused by a <span class=\"color16\">cold</span>, stick with the <span class=\"color8\">first generation</span> antihistamines. The second generation like loratadine, cetirizine or fexofenadine do not work for cold symptoms.</p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color55\">Saline rinse</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>There are different types.&nbsp;</p>\n                <p><img alt=\"Man using nasal spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/nasalspray-man.svg\" class=\"img_style72\"></p>\n                <p>The spray is basically to moisturize the nasal passages. The rinse is used to thin the mucus that lines the passages so you can gently blow it out.</p>\n                <p>For a runny nose, you will use the rinse. Neti-pot is good if you are used to it, but for a quick job, get a sinus rinse with packets.<img alt=\"Lady using sinus rinse\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sinus-rinse-lady.svg\" class=\"img_style73\"> Be sure to always use distilled water.</p>\n                <p>We recommend you include <span class=\"color7\">Alkalol®</span> for a soothing effect.</p>\n                <p>&nbsp;</p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color66\">Steroidal nasal spray</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>If you already have a runny nose,&nbsp;</p>\n                <p><img alt=\"Man using nasal spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/nasalspray-man2.svg\" class=\"img_style74\"></p>\n                <p>this is not going to work. They need a few days to kick in. Average 5 days. So don't waste your money if you have not been using a steroidal nasal spray and currently have a runny nose.</p>\n                <p>If you are prone to a runny nose as in allergy, this has to be a part of your treatment regimen. Daily use will be great for about 4 to 6 months a year.</p>\n                <p>&nbsp;</p>",
+						"mode": "-1"
+					}
+				],
+				"irregular": {
+					"page": -1,
+					"content": "<div class=\"clearboth divider1\"></div>\n        <p class=\"grayfontSmallSmall centerText\">\n            Last updated by pharmacist on : \n            02/02/2016 at 07:04:pm          \n        </p>\n        <br>",
+					"buttongo": [{
+						"title": "Compare Antihistamines",
+						"class": "linkOrangeBorder robotoLightSmall ui-link",
+						"goto": 2301
+					}]
+				}
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 10,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightBlue\">\n                    Or if you have a question for the pharmacist?\n                </div>\n            </div>\n            <div class=\"grid_4\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 11,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen centerText\"> <span>No <span class=\"greenfont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	}
+}

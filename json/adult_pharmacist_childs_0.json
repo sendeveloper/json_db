@@ -1,0 +1,821 @@
+{
+	"0": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;<\/p>\r\n\t\t\t\t        <p>&nbsp;<\/p><div id=\"intro_adult_allergy_mobile_div\">\r\n\t\t\t\t\t        <div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> \r\n\t\t\t\t\t                <span class=\"greenfont firstname\"> <\/span><br>\r\n\t\t\t\t\t                Which of the <span class=\"greenfont\">symptoms<\/span> listed below are you <span class=\"purple_redfont\">experiencing<\/span> right now? \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\">\r\n\t\t\t\t\t                <img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"100\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>\r\n\t\t\t\t\t        <br>\r\n\t\t\t\t\t        <div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t    <\/div>",
+				"header": "<p class=\"centerText\">\r\n\t\t\t\t\t            <img src=\"assets\/img\/people\/adult\/cold\/allergy-lady.svg\" alt=\"Lady with allergy symptoms\" width=\"120\">\r\n\t\t\t\t\t        <\/p>\r\n\t\t\t\t\t        <br>\r\n\t\t\t\t\t        <p class=\"greenBorder centerText\"> Choose your allergy symptoms from the list below and see what is recommended. <\/p>\r\n\t\t\t\t\t        <br>",
+				"fieldset": [
+					"<span class=\"greenfont\">Sore throat<\/span>",
+					"<span class=\"greenfont\">Scratchy throat<\/span>",
+					"<span class=\"greenfont\">Stuffy nose<\/span>",
+					"<span class=\"greenfont\">Runny nose<\/span>",
+					"<span class=\"greenfont\">Sneezing<\/span>",
+					"<span class=\"greenfont\">Headache<\/span>",
+					"<span class=\"greenfont\">Itchy eyes<\/span>",
+					"<span class=\"greenfont\">Cough<\/span>",
+					"<span class=\"greenfont\">Watery eyes<\/span>",
+					"<span class=\"greenfont\">Chest congestion<\/span>",
+					"<span class=\"greenfont\">All of the above<\/span>",
+					"<span class=\"greenfont\">Prevention only<\/span>",
+					"<span class=\"greenfont\">None of these<\/span>"
+				],
+				"fieldspecial": [10, 11, 12],
+				"mode": {
+					"2": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> Something to <span class=\"orangefont\">prevent<\/span> or <span class=\"purplefont\">boost<\/span> your resistance to allergy? <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\"><\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"3": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span class=\"purplefont\">All of these?<\/span><br>\r\n\t\t\t\t\t                You must have this allergy really bad. \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth\"><\/div>\r\n\t\t\t\t\t        <!-----------------End Border right person------------------- -->\r\n\t\t\t\t\t        <p class=\"orangeBorder\">Your best bet would be to visit the nearest urgent care clinic. if you don't think so, here is what I recommend to use over-the-counter.<\/p>\r\n\t\t\t\t\t        <p>Send to nearest urgent care.<\/p>\r\n\t\t\t\t\t        <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t        <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t        <p>&nbsp;<\/p>",
+					"4": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span> An <span class=\"purple_redfont\">antihistamine<\/span> will take of this.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"5": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Selection require a <span class=\"purplefont\">decongestant.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"6": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Symptom need a <span class=\"redfont\">pain<\/span> relief medication.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"7": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>A <span class=\"greenfont\">cough<\/span> suppresant and \/ or something to loosen up the mucus is needed.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>\r\n\t\t\t\t\t        <p>&nbsp;<\/p>",
+					"8": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span><span class=\"orangefont\">Eye allergy<\/span> relief eye drops will be needed.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"9": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Symptoms require a <span class=\"purplefont\">decongestant<\/span> and <span class=\"pinkfont\">pain relief<\/span> medications<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"10": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Symptoms require <span class=\"purple_redfont\">antihistamine<\/span> and a <span class=\"redfont\">pain reliever.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"11": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Selections calls for <span class=\"greenfont\">cough\/chest congestion<\/span> and <span class=\"redfont\">pain relief<\/span> medications<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"12": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Better off with an <span class=\"orangefont\">eye allergy<\/span> and a <span class=\"redfont\">pain reliever.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"13": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Symptoms require an <span class=\"purple_redfont\">antihistamine<\/span> and a <span class=\"purplefont\">decongestant.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"14": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine<\/span> and a <span class=\"greenfont\">cough relief<\/span> medication.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"15": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Symptoms require <span class=\"redfont\">oral<\/span> <span class=\"orangefont\">antihistamine<\/span> with allergy relief <span class=\"orangefont\">eye drops.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"16": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>A <span class=\"purplefont\">decongestant<\/span> and <span class=\"greenfont\">cough relief<\/span> medications will be adequate.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"17": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Need a <span class=\"purplefont\">decongestant<\/span> and <span class=\"pinkfont\">eye drops<\/span> for the itch eyes.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"18": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Eye drops for <span class=\"orangefont\">itchy eyes<\/span> and <span class=\"greenfont\">cough relief<\/span> medications should do it.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"19": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Symptoms require <span class=\"purple_redfont\">antihistamine<\/span>, <span class=\"purplefont\">decongestant<\/span> and a <span class=\"pinkfont\">pain reliever.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"20": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine<\/span>, <span class=\"redfont\">pain reliever<\/span> and something for <span class=\"greenfont\">cough.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"21": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Symptoms require an <span class=\"purple_redfont\">antihistamine,<\/span> <span class=\"orangefont\"> eye drops<\/span> and a <span class=\"redfont\">pain reliever.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"22": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Selection require a <span class=\"purplefont\">decongestant,<\/span> <span class=\"greenfont\">cough<\/span> and <span class=\"redfont\">pain<\/span> relievers.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"23": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Symptoms require a <span class=\"purplefont\">decongestant,<\/span> <span class=\"orangefont\"> eye drops<\/span> and a <span class=\"redfont\">pain reliever.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"27": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine,<\/span> <span class=\"purplefont\">decongestant<\/span> and <span class=\"redfont\">cough relief<\/span> medication.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"28": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine,<\/span> <span class=\"purplefont\">decongestant<\/span> and an <span class=\"orangefont\">eye drop.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"26": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Symptoms require an <span class=\"purple_redfont\">antihistamine,<\/span> <span class=\"greenfont\">cough<\/span> and allergy relief <span class=\"orangefont\">eye drops.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"25": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Need a <span class=\"purplefont\">decongestant,<\/span> <span class=\"greenfont\">cough<\/span> and allergy relief <span class=\"orangefont\">eye drops.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"30": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Will need an <span class=\"purple_redfont\">antihistamine,<\/span> <span class=\"purplefont\">decongestant,<\/span> <span class=\"greenfont\">cough<\/span> and <span class=\"redfont\">pain relievers.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"29": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine,<\/span> <span class=\"purplefont\">decongestant,<\/span> allergy <span class=\"orangefont\">eye drops<\/span> and <span class=\"redfont\">pain reliever.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"31": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine,<\/span> allergy <span class=\"orangefont\">eye drops,<\/span> <span class=\"greenfont\">cough<\/span> and <span class=\"redfont\">pain relievers.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"32": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Need a <span class=\"purplefont\">decongestant,<\/span> <span class=\"orangefont\"> eye drops,<\/span> <span class=\"greenfont\">cough<\/span> and <span class=\"redfont\">pain relief<\/span> medications.<\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"33": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine,<\/span> <span class=\"purplefont\">decongestant,<\/span> <span class=\"greenfont\">cough relief<\/span> and allegy <span class=\"orangefont\">eye drops.<\/span><\/span><br>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth divider1\"><\/div>",
+					"34": "<div class=\"maxwidth450\">\r\n\t\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span class=\"purplefont\">Okay.<\/span><br>\r\n\t\t\t\t\t                You must have this allergy really bad. \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\"> \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"clearboth\"><\/div>\r\n\t\t\t\t\t        <!-----------------End Border right person------------------- -->\r\n\t\t\t\t\t        <p class=\"orangeBorder\">Your best bet would be to visit the nearest urgent care clinic. if you don't think so, here is what I recommend to use over-the-counter.<\/p>\r\n\t\t\t\t\t        <p>Talk about pain, antihistamine, cough, decongestant and itchyeyes relief.<\/p>\r\n\t\t\t\t\t        <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t        <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t        <p>&nbsp;<\/p>",
+					"50": "<div class=\"grid_9\">\r\n\t\t\t\t\t            <div class=\"bubbleRightGreen\" id=\"selected_adult_recom_allergy_mobile_q1 centerText\">\r\n\t\t\t\t\t            \t<span class=\"redfontLarge\">Oops!,<\/span> You told me nothing \r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t        <\/div>\r\n\t\t\t\t\t        <div class=\"grid_3\"> <img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"40\" align=\"right\">"
+				},
+				"mode_not": [
+					{
+						"mode_no": "50",
+						"content1": "<div class=\"clearboth divider1\"></div>\n\t\t\t\t\t        <div class=\"centerText\"><span class=\"grayfontSmallSmall\">Last updated by pharmacist on  01/25/2016 at 03:07:am</span>\n\t\t\t\t\t        </div>",
+						"content2": "<div class=\"clearboth divider1\"></div>\n\t\t\t\t\t        <p class=\"grayfontSmall greenBorderAll centerText\">You can compare <span class=\"orangefont\">antihistamines</span>  or  <span class=\"redfont\">decongestants</span> using our comparison table to see which will work best for you.\n\t\t\t\t\t        </p>\n\t\t\t\t\t        <br>",
+						"buttons": [
+							{
+								"class": "linkGreen",
+								"title": "<span class=\"mbsc-ic mbsc-ic-ion-android-system-back mobi-icon-font36\"></span>Back",
+								"goto": "200"
+							},
+							{
+								"class": "linkOrangeBorder",
+								"title": "Antihistamine",
+								"goto": "1"
+							},
+							{
+								"class": "linkGreenBorder",
+								"title": "Decontestant",
+								"goto": "-1"
+							}
+						]
+					}
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"bluefont\">Preventive measures<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<br>\n\t\t\t\t\t                <h3><span class=\"color1\">Prevent exposure</span>&nbsp;&nbsp;&nbsp;&nbsp;</h3>\n\t\t\t\t\t                <p>Obviously, if you don't want to have symptoms, you will take preventing exposure to allergens seriously.&nbsp;</p>\n\t\t\t\t\t                <ul>\n\t\t\t\t\t                    <li>Get an app that shows you the pollen calendar and pollen counts in your area.&nbsp;<br>\n\t\t\t\t\t                        Use this as a guide to &nbsp;prepare for outside activities.&nbsp;\n\t\t\t\t\t                    </li>\n\t\t\t\t\t                    <li>Use allergy mask or something similar if you need to mow the lawn or do some gardening.</li>\n\t\t\t\t\t                    <li>Smear petroleum jelly in the nasal passages when outdoors to trap pollen and prevent it from getting to the inner lining of the nose.</li>\n\t\t\t\t\t                    <li>Wear sunglasses when outdoors if the pollen count is high.</li>\n\t\t\t\t\t                    <li>Keep windows closed.&nbsp;</li>\n\t\t\t\t\t                </ul>\n\t\t\t\t\t                <h3><span class=\"color2\">&nbsp;Intranasal steroids</span></h3>\n\t\t\t\t\t                <p>This is the most effective&nbsp;preventive treatment. It is also the best choice if symptoms are moderate to severe.</p>\n\t\t\t\t\t                <p>The real benefit comes with daily use. Better to start about a week before the allergy season starts.&nbsp;</p>\n\t\t\t\t\t                <p>Know that you can start it anytime, but &nbsp;you will get some symptoms relief within a day, but full beneficial effect may take up to 7 days of daily use.</p>\n\t\t\t\t\t                <p>The goal for you is to use it daily until the allergy season is over for effective and enjoyable allergy season.</p>\n\t\t\t\t\t                <h3><span class=\"color3\">Antihistamine</span></h3>\n\t\t\t\t\t                <p>Take first thing in the morning before you step outside for effective prevention. I personally take mine right after brushing my teeth. It may get hectic with the kids and all and&nbsp;I may forget to take it.</p>\n\t\t\t\t\t                <p>Remember, you have to get the antihistamine in there to block the histamine receptors before the histamine starts causing havoc.</p>\n\t\t\t\t\t                <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t\t                <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t\t                <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Decongestants<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>A <span class=\"color4\">decongestant<\/span> will help ease the blocked or stuffy nose.<\/p>\r\n\t\t\t\t\t            <p><img alt=\"Lady with itchy nose\" src=\"http:\/\/www.selfcarepharmacist.com\/admin\/images\/articles\/html_editor_uploads\/itchy-nose-green.svg\" class=\"img_style1\"><\/p>\r\n\t\t\t\t\t            <p>Decongestants cause the blood vessels in the lining of the nose and sinuses to narrow, thereby reducing the stuffy nose or sinus congestion.<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>An antihistamine will not reduce stuffy nose. It will only help&nbsp;if it is runny.&nbsp;<\/p>\r\n\t\t\t\t\t            <p>A decongestant will not help with a runny nose only if it is congested or blocked.<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>With this in mind, you may need a combination of both an antihistamine and a decongestant if you alternate between a runny and a stuffy nose.<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>Tap on the<span class=\"color5\"> \"FYI\"<\/span> below for a good way to choose a decongestant that will work best for you.<\/p>\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <div>\r\n\t\t\t\t\t                <a href=\"#12Da-jpg-modal\" data-rel=\"popup\" data-transition=\"slide\" class=\"linkBanner ui-link\" aria-haspopup=\"true\" aria-owns=\"12Da-jpg-modal\" aria-expanded=\"false\">\r\n\t\t\t\t\t                    <p>If you have time, check out this new acne cream. We think you may find it useful. <span class=\"color6\">Take a look.<\/span><\/p>\r\n\t\t\t\t\t                <\/a>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div style=\"display: none;\" id=\"12Da-jpg-modal-placeholder\">\r\n\t\t\t\t\t                <!-- placeholder for 12Da-jpg-modal -->\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <p>&nbsp;<\/p>",
+						"mode": "5,9,13,16,17,19,22,23,25,27,28,29,30,32,33,34"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Antihistamine<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>Contact with an allergen, a foreign substance like pollen, is causing the mast cells in the nose, eyes, throat &nbsp;to release more histamine than usual.<img alt=\"Girl rubbing the eye\" src=\"http:\/\/www.selfcarepharmacist.com\/admin\/images\/articles\/html_editor_uploads\/puffy-eye-lady.svg\" class=\"img_style1\">&#8203;<\/p>\r\n\t\t\t\t\t            <p>This is causing the itchy eyes, throat, runny nose, sneezing, red,&nbsp;watery eyes &nbsp;you are experiencing.&nbsp;<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>An<span class=\"color3\"> antihistamine<\/span>&nbsp;blocks histamine from reaching the cells to cause these symptoms.&nbsp;<\/p>\r\n\t\t\t\t\t            <p>This is why antihistamines&nbsp;are most effective when taken before you come in contact with the allergen.<\/p>\r\n\t\t\t\t\t            <p>Be sure to compare antihistamines using our <span class=\"color7\">comparison table<\/span> to see which will work best for you. A quick link to the comparison table is given at the end of this page.<\/p>\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <div class=\"bannerDisplayBtn-Aa blueBorderAll\">\r\n\t\t\t\t\t                <p>Testing a gif banner from google<\/p>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <div class=\"clearboth divider1\"><\/div>\r\n\t\t\t\t\t            <div class=\"bannerDisplay-Aa displayNone centerText\">\r\n\t\t\t\t\t                <div class=\"graygrayfontSmall\" class=\"padding1\">Your interaction with this ad supports us. Thank you.<br><span><a href=\"\" class=\"linkBlue robotoThinSmall ui-link\" data-inline=\"true\">Save Ad For Interaction Later<\/a><\/span><\/div>\r\n\t\t\t\t\t                <a href=\"\" class=\"ui-link\"><img src=\"http:\/\/www.selfcarepharmacist.com\/admin\/images\/banners\/ad-placeholder.jpg\" class=\"img_style2\" alt=\"\"><\/a>\r\n\t\t\t\t\t                <div align=\"right\" class=\"div_style1\">\r\n\t\t\t\t\t                    <br>\r\n\t\t\t\t\t                    <a href=\"\" class=\"linkBlue robotoLightSmall ui-link\" data-inline=\"true\">Learn More<\/a>\r\n\t\t\t\t\t                    <a href=\"#\" class=\"bannerDisplayBtn-Aa linkBlue robotoLightSmall ui-link\" data-inline=\"true\">Got It<\/a>\r\n\t\t\t\t\t                <\/div>\r\n\t\t\t\t\t            <\/div>\r\n\t\t\t\t\t            <br> \r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>",
+						"mode": "4,10,13,14,15,19,20,21,26,27,28,29,30,31,33,34"
+					},
+					{
+						"title": "<span class=\"redfont\">Pain \/ Fever reducer<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>Inflammation and swelling of the sinuses and severe nasal congestion can lead to sinus pressure causing headaches and facial or sinus pain.<\/p>\r\n\t\t\t\t\t            <p><img alt=\"Woman with sinus pressure\" src=\"http:\/\/www.selfcarepharmacist.com\/admin\/images\/articles\/html_editor_uploads\/allergy-sinus-lady.svg\" class=\"img_style1\"><\/p>\r\n\t\t\t\t\t            <p>It is usually better to take a decongestant along with a pain relief medication for a headache or sinus pain.<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>You need to take care of the underlying cause of this pain before it will really go away.<\/p>\r\n\t\t\t\t\t            <p><span class=\"color3\">Acetaminophen<\/span> is preferred if it is just&nbsp;a headache.<\/p>\r\n\t\t\t\t\t            <p><span class=\"color8\">Ibuprofen<\/span> or <span class=\"color9\">naproxen<\/span> is preferred if you have inflammation of the sinuses causing facial pain with&nbsp;a headache.<br>\r\n\t\t\t\t\t                These also have anti-inflammatory properties compared to acetaminophen.\r\n\t\t\t\t\t            <\/p>\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>",
+						"mode": "6,9,10,11,12,19,20,21,22,23,24,29,30,31,32,34"
+					},
+					{
+						"title": "<span class=\"purplefont\">Cough Relief<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>Mucus dripping down the throat from&nbsp;the back of the nose (post nasal drip) will trigger the cough reflex.<\/p>\r\n\t\t\t\t\t            <p><img alt=\"Girl coughing\" src=\"http:\/\/www.selfcarepharmacist.com\/admin\/images\/articles\/html_editor_uploads\/sneezing-lady-green.svg\" class=\"img_style3\"><\/p>\r\n\t\t\t\t\t            <p>We normally will not recommend a cough medication. Because if you do not take care of what is causing it, you will keep coughing.<\/p>\r\n\t\t\t\t\t            <p>Here are situations that will warrant getting a cough medicine:<\/p>\r\n\t\t\t\t\t            <ul>\r\n\t\t\t\t\t                <li>A cough is waking you up at night.<br>\r\n\t\t\t\t\t                    Dextromethorphan will &nbsp;suppress the cough for a good night's sleep.&nbsp;<br>\r\n\t\t\t\t\t                    Diphenhydramine or doxylamine can suppress the cough while making you sleep. &nbsp;<br>\r\n\t\t\t\t\t                    &nbsp;\r\n\t\t\t\t\t                <\/li>\r\n\t\t\t\t\t                <li>Mucus has accumulated&nbsp;giving a feeling of chest congestion.<br>\r\n\t\t\t\t\t                    You will need to thin the mucus so you can cough it out.<br>\r\n\t\t\t\t\t                    Guaifenesin with drinking a lot of water should help with this.\r\n\t\t\t\t\t                <\/li>\r\n\t\t\t\t\t            <\/ul>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>",
+						"mode": "7,11,14,16,18,20,22,24,25,26,27,30,31,32,33,34"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Allergy Relief Eye Drops<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>Just as allergens getting to the nose triggers a runny itchy nose, pollen or other allergens getting to the surface of the eyes can trigger histamine release leading to itchy, watery and even swollen eyes.<\/p>\r\n\t\t\t\t\t            <p><img alt=\"Woman using eye-drops\" src=\"http:\/\/www.selfcarepharmacist.com\/admin\/images\/articles\/html_editor_uploads\/eyedrops-lady.svg\" class=\"img_style4\"><\/p>\r\n\t\t\t\t\t            <p>You will need an antihistamine eye drops.<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p><span class=\"color10\">First choice<\/span><br>\r\n\t\t\t\t\t                <span class=\"color11\">ketotifen fumarate opthalmic solution.<\/span> This work for up to 12 hours on a single dose and is more effective.\r\n\t\t\t\t\t            <\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p><span class=\"color9\">Second choice<\/span><br>\r\n\t\t\t\t\t                Eye drops that end with a <span class=\"color9;\">capital \"A\".<\/span> &nbsp;<span class=\"color12\"><em>Naphcon A, visine A, opcon A<\/em><\/span> and so on.&nbsp;<br>\r\n\t\t\t\t\t                They last for 4 to 6 hours. So you may have to carry them with you.<br>\r\n\t\t\t\t\t                Choose this if the first choice is too expensive for you.\r\n\t\t\t\t\t            <\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>See the <span class=\"color7\">product comparison section<\/span> of this app for a good way to choose an allergy relief eye drops.<\/p>\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>",
+						"mode": "8,12,15,17,18,21,23,24,25,26,28,29,31,32,33,34"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Steroidal Nasal Sprays<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>Intranasal steroids (INS) have <span class=\"color8\">anti-inflammatory<\/span> properties.<\/p>\r\n\t\t\t\t\t            <p><img alt=\"Woman using nasal spray\" src=\"http:\/\/www.selfcarepharmacist.com\/admin\/images\/articles\/html_editor_uploads\/woman-nasal-spray.svg\" class=\"img_style3\"><\/p>\r\n\t\t\t\t\t            <p>The inside of your nose can easily become<span class=\"color8\"> inflamed<\/span> as a result of pollen or other allergens.<\/p>\r\n\t\t\t\t\t            <p>A steroidal nasal spray will&nbsp;relieve &nbsp;symptoms like<em> a runny nose, stuffy nose, sneezing, itchy nose<\/em>&nbsp;by reducing and preventing this inflammation.<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>They are recommended for<span class=\"color13\"> moderate<\/span> to<span class=\"color8\"> severe<\/span> allergic rhinitis.&nbsp; Now, how do you know you have moderate to severe allergic rhinitis?<\/p>\r\n\t\t\t\t\t            <h3>You know&nbsp;if symptoms are:<\/h3>\r\n\t\t\t\t\t            <ul>\r\n\t\t\t\t\t                <li>getting more difficult to tolerate.<\/li>\r\n\t\t\t\t\t                <li>getting so bad that it&nbsp;is hard to function at school, home or work.<\/li>\r\n\t\t\t\t\t                <li>interfering with your sleep.<\/li>\r\n\t\t\t\t\t                <li>making you change antihistamines because one is no longer working as good.<\/li>\r\n\t\t\t\t\t                <li>making you put off activities like mowing,&nbsp;gardening or sports.<\/li>\r\n\t\t\t\t\t            <\/ul>\r\n\t\t\t\t\t            <p>If any one of these applies to you, add intranasal steroids to your regimen.&nbsp;&nbsp;<\/p>\r\n\t\t\t\t\t            <p>A good example is <span class=\"color9\">&nbsp;triamcinolone acetonide,<\/span>&nbsp;<span class=\"color5\">fluticasone<\/span> nasal spray.<\/p>\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>",
+						"mode": "4,5,9,10,13,14,15,16,17,19,20,21,22,23,25,26,27,28,29,30,31,32,33,34"
+					},
+					{
+						"title": "<span class=\"purplefont\">Multi-Symptoms<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>",
+						"mode": "9,10,13,16,19,20,22,27,30,31,32,33,34"
+					},
+					{
+						"title": "<span class=\"greenfont\">Worth doing<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<h3><span class=\"color5\">Allergy mask&nbsp;<\/span>&nbsp;&nbsp;&nbsp;<\/h3>\r\n\t\t\t\t\t            <p>Wear an allergy mask if you are going to mow the lawn, work in the garden do other outside chores around the house. You will be surprised to see how much it helps.<\/p>\r\n\t\t\t\t\t            <h3><span class=\"color3\">Shower<\/span>&nbsp;&nbsp;&nbsp;&nbsp;<\/h3>\r\n\t\t\t\t\t            <p>Those green or yellow pollen&nbsp;sitting on your car during allergy season, they are also on your hair. You need to wash more often.&nbsp;<\/p>\r\n\t\t\t\t\t            <p>Your hair attracts more pollen than you can imagine. This include changing clothes more often.<br>\r\n\t\t\t\t\t                &nbsp;\r\n\t\t\t\t\t            <\/p>\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <!--------------------------Banner Link----------------------------- -->\r\n\t\t\t\t\t            <p>&nbsp;<\/p>\r\n\t\t\t\t\t            <p>&nbsp;<\/p>",
+						"mode_above": "2"
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;<\/p>\r\n\t\t\t\t        <p>&nbsp;<\/p>\r\n\t\t\t\t        <div class=\"maxwidth450\">\r\n\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span> Know this about the <span class=\"bluefont\">safe and effective<\/span> use of this recommendation.<\/span><br>\r\n\t\t\t\t            <\/div>\r\n\t\t\t\t            <div align=\"right\"><img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Article photo\">\r\n\t\t\t\t            <\/div>\r\n\t\t\t\t        <\/div>\r\n\t\t\t\t        <div class=\"clearboth divider1\"><\/div>\r\n\t\t\t\t        <br>\r\n\t\t\t\t        <!-----------------End Border right person------------------- -->\r\n\t\t\t\t        <p class=\"centerText\">\r\n\t\t\t\t            <img src=\"assets\/img\/people\/adult\/cold\/allergy-lady2.svg\" width=\"120\" alt=\"Lady with allergy symptoms\">\r\n\t\t\t\t        <\/p>",
+				"colstart": 9,
+				"collapsable": [
+					{
+						"title": "How this recommendation work<span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p><\/p>\r\n\t\t\t\t                <p>Testing recordset join<\/p>\r\n\t\t\t\t                <p><\/p>",
+						"mode": ""
+					},
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<div class=\"greenBorderWhite\">\r\n\t\t\t\t                    <ul>\r\n\t\t\t\t                        <li>Recommendation is the opinion of a registegreen US Pharmacist currently practicing as a community pharmacist.<\/li>\r\n\t\t\t\t                        <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.<\/li>\r\n\t\t\t\t                        <li>The responsibility of the recommending pharmacist is limited to this question:<br>\r\n\t\t\t\t                            <span class=\"orangefont\"> \"If a patient presents with these symptoms, what will you recommend and why?\"<\/span><br>\r\n\t\t\t\t                            It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice. \r\n\t\t\t\t                        <\/li>\r\n\t\t\t\t                        <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>\r\n\t\t\t\t                            Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressugreen to recommend a particular product to drive sales. \r\n\t\t\t\t                        <\/li>\r\n\t\t\t\t                        <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.<\/li>\r\n\t\t\t\t                    <\/ul>\r\n\t\t\t\t                <\/div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;<\/p>\r\n\t\t\t\t        <p>&nbsp;<\/p>\r\n\t\t\t\t        <div class=\"maxwidth450\">\r\n\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span> What if you are currently <span class=\"orangefont\">experiencing<\/span> the conditions listed below?<\/span><br>\r\n\t\t\t\t            <\/div>\r\n\t\t\t\t            <div class=\"clearboth\"><\/div>\r\n\t\t\t\t            <div class=\"container_12\">\r\n\t\t\t\t                <div class=\"grid_8\">\r\n\t\t\t\t                    <br>\r\n\t\t\t\t                    <div class=\"bubbleRightGreen\"> Or if you have a question for the pharmacist? <\/div>\r\n\t\t\t\t                <\/div>\r\n\t\t\t\t                <div class=\"grid_4\"> <img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\r\n\t\t\t\t                <\/div>\r\n\t\t\t\t            <\/div>\r\n\t\t\t\t        <\/div>\r\n\t\t\t\t        <br>\r\n\t\t\t\t        <div class=\"clearboth divider1\"><\/div>\r\n\t\t\t\t        <br>",
+				"colstart": 11,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,<\/span> <span class=\"blue_brightfontSmall\">twitter,<\/span> <span class=\"redfontSmall\">google+,<\/span> <span class=\"bluefontSmall\">linkedIn)<\/span> we have made available to you.<\/p>\r\n\t\t\t\t                        <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.<\/p>\r\n\t\t\t\t                        <div class=\"clearboth divider1\"><\/div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\r\n\t\t\t\t                            If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\r\n\t\t\t\t                        <\/p>\r\n\t\t\t\t                        <p>If you have a comment and not a question, please post it in the comments section for all to read.<\/p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.<\/p>\r\n\t\t\t\t                        <p>Email addresses or questions are not saved.<br> They are deleted once answegreen and not stogreen in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.<\/p>\r\n\t\t\t\t                        <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authogreen. They are forwarded to the author of the topic and are under no obligation to reply.<\/p>\r\n\t\t\t\t                        <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.<\/p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;<\/p>\r\n\t\t\t\t        <p>&nbsp;<\/p>\r\n\t\t\t\t        <div class=\"maxwidth450\">\r\n\t\t\t\t            <div class=\"ovalBorderRightGreen centerText\"> <span>No <span class=\"greenfont\">comments<\/span> or <span class=\"orangefont\">ratings<\/span> on this recommendation yet. How about being the first to say something?<\/span><br>\r\n\t\t\t\t            <\/div>\r\n\t\t\t\t            <div align=\"right\"> <img src=\"http:\/\/www.selfcarepharmacist.com\/images\/articles\/pharm-donald-green.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\r\n\t\t\t\t            <\/div>\r\n\t\t\t\t        <\/div>\r\n\t\t\t\t        <div class=\"clearboth divider1\"><\/div>\r\n\t\t\t\t        <br>\r\n\t\t\t\t        <!-----------------End Border right person------------------- -->\r\n\t\t\t\t        <p>&nbsp;<\/p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorderThin",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberThin",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\r\n\t\t\t\t            <ul>\r\n\t\t\t\t                <li>Let others know if the recommendation worked for you.<\/li>\r\n\t\t\t\t                <li>Share your treatment outcome with others.<\/li>\r\n\t\t\t\t                <li>Add to the recommendation.<\/li>\r\n\t\t\t\t                <li>Improve on the recommendation.<\/li>\r\n\t\t\t\t                <li>Quickest way to ask a pharmacist a question.<\/li>\r\n\t\t\t\t                <li>What about you answering a question?<\/li>\r\n\t\t\t\t            <\/ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"1": {
+		"title": "Cold",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p><p>&nbsp;</p><div id=\"intro_adult_cold_mobile_div\"> \n  \n  \n <div class=\"maxwidth450\">\n<div class=\"ovalBorderRightBlue centerText\">\n <span class=\"firstname purplefont\">Ewe,</span><br>\n    Let's get something for this cold.\n   \n</div>\n<div align=\"right\">\n<img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"100\"> \n  </div>\n  </div>\n<div class=\"clearboth divider1\"></div>\n<!-----------------End Border right person--------------------->\n\n <div class=\"blueBorderAll\">\n\n  <p class=\"blueBorder centerText\">There is no cure for the common cold. <br>What you can do is:</p>\n  <ul>\n  <li>take care of the symptoms with over-the-counter medications</li><br>\n  <li>reduce it's ability to limit your daily activities</li><br>\n  <li>reduce the duration of the cold</li><br>\n  <li>prevent any complications.</li>\n  </ul>\n  </div><br>\n\n  \n  <!--------------------------Banner Link------------------------------->\n\n  <div>\n \n</div>\n  <!--------------------------Banner Link------------------------------->\n  <div class=\"clearboth divider1\"></div>\n </div>",
+				"header": "<p class=\"centerText\">\n                <img src=\"assets/img/people/adult/cold/cold-lady-landing.svg\" width=\"150\" alt=\"Lady with cold symptoms\">\n                </p>\n      \n   <p class=\"blueBorderAll centerText\">The most common symptoms of a cold are listed below. Choose what you are experiencing and see what we recommend.\n</p>\n<div class=\"clearboth\"></div><br>",
+				"fieldset": [
+					"<span class=\"bluefont\">Sore throat</span>",
+					"<span class=\"bluefont\">Scratchy throat</span>",
+					"<span class=\"bluefont\">Stuffy nose</span>",
+					"<span class=\"bluefont\">Runny nose</span>",
+					"<span class=\"bluefont\">Sneezing</span>",
+					"<span class=\"bluefont\">Headache</span>",
+					"<span class=\"bluefont\">Body Ache</span>",
+					"<span class=\"bluefont\">Cough </span>",
+					"<span class=\"bluefont\">Watery eyes</span>",
+					"<span class=\"bluefont\">Sinus congestion/pressure</span>",
+					"<span class=\"bluefont\">Chest congestion</span>",
+					"<span class=\"orangefont\">All of the above</span>",
+					"<span class=\"purplefont\">Prevention only</span>",
+					"<span class=\"redfont\">None of these</span>"
+				],
+				"fieldspecial": [11, 12, 13],
+				"mode": {
+					"1": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span class=\"redfontLarge\">None of these?</span><br>\n                We must have left something out.\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <!-----------------End Border right person------------------- -->\n        <h3 class=\"redBorder orangefont centerText\">If you think you have a cold:</h3>\n        <p class=\"redBorderAll\">Please go back and choose the symptom(s) that you feel closely relate to what you have or might have had and let me recommend something for you. </p>\n        <p class=\"redBorder\">Remember, there is no cure for the common cold. All we can do is manage the symptoms if you have one.</p>\n        <p>&nbsp;</p>",
+					"2": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>Looking for something to <span class=\"orangefont\">prevent</span> or <span class=\"purplefont\">boost</span> your resistance to the cold?</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"3": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span class=\"redfontLarge\">All the symptoms?</span><br>\n                You must have this <span class=\"bluefont\">cold</span> really bad.\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <!-----------------End Border right person------------------- -->\n        <p class=\"redBorder\">Your best bet would be to visit the nearest urgent care clinic. If you don't think so, here is what we recommend to use over-the-counter.</p>\n        <p>Talk about Antihistamine, cough, decongestant and pain relief</p>",
+					"4": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>Selection requires an <span class=\"orangefont\">antihistamine.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"5": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span> You will need a <span class=\"purplefont\">decongestant</span> for this stuffy nose.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"6": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue\">\n                <span>Need a <span class=\"redfont\">pain reliever</span> to take care of this.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"7": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>Need to quiet the <span class=\"blue_brightfont\">cough</span> and relieve any<span class=\"greenfont\">chest congestion.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"8": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>You will need an <span class=\"orangefont\">antihistamine</span> and a <span class=\"purplefont\">decongestant.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"9": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue\">\n                <span>Selection require an <span class=\"orangefont\">antihistamine</span> and a <span class=\"redfont\">pain reliever.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"10": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span> Symptoms require an <span class=\"orangefont\">antihistamine</span> and a <span class=\"greenfont\">Cough relief</span>  medication.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"11": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>Symptoms will require an <span class=\"orangefont\">antihistamine,</span> <span class=\"purplefont\">decongestant</span> and <span class=\"redfont\">pain reliever.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"12": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>Symptoms require an <span class=\"orangefont\">antihistamine,</span> <span class=\"purplefont\">decongestant,</span> <span class=\"greenfont\">Cough relief</span> relief medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"13": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>Symptoms require an <span class=\"orangefont\">antihistamine,</span> <span class=\"greenfont\">cough</span> and <span class=\"redfont\">pain</span> relievers.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"14": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>You must have this <span class=\"bluefont\">cold</span> really bad.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <!-----------------End Border right person------------------- -->\n        <p class=\"redBorder\">Your best bet would be to visit the nearest urgent care clinic. If you don't think so, here is what we recommend to use over-the-counter.</p>\n        <br>",
+					"15": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>Selections require a <span class=\"purplefont\">decongestant</span> and <span class=\"redfont\">pain relief</span> medications</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"16": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>Will need a <span class=\"purplefont\">decongestant</span> and something for <span class=\"greenfont\">cough/congestion</span> relief.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"17": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>You will need a <span class=\"purplefont\">decongestant,</span> <span class=\"redfont\">pain</span> and <span class=\"greenfont\">Cough relief</span> medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"18": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\">\n                <span>Symptoms require a <span class=\"greenfont\">Cough relief</span> and <span class=\"redfont\">pain relief</span> medication.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>",
+					"50": "<div class=\"grid_9\">\n            <div class=\"bubbleRightBlue\" id=\"selected_adult_recom_cold_mobile_q1 centerText\">\n              <span class=\"redfontLarge\">Oops!,</span> You told me nothing\n            </div>\n        </div>\n        <div class=\"grid_3\">\n            <img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"40\" align=\"right\">\n        </div>"
+				},
+				"mode_not": [
+					{
+						"mode_no": "50",
+						"content1": "<div class=\"centerText\"><span class=\"grayfontSmallSmall\">Last updated by pharmacist on  01/23/2016 at 12:16:am</span>\n        </div>",
+						"content2": "<div class=\"clearboth divider1\"></div>\n        <p class=\"grayfontSmall blueBorderAll centerText\">We can help you compare  over the counter <span class=\"bluefont\">multi-symptom cold</span> medications that will work best for you if you need help with that.\n        </p>\n        <br>",
+						"buttons": [
+							{
+								"class": "linkBlue",
+								"title": "<span class=\"mbsc-ic mbsc-ic-ion-android-system-back mobi-icon-font36\"></span>Back",
+								"goto": "200"
+							},
+							{
+								"class": "linkBlue",
+								"title": "Yes, Compare",
+								"goto": "-1"
+							}
+						]
+					}
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
+						"content": "<br>           \n                <h3><span class=\"color11\">Definitely:</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;<img alt=\"Hand washing\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/handwashing.svg\" class=\"img_style9\"></h3>\n                <ul>\n                    <li>Wash the hands often.</li>\n                    <li>Use alcohol-based hand sanitizers if water is not available.</li>\n                    <li>If your school-age child sneezes, have him or her wash hands immediately. Don't be lazy about this. Just one quick sneeze is enough to make you sick.&nbsp;</li>\n                </ul>\n                <h3><span class=\"color3\">Over-The-Counter Medicines:</span></h3>\n                <p>We strongly recommend the cold prevention medicines <span class=\"color11\">comparison feature</span> of this app. (See link below).</p>\n                <!--------------------------Banner Link----------------------------- -->\n                <!--------------------------Banner Link----------------------------- -->\n                <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Decongestants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<h3>Start with a decongestant<span class=\"color3\">&nbsp;nasal spray.</span></h3>\n            <p>Prefer nasal spray containing <span class=\"color3\"><em>oxymetazoline.</em></span> These last for up to 12 hours.<br>\n                Those containing <span class=\"color14\"><em>phenylephrine</em></span> need to be used every 4 to 6 hours.<br>\n                &nbsp;\n            </p>\n            <p>After 3 to 5 days, if you are still congested, switch to <span class=\"color8\">pseudoephedrine</span> tablets.<img alt=\"\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-nasalspray.svg\" class=\"img_style10\"> Continuing the spray will lead to a cycle of rebounding nasal congestion. Don't be tempted to use&nbsp;the nasal spray for more than 5 days. <span style=\"font-size:11px;\"><em>Take this seriously or you will be in for a nasal congestion ride of your life. How do you know if you are in the rebound phase? If a decongestant nasal spray that used to give you relief for 12 hrs, became 10hrs and now it is 8 hrs. Stop.</em></span><br>\n                &nbsp;\n            </p>\n            <p>We <span class=\"color8\">do not</span> recommend <em>phenylephrine tablets.</em> Don't waste your money. If you want to breathe at night, go to the pharmacy counter and ask for <span class=\"color10\">pseudoephedrine tablets</span>. Take a government issued ID with you.</p>\n            <p>If you can't take pseudoephedrine tablets or the congestion is not so bad, continue with <span class=\"color18\">saline</span> nasal spray.</p>\n            <!--------------------------Banner Link----------------------------- -->\n            <div>\n                <a href=\"#1Da-jpg-modal\" data-rel=\"popup\" data-transition=\"slide\" class=\"linkBanner ui-link\" aria-haspopup=\"true\" aria-owns=\"1Da-jpg-modal\" aria-expanded=\"false\">\n                    <p>Before we continue, our sponsor would like to share something we think you should <span class=\"color19\">know about.</span>&nbsp;</p>\n                </a>\n            </div>\n            <div  id=\"1Da-jpg-modal-placeholder\">\n                <!-- placeholder for 1Da-jpg-modal  -->\n            </div>\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>",
+						"mode": "5,8,11,12,14,15,16,17"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>The first generation&nbsp;antihistamines -&nbsp;<span class=\"color15\">chlorpheniramine,</span> <span class=\"color7\">brompheniramine</span> or <span class=\"color10\">diphenhydramine</span>&nbsp;work better for cold. They will make you sleepy, however.</p>\n            <p><strong>Do not use</strong>&nbsp;non-sedating antihistamines like Claritin, Allegra or Zyrtec&nbsp;when it comes to cold. They are only useful in allergy situations.<br>\n                <img alt=\"\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/cold-lady-intro.svg\" class=\"img_style5\">\n            </p>\n            <p>If you have other symptoms, look for multisymptom medications with&nbsp;chlorpheniramine, brompheniramine,&nbsp; diphenhydramine or doxylamine.</p>\n            <p>Use the <span class=\"color11\">\"FYI\"</span> button below for a good way to compare multisymptom cold and flu medications that will work best for you.</p>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode": "4,8,9,10,11,12,13,14"
+					},
+					{
+						"title": "<span class=\"redfont\">Pain / Fever reducer</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Prefer <span class=\"color7\">acetaminophen</span> if what you are experiencing is mainly headache along with other cold symptoms like runny nose&nbsp;and nasal congestion.<img alt=\"\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/fever-lady.svg\" class=\"img_style6\"><br>\n                &nbsp;\n            </p>\n            <p>Prefer <span class=\"color10\">ibuprofen</span> or <span class=\"color9\">naproxen</span> if muscle ache and pain, sinus pain or sinus pressure due to&nbsp;inflamed sinuses.<br>\n                These have anti-inflammatory properties. Unlike acetaminophen.\n            </p>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode": "6,9,11,13,14,15,17,18"
+					},
+					{
+						"title": "<span class=\"purplefont\">Cough Relief</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<h3><span class=\"color15\">Suppressing the cough &nbsp;</span>&nbsp;&nbsp;</h3>\n            <p>Use a cough suppressant if:</p>\n            <ul>\n                <li>this cough is <span class=\"color3\">keeping you up at night</span>&nbsp;</li>\n                <li>this is&nbsp;a<span class=\"color9\"> dry cough</span>&nbsp;with no mucus being produced.&nbsp;</li>\n                <li>this cough is giving you <span class=\"color7\">chest pain.</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>\n            </ul>\n            <p>If none of these,<span class=\"color8\"> stay away from a cough suppressant.</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;<img alt=\"Lady coughing\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/cough-lady.svg\" class=\"img_style7\"></p>\n            <p><span style=\"font-size:12px;\"><em>Postnasal drip (mucus dripping to the back of the throat) is causing most of the coughing by triggering the cough reflex. This is the body's attempt to clear the air passages and prevent mucus from getting to the lungs. If you take a cough suppressant, this preventive mechanism is suppressed leading to a higher potential for secondary upper respiratory tract infections.</em></span></p>\n            <p><span class=\"color5\">Dextromethorphan</span> is&nbsp;the cough suppressant available besides <span class=\"color9\">menthol</span> in cough drops. There are different formulations, so see <span class=\"color11\">\"FYI\"</span> below for how to choose a good cough suppressant that will work best for you.</p>\n            <h3><span class=\"color11\">Expectorant</span>&nbsp;&nbsp;&nbsp;&nbsp;</h3>\n            <p>With time,&nbsp;mucus accumulates in the sinuses and nasal passages. This can&nbsp;become thick reducing its flow.</p>\n            <p><em>Mucus in the body should be thin and flow easily as it moistens the lining of the sinuses, respiratory tract and remove bacteria, viruses,&nbsp;dust, pollen and other foreign substances.</em><br>\n                &nbsp;\n            </p>\n            <p>Thick mucus is bad because it traps bacteria, viruses and dirt and does not flow&nbsp;easily and quickly enough for the body to get rid of it either by swallowing it or coughing it up and out.<br>\n                &nbsp;\n            </p>\n            <p>An expectorant will&nbsp;break up, loosen and thin the mucus making it flow more easily for you to expectorate (bring it up and out).&nbsp;&nbsp;&nbsp;&nbsp;<img alt=\"Man drinking water\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/man-drinking-water.svg\" class=\"img_style11\"><br>\n                &nbsp;\n            </p>\n            <p><strong>Must drink a lot of water for it to work effectively.</strong></p>\n            <p><span class=\"color11\">Guaifenesin</span> is the most common expectorant.&nbsp;&nbsp;&nbsp;</p>\n            <p>&nbsp;</p>\n            <h3><span class=\"color3\">Combination or not?</span></h3>\n            <p>Get a combination (Guaifenesin DM) if you have chest congestion and coughing is getting violent or giving you chest pain.</p>\n            <p>You will&nbsp;experience this during the last stage of the cold because the mucus has dried up triggering the cough reflex and it is not flowing leading to coughing spells.</p>\n            <p>Guaifenesin with drinking a lot of water will break this up and get the mucus&nbsp;flowing again while dextromethorphan will help control the coughing spells until the mucus stops triggering this cough reflex.&nbsp;</p>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode": "7,10,12,13,14,16,17,18"
+					},
+					{
+						"title": "<span class=\"bluefont\">Multi-Symptom</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<h3><span class=\"color11\"><span style=\"font-size:16px;\"><strong>Choosing a </strong></span></span><span class=\"color8\"><span style=\"font-size:16px;\"><strong>multi-symptoms</strong></span></span><span class=\"color11\"><span style=\"font-size:16px;\"><strong> cold medicine</strong></span></span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</h3>\n            <p>The best thing to do&nbsp;is to use the comparison feature of this app. (See link below).&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <h3><span class=\"color16\">What to look out for:</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</h3>\n            <ul>\n                <li>Make sure other medicine you are taking does not contain acetaminophen. Most multi-symptom will contain acetaminophen.</li>\n                <li>Don't expect them to relieve nasal congestion even if it says so on the box. Except you buy the ones kept behind the pharmacy counter.</li>\n                <li>We don't really recommend these because cold comes in different stages. You have to treat the symptom at that stage or you are wasting your money. For instance, the last stage is usually the coughing and chest congestion phase. Buying a multisymptom with cough suppressants or expectorants earlier, may be a waste of money.</li>\n            </ul>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode": "8,9,10,11,12,13,14,15,16,17"
+					},
+					{
+						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<h3><span class=\"color7\"><strong>Invest in a humidifier</strong></span></h3>\n            <p>The air is dry which in turn dries up the nasal passages&nbsp;and need to be moisturized.</p>\n            <p>We recommend<strong> <span class=\"color7\">cool mist.</span></strong>&nbsp;&nbsp;&nbsp;&nbsp;<img alt=\"\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/humidifier-sample.jpg\" class=\"img_style8\"></p>\n            <p>Warm mist is too dangerous especially if you have children in the house. Moreover, by the time the moisture gets from the air to your nasal passages, it is already cold.</p>\n            <p>Warm mist is also more expensive.</p>\n            <p>If you really need a warm mist, put your head over a bowl of hot water to inhale the vapors. Or better yet, take a hot shower.&nbsp;</p>\n            <h3><strong><span class=\"color13\">High vitamin and mineral concentrations</span></strong></h3>\n            <p>Take any of the high vitamin and mineral containing tablets or packets that you dissolve in water before drinking. Examples include &nbsp;Airborne<sup>®</sup> or Emergency C<sup>®</sup>.<br>\n                These work 50% of the time to reduce the severity of the cold symptoms.\n            </p>\n            <p>But stay away from the ones you spray in your mouth. Some taste like urine. The taste of zinc can be hard to mask.</p>\n            <h3><span class=\"color17\"><strong>Drink plenty of water</strong></span></h3>\n            <p><img alt=\"man drinking water\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/man-drinking-water.svg\" class=\"img_style12\"> More so if you have <span class=\"color5\">chest</span> congestion. You need to thin the mucus so it will keep moving.</p>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode_above": "2"
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"100\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 7,
+				"collapsable": [
+					{
+						"title": "How this recommendation work<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p><span style=\"font-size:16px;\"><span style=\"color:#0000CD;\">Decongestants:</span></span><br>\n                I recommended pseudoephedrine. This work by....\n            </p>\n            <p>If you don't have an ID, I recommended a nasal spray. This work by ...</p>\n            <p><span style=\"color:#008080;\"><span style=\"font-size:16px;\">Antihistamines:</span></span><br>\n                I recommended either chlorpheniramine, diphenhydramine or doxylamine.<br>\n                These are called first generation antihistamines. They work by...\n            </p>\n            <p><span style=\"font-size:16px;\"><span style=\"color:#A52A2A;\">Neti pot / Alkalol / Saline:</span></span><br>\n                This work by...\n            </p>\n            <p>Guaifenesin, humidifiers, zinc</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "How to use what is recommended<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p><span style=\"color:#0000CD;\"><span style=\"font-size:14px;\">Decongestants:</span></span></p>\n            <p>Pseudoephedrine:</p>\n            <ul>\n                <li>30 mg tabs:<br>\n                    Take 2&nbsp;tablets every 4 to 6 hours. Max of 8 tablets in 24 hours. (Take this maximum number seriously)\n                </li>\n                <li>12 hour tablets (120mg):<br>\n                    Take 1 tablet every 12 hours. (Doesn't have to be exactly 12 hours. Anywhere between 10 and 12 hrs is okay). Fit in the evening dose before 7 pm so you won't be awake all night.&nbsp;\n                </li>\n            </ul>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "What to know<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>What to know, side effects, how long should you try this before contacting a healthcare provider.</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "Important Safety Information<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>What the precautions to note when using the medications recommended</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "Estimated Cost To You<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>What is the estimated cost of this therapy to you.&nbsp;<br>\n                How does this compare with visiting your healthcare provider?\n            </p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "FAQs<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>List faq from comment section and other email questions.</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "Additional Resources<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>Where to get more information about taking care of this condition.</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightBlue\">\n                    Or if you have a question for the pharmacist?\n                </div>\n            </div>\n            <div class=\"grid_4\">\n                <img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"80\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 15,
+				"collapsable": [
+					{
+						"title": "You are pregnant<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>If pregnant, what can you take to take care of this condition?</p>\n            <p></p>\n            <p>&nbsp;</p>",
+						"mode": ""
+					},
+					{
+						"title": "You have high blood pressure<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>If you have high blood pressure, what should you take if anything.</p>\n            <p></p>\n            <p>&nbsp;</p>",
+						"mode": ""
+					},
+					{
+						"title": "You are diabetic<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>If you are diabetic, what should you do or take. Any adjustments need to be made to this recommendation?</p>\n            <p></p>\n            <p>&nbsp;</p>",
+						"mode": ""
+					},
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\"> <span>No <span class=\"bluefont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"assets/img/pharm/female/pharm-amanda.svg\" alt=\"Pharmacist\" width=\"100\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"2": {
+		"title": "Flu",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div id=\"intro_adult_flu_mobile_div\">\n        <div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> \n                <span class=\"firstname purple_redfont\">Ewe,</span><br>\n                Take a look at what is recommended for flu symptoms. \n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"100\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <!-----------------End Border right person------------------- -->\n        <p>&nbsp;</p>\n        <!------Start Popoup div----- -->\n        <div style=\"display: none;\" id=\"intro_div_pop-placeholder\">\n            <!-- placeholder for intro_div_pop  -->\n        </div>\n        <!------End Popoup div----- -->\n        <div class=\"redBorderAll\">\n            <p class=\"orangeBorderAll\">There is no cure for the flu. What you can do is:</p>\n            <ul>\n                <li>Take care of the symptoms</li>\n                <br>\n                <li>Reduce it's ability to limit your daily activities</li>\n                <br>\n                <li>Reduce the duration of the flu</li>\n                <br>\n                <li>Prevent any complications.</li>\n            </ul>\n            <div class=\"clearboth divider1\"></div>\n            <p class=\"centerText\"> <a href=\"#\" data-role=\"button\" data-rel=\"popup\" data-inline=\"true\" data-transition=\"pop\" data-theme=\"e\" aria-haspopup=\"true\" aria-owns=\"intro_div_pop\" aria-expanded=\"false\" class=\"ui-link ui-btn ui-btn-e ui-btn-inline ui-shadow ui-corner-all\" role=\"button\">FYI</a> </p>\n        </div>\n        <br>\n        <!--------------------------Banner Link----------------------------- -->\n        <div class=\"orangeBorderAll\">\n            <div>\n                <a href=\"#\" data-rel=\"popup\" data-transition=\"slide\" class=\"linkBanner ui-link\" aria-haspopup=\"true\" aria-owns=\"10RIDa-jpg-modal\" aria-expanded=\"false\">\n                    <p>Before you continue, see what our sponsors want to <span class=\"color20\">share with you.</span> We think it is a good idea.</p>\n                </a>\n            </div>\n            <div style=\"display: none;\" id=\"10RIDa-jpg-modal-placeholder\">\n                <!-- placeholder for 10RIDa-jpg-modal  -->\n            </div>\n        </div>\n        <!--------------------------Banner Link----------------------------- -->              \n        <div class=\"clearboth divider1\"></div>\n    </div>",
+				"header": "<br>\n        <p class=\"centerText\">\n            <img src=\"assets/img/people/adult/cold/flu-lady-landing.svg\" width=\"200\" alt=\"Lady with flu symptoms\">\n        </p>\n        <p align=\"center\" class=\"redBorderAll\"> Choose your symptoms from the list below and see what is recommended. </p>\n        <div class=\"clearboth\"></div>\n        <br>",
+				"fieldset": [
+					"<span class=\"purple_redfont\">Sore throat</span>",
+					"<span class=\"purple_redfont\">Fever</span> <span class=\"orangefontSmall\">(100°F or more)</span>",
+					"<span class=\"purple_redfont\">Stuffy nose</span>",
+					"<span class=\"purple_redfont\">Diarrhea</span>",
+					"<span class=\"purple_redfont\">Body chills</span> <span class=\"purple_bluefontSmall\">(not related to a cold environment)</span>",
+					"<span class=\"purple_redfont\">Headache</span>",
+					"<span class=\"purple_redfont\">Body / Muscle Aches</span>",
+					"<span class=\"purple_redfont\">Cough</span>",
+					"<span class=\"purple_redfont\">Tired, exhausted, or lack energy</span>",
+					"<span class=\"purple_redfont\">Nausea / Vomiting</span>",
+					"<span class=\"purple_redfont\">Runny nose</span>",
+					"<span class=\"purple_redfont\">Chest congestion</span>",
+					"<span class=\"purple_redfont\">Sinus pain / pressure</span>",
+					"<span class=\"orangefont\">All of the above</span>",
+					"<span class=\"purplefont\">Prevention only</span>",
+					"<span class=\"purple_bluefont\">None of these</span>"
+				],
+				"fieldspecial": [13, 14, 15],
+				"mode": {
+					"1": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span class=\"bluefontLarge\">None of these?</span><br>\n                We must have left something out. \n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <h3 class=\"redBorder redfont centerText\">If you think you have a flu:</h3>\n        <p class=\"redBorder\">Please go back and choose the symptom(s) that you feel closely relate to what you have or might have had and let's recommend something for you. </p>\n        <p>Remember, there is no cure for the flu. All we can do is manage the symptoms if you have one.</p>\n        <p>&nbsp;</p>",
+					"2": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Something to <span class=\"orangefont\">prevent</span> or <span class=\"purplefont\">boost</span> your resistance to the flu?</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"3": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span class=\"redfontLarge\">All of these?</span><br>\n                You must have the flu really bad. \n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <p>Discuss further?</p>",
+					"4": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>You will need an <span class=\"purple_redfont\">antihistamine.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"5": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span> Selection require a <span class=\"purplefont\">decongestant.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"6": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Selection require a <span class=\"redfont\">pain / fever</span> reducer.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"7": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Need an <span class=\"greenfont\">expectorant</span> with or a cough <span class=\"orangefont\">suppressant.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"8": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span class=\"bluefontLarge\">Need to quiet down the stomach.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br> ",
+					"9": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Need a <span class=\"purplefont\">decongestant</span> and <span class=\"redfont\">pain / fever </span>medication based on your selection.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"10": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Symptoms require an <span class=\"purple_redfont\">antihistamine</span> and a <span class=\"redfont\">pain / fever</span> reliever.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"11": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Selection require an <span class=\"greenfont\">expectorant</span> with or cough <span class=\"orangefont\">suppressant</span> and <span class=\"redfont\">pain / fever</span> reducer.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"12": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Selection require <span class=\"orangefont\">stomach</span> and <span class=\"redfont\">pain / fever</span> relief aids.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"13": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine</span> and a <span class=\"purplefont\">decongestant.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"14": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Selection require <span class=\"purple_redfont\">antihistamine</span> and an <span class=\"greenfont\">expectorant</span> with or cough <span class=\"orangefont\">suppressant.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"15": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Symptoms require an <span class=\"purple_redfont\">antihistamine</span> and <span class=\"orangefont\">stomach relief</span> medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"16": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Need a <span class=\"purplefont\">decongestant</span> and an <span class=\"greenfont\"> expectorant</span> with or cough <span class=\"orangefont\">suppressant.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"17": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>A <span class=\"purplefont\"> decongestant</span> and <span class=\"orangefont\">stomach relief</span> medications are required.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"18": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Will need an <span class=\"greenfont\">expectorant</span> with or cough <span class=\"orangefont\">suppressant</span> and a <span class=\"orangefont\">stomach relief</span> medication.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"19": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Symptoms require an <span class=\"purple_redfont\">antihistamine,</span> <span class=\"purplefont\">decongestant</span> and a <span class=\"redfont\">pain / fever reducer.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"20": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> Need an <span class=\"purple_redfont\">antihistamine, <span class=\"greenfont\">expectorant</span> with or cough <span class=\"orangefont\">suppressant</span> and a <span class=\"redfont\">pain / fever reducer.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"21": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Selection require an <span class=\"purple_redfont\">antihistamine,</span> <span class=\"orangeItalic\">stomach relief</span> and <span class=\"redfont\">pain / fever reducer.</span></span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"22": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Need a <span class=\"redfont\">pain / fever</span> reducer, <span class=\"purplefont\">decongestant,</span> <span class=\"greenfont\"> expectorant</span> with or cough <span class=\"orangefont\">suppressant</span> relief.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"23": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Selection require a <span class=\"purplefont\">decongestant,</span> <span class=\"orangefont\">stomach</span> and <span class=\"redfont\">pain / fever</span> relief medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"24": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Need a <span class=\"redfont\">pain / fever,</span> <span class=\"orangefont\">stomach </span>and <span class=\"greenfont\">expectorant</span> with or cough <span class=\"orangefont\">suppressant</span> medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"25": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Symptoms require a <span class=\"purplefont\">decongestant,</span> <span class=\"greenfont\">expectorant</span> with or cough <span class=\"orangefont\">suppressant</span> and <span class=\"purple_redfont\">stomach relief</span> medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"26": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Will need an <span class=\"purple_redfont\">antihistamine,</span> <span class=\"greenfont\">expectorant</span> with or cough <span class=\"orangefont\">suppressant</span> and <span class=\"orangefont\">stomach relief</span> medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"27": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Will need an <span class=\"purple_redfont\">antihistamine,</span> <span class=\"purplefont\">decongestant</span> and an <span class=\"greenfont\">expectorant</span> / <span class=\"orangefont\"> cough suppressant</span> medicatons.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"28": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Selection require an <span class=\"purple_redfont\">antihistamine,</span> <span class=\"purplefont\">decongestant</span> and <span class=\"orangefont\">stomach relief</span> medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"29": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine,</span> <span class=\"pinkfont\">decongestant,</span> <span class=\"redfont\">pain / fever</span> and <span class=\"orangefont\">stomach relief</span> medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"30": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Need an <span class=\"purpleredfont\">antihistamine,</span> <span class=\"purplefont\">decongestant,</span> <span class=\"greenfont\">expectorant</span> with or cough <span class=\"orangefont\">suppressant</span> and <span class=\"redfont\">pain / fever</span> relief medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"31": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine,</span> <span class=\"orangefont\">stomach relief,</span><span class=\"redfont\"> Pain / fever</span> with <span class=\"greenfont\">expectorant </span> / <span class=\"orangefont\">cough suppressant</span> medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"32": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Symptoms require a <span class=\"purplefont\">decongestant</span>, <span class=\"orangefont\">stomach,</span> <span class=\"redfont\">pain / fever</span> and <span class=\"greenfont\">expectorant</span> with or cough <span class=\"orangefont\">suppressant</span> relief medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"33": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span>Need an <span class=\"purple_redfont\">antihistamine,</span> <span class=\"purplefont\">decongestant,</span> <span class=\"orangefont\">stomach</span> an <span class=\"greenfont\">expectorant</span> with or cough <span class=\"orangefont\">suppressant</span> medications.</span><br>\n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"34": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightPurple_red centerText\"> <span class=\"bluefontLarge\">Okay.</span><br>\n                You must have this flu pretty bad. \n            </div>\n            <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\"></div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>",
+					"50": "<div class=\"grid_9\">\n            <div class=\"bubbleRightPurple_red\" id=\"selected_adult_recom_flu_mobile_q1 centerText\"></div>\n        </div>\n        <div class=\"grid_3\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"50\" align=\"right\">\n        </div>"
+				},
+				"mode_not": [
+					{
+						"mode_no": "50",
+						"content1": "<div class=\"clearboth divider1\"></div>\n        <div class=\"centerText\"><span class=\"grayfontSmallSmall\">Last updated by pharmacist on  01/23/2016 at 01:50:pm</span>\n        </div>",
+						"content2": "<div class=\"clearboth divider1\"></div>\n        <p class=\"grayfontSmall redBorderAll centerText\">You can compare  over the counter <span class=\"orangefont\">multi-symptom cold and flu</span> medications that will work best for you.\n        </p>",
+						"buttons": [
+							{
+								"class": "linkPink",
+								"title": "<span class=\"mbsc-ic mbsc-ic-ion-android-system-back mobi-icon-font36\"></span>Back",
+								"goto": "200"
+							},
+							{
+								"class": "linkOrange",
+								"title": "Yes, Compare",
+								"goto": "-1"
+							}
+						]
+					}
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
+						"content": "<br>\n                <p>1. The best way to prevent getting the flu illness is a <span class=\"color3\">flu shot.</span>&nbsp;Early October is best, but any time is good.<img alt=\"Man getting a flu shot\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/man-flushot.svg\" class=\"img_style17\"></p>\n                <p>Look for quadrivalent vaccines. It should cost nothing if you have health insurance.&nbsp;</p>\n                <p>2. Frequent hand wash and use a hand sanitizer in the absence of water to wash the hands. Keep a small bottle in the bag, car, and office. Flu virus can stay on surfaces for hours.</p>\n                <p>&nbsp;</p>\n                <!--------------------------Banner Link----------------------------- -->\n                <!--------------------------Banner Link----------------------------- -->\n                <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Decongestants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>They reduce swelling of the small blood vessels inside the nose, sinuses and throat.</p>\n            <div>\n                <img alt=\"Sick lady\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/dizzy-lady.svg\" class=\"img_style18\">\n                <div>&nbsp;</div>\n                <p>Start with the nasal spray. This provides immediate relief. If after 4 days you are still feeling stuffed up, switch to the tablets.</p>\n                <p>You should not use the spray for more than 4, maximum 5 days. Take this seriously or else you would get into a circle of rebound congestion and it is not fun.<img alt=\"A nasal spray bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/nasal-spray-bottle.svg\" class=\"img_style19\">&#8203;</p>\n                <p>If&nbsp;a nasal spray that used to give you 10 to 12 hours of relief is now giving you 8 hours or less, then it is time to stop. You are now in the rebound phase.</p>\n                <p>&nbsp;</p>\n                <p>Talking about the tablet, <span class=\"color8\">do not</span> take decongestants containing <em>phenylephrine.</em> This does not work.</p>\n                <p>Go to the pharmacy counter and ask for <span class=\"color8\">pseudoephedrine.</span> Requires a government issued ID. Go through this extra step if you want to breathe.</p>\n            </div>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>",
+						"mode": "5,9,13,16,17,19,22,23,25,27,28,29,30,32,33,34"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 16px;\"><span style=\"font-size:14px;\">Histamine is&nbsp;released if the immune system detects&nbsp;a harmful foreign object like a virus, bacteria, pollen,&nbsp;dust or your skin is damaged by an insect bite or something.<img alt=\"Man with runny nose\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/man-flu.svg\" class=\"img_style20\"></span></p>\n            <p style=\"font-size: 16px;\"><span style=\"font-size:14px;\">This cause&nbsp;the surrounding small blood vessels to expand,&nbsp;leak fluid, irritate surrounding nerves leading to a runny nose, sneezing, mucus production and so on.</span></p>\n            <p style=\"font-size: 16px;\"><span style=\"font-size:14px;\">So you will need an antihistamine.</span></p>\n            <p>These&nbsp;coat&nbsp;receptor sites&nbsp;for histamine in the cells so that histamine release will not activate these cells.</p>\n            <p>For flu symptoms, the first generation antihistamines like <span class=\"color3\"><em>diphenhydramine,</em></span> <span class=\"color5\">chlorpheniramine,</span> <span class=\"color10\">clemastine</span> are&nbsp;useful.</p>\n            <p><span class=\"color8\">Stay away</span> from <span style=\"font-size:12px;\"><em>loratadine,</em> fexofenadine, <span style=\"font-size:16px;\">or</span> cetirizine.</span> These do not help with a runny nose due to flu symptoms.</p>\n            <p>&nbsp;</p>\n            <p><span class=\"color6\">Multisymptom </span>products are the best way to go if you also have this&nbsp;runny nose with other flu symptoms.</p>\n            <p>Compare multi-symptom&nbsp;cold and flu products using the link at the end of this page.<br>\n                &nbsp;\n            </p>\n            <p>&nbsp;</p>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode": "4,10,13,14,15,19,20,21,26,27,28,29,30,31,33,34"
+					},
+					{
+						"title": "<span class=\"redfont\">Pain / Fever reducer</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Usually with the flu, you will have body aches, headaches, joint pain and fever.<img alt=\"Lady with backache\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/shoulderpain-lady2.svg\" class=\"img_style21\"></p>\n            <p>Which pain or fever reducing medicine should you choose? Acetaminophen, ibuprofen, naproxen, aspirin?</p>\n            <p>&nbsp;</p>\n            <p>If <span class=\"color21\">fever</span> is the main concern, go with acetaminophen.</p>\n            <p>If <span class=\"color10\">muscle pain,</span> go with ibuprofen, naproxen, aspirin. These have anti-inflammatory properties, unlike acetaminophen.</p>\n            <p>If a&nbsp;<span class=\"color15\">headache</span> is a major problem, go with acetaminophen. It works better with headaches.</p>\n            <p>If it is a&nbsp;<span class=\"color9\">sore throat,</span> go with either one, but we particularly like &nbsp;<span class=\"color9\"><span style=\"font-size:14px;\">Tylenol<sup>®</sup> Cold Cool Burst</span></span>&nbsp; due to the way it is formulated to help with a sore throat. <img alt=\"Woman with sore throat\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/short-of-breath-lady.svg\" class=\"img_style22\">Pay the extra money to get the brand name. Store brands do not work the same here.</p>\n            <p>Keep this in mind when choosing multi symptoms products.</p>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode": "6,9,10,11,12,19,20,21,22,23,24,29,30,31,32,34"
+					},
+					{
+						"title": "<span class=\"purplefont\">Cough Relief</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Thick and dried mucus may have accumulated in the chest.</p>\n            <p>You will have to loosen the mucus, moisturize and expectorate it (cough it out) so the chest will start feeling less congested.</p>\n            <p><strong><span class=\"color7\">First step:</span></strong><br>\n                Break up or loosen the gunk so it will start flowing again.\n            </p>\n            <p><strong>To do this:</strong></p>\n            <ol>\n                <li>Drink lots of water.<img alt=\"Lady drinking water\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-drinking-water.svg\" class=\"img_style23\"></li>\n                <li>Moisturize the airways to loosen this dried mucus.<br>\n                    <span style=\"font-size:14px;\">Use a humidifier or a cool mist vaporizer. If you don't have one,&nbsp;don't go running to the store to buy one. Just stick your head over a pot of warm water that has steam coming out or better yet, take a hot shower.</span><br>\n                    <img alt=\"Womans head over a steam pot\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-over-steam.svg\" class=\"img_style24\"><br>\n                    Cold viruses thrive in dry conditions like winter. Moisturizing the airways will help get rid of them quicker.&nbsp;&nbsp;&nbsp;&nbsp;\n                </li>\n            </ol>\n            <p><strong><span class=\"color11\">Second:&nbsp;</span></strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>Need an <span class=\"color22\">expectorant.</span><br>\n                <span class=\"color15\">Guaifenesin</span> is the ingredient to look for in a cough syrup or tablet.\n            </p>\n            <p>If &nbsp;a cough is keeping you up at night, &nbsp;add \"DM\" dextromethorphan. This is a cough suppressant.<br>\n                &nbsp;\n            </p>\n            <p><span style=\"font-size:14px;\">Tap on <strong><span class=\"color13\">\"FYI\"</span></strong> below for the best way to choose a cough medication that will work best for you.</span></p>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode": "7,11,14,16,18,20,22,24,25,26,27,30,31,32,33,34"
+					},
+					{
+						"title": "<span class=\"orangefont\">Multi-Symptoms</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Use the comparison section of this app to <span class=\"color8\">compare </span><span class=\"color11\">multi-symptom</span><span class=\"color8\"> flu</span> medications.</p>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode": "9,13,14,16,19,20,22,27,28,29,30,31,32,33,34"
+					},
+					{
+						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><img alt=\"Lady drinking water\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-drinking-glass.svg\" class=\"img_style15\"></p>\n            <p><span class=\"color8\">1. Drink plenty of water.</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>&nbsp;</p>\n            <p><span class=\"span1\">2. CDC recommends that you stay home for at least 24 hours after your fever is gone except to get medical care or for other necessities.<span style=\"font-size:12px;\"><span class=\"color10\"> </span><a href=\"http://www.cdc.gov/flu/about/qa/preventing.htm#hand-sanitizers/\" target=\"_blank\" class=\"ui-link\"><span class=\"color10\">More tips from CDC.</span></a></span></span>&nbsp;&nbsp;</p>\n            <p>&nbsp;&nbsp;</p>\n            <p><span style=\"font-size:16px;\">3. Call the doctor for Tamiflu to protect the rest of the family.</span></p>\n            <p><img alt=\"Phone to call the doctor\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/phone-cross.svg\" class=\"img_style16\"></p>\n            <p>4. Wash your hands often and use hand sanitizers often.</p>\n            <!--------------------------Banner Link----------------------------- -->\n            <!--------------------------Banner Link----------------------------- -->\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode_above": "2"
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightPurple_red centerText\"> <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 8,
+				"collapsable": [
+					{
+						"title": "How this recommendation work<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>How does the recommended flu&nbsp;medications work? Explain the rationale behind your recommendations</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "How to use what is recommended<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>How to use. Here we will talk about the dosage, dosage form, route of administration and so on.</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "What to know<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>What to know about the flu. When to call your doctor, what to expect.</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "Important Safety Information<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>Adverse effects, pregnancy cautions, breast feeding and any drug interactions.</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "Estimated Cost To You<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>How much it would cost in list form</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "FAQs<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>What if? Here we should discuss the FAQs.</p>\n            <p>&nbsp;</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "Additional Resources<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>List addition resources and websites to visit for more information</p>\n            <p></p>",
+						"mode": ""
+					},
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice. \n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>\n                        Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. \n                    </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightPurple_red centerText\"> <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightPurple_red\"> Or if you have a question for the pharmacist? </div>\n            </div>\n            <div class=\"grid_4\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 17,
+				"collapsable": [
+					{
+						"title": "You are pregnant<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p></p>\n            <p>What about if you have:</p>\n            <ul>\n                <li>If you have high blood pressure</li>\n                <li>Pregnant and so on in a list form</li>\n            </ul>\n            <p></p>\n            <p>&nbsp;</p>",
+						"mode": ""
+					},
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br>\n                        The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.\n                    </p>\n                    <p>Email addresses or questions are not saved.<br>\n                        They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.\n                    </p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightPurple_red centerText\"> <span>No <span class=\"bluefont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-donald-red.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"3": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n",
+				"header": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"bluefont firstname\">Ewe,</span><br>\n                Let's figure out something over the counter for this headache.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"100\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"blueBorderAll\">\n            <p>Tap on the type of headache you think you are experiencing and see what is recommended to use over the counter.</p>\n        </div>\n        <p>&nbsp;</p>",
+				"ullist": [
+					{
+						"text": "<img src=\"assets/img/people/adult/head/headache-tension-man.svg\" alt=\"Man holding his head\">\n\t                                    <h3><span class=\"redfont\">Tension</span></h3>\n\t                                    <p>Dull, pressure-like pain.<br> Like a tight band around my head</p>",
+						"goto": 101
+					},
+					{
+						"text": "<img src=\"assets/img/people/adult/head/migraine-lady.svg\" alt=\"Lady holding her head in pain\">\n\t                                    <h3><span class=\"purplefont\">Migraine</span></h3>\n\t                                    <p>Pulsating, throbbing pain<br>Very sensitive to light, sound</p>",
+						"goto": 102
+					},
+					{
+						"text": "<img src=\"assets/img/people/adult/head/sinus-headache-lady.svg\" alt=\"Woman holding her sinuses\">\n\t                                    <h3><span class=\"orangefont\">Sinus</span></h3>\n\t                                    <p>Pain, pressure in forehead<br>Worse when I bend down</p>",
+						"goto": 103
+					},
+					{
+						"text": "<img src=\"assets/img/people/adult/head/headache-lady.svg\" alt=\"Lady touching her head in pain\">\n\t                                    <h3><span class=\"greenfont\">Others</span></h3>\n\t                                    <p>Hangover, premenstrual.</p>",
+						"goto": 104
+					}
+				],
+				"fieldset": [],
+				"fieldspecial": [],
+				"mode": {
+					"1": "<div class=\"maxwidth450\">\n\t                            <div class=\"ovalBorderRightBlue centerText\"> \n\t                                <span>Over the counter recommendation for <span class=\"redfont\">tension</span> headaches are discussed below.</span><br>\n\t                            </div>\n\t                            <div align=\"right\">\n\t                                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" style=\"width: 100px;\" alt=\"Pharmacist\"> \n\t                            </div>\n\t                        </div>\n\t                        <div class=\"clearboth divider1\"></div>\n\t                        <br>",
+					"2": "<div class=\"maxwidth450\">\n\t                            <div class=\"ovalBorderRightBlue centerText\"> \n\t                                <span> Over the counter recommendations for <span class=\"purplefont\">migraine</span> headaches are discussed below.</span><br>\n\t                            </div>\n\t                            <div align=\"right\">\n\t                                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" style=\"width: 100px;\" alt=\"Pharmacist\"> \n\t                            </div>\n\t                        </div>\n\t                        <div class=\"clearboth divider1\"></div>\n\t                        <br>",
+					"3": "<div class=\"maxwidth450\">\n\t                            <div class=\"ovalBorderRightBlue centerText\"> \n\t                                <span>Take a look at over the counter recommendations for <span class=\"orangefont\">sinus</span>  headaches discussed below.</span><br>\n\t                            </div>\n\t                            <div align=\"right\">\n\t                                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" style=\"width: 100px;\" alt=\"Pharmacist\"> \n\t                            </div>\n\t                        </div>\n\t                        <div class=\"clearboth divider1\"></div>\n\t                        <br>",
+					"4": "<div class=\"maxwidth450\">\n\t                            <div class=\"ovalBorderRightBlue centerText\"> \n\t                                <span>Over the counter recommendations for <span class=\"greenfont\">other types</span> of headaches include:</span><br>\n\t                            </div>\n\t                            <div align=\"right\">\n\t                                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" style=\"width: 100px;\" alt=\"Pharmacist\"> \n\t                            </div>\n\t                        </div>\n\t                        <div class=\"clearboth divider1\"></div>\n\t                        <br>\n\t                        <!-----------------End Border right person------------------- -->\n\t                        <p>&nbsp;</p>\n\t                        <p class=\"redBorder redfont centerText\">Need treatment overview entry here</p>\n\t                        <p>&nbsp;</p>"
+				},
+				"mode_not": [
+					{
+						"mode_no": "50",
+						"content1": "<div class=\"clearboth divider1\"></div>\n\t\t\t\t\t        <div class=\"centerText\"><span class=\"grayfontSmallSmall\">Last updated by pharmacist on  01/25/2016 at 03:07:am</span>\n\t\t\t\t\t        </div>",
+						"content2": "",
+						"buttons": [
+							{
+								"class": "linkGreen",
+								"title": "<span class=\"mbsc-ic mbsc-ic-ion-android-system-back mobi-icon-font36\"></span>Back",
+								"goto": "200"
+							}
+						]
+					}
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"color23\">Acetaminophen</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Acetaminophen is usually better for headaches compared with NSAIDS or others.&nbsp;</p>\n\t                                <p>It may be better to combine it with caffeine to help boost its effectiveness.<img alt=\"Woman with a headache\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/headache-lady2.svg\" class=\"img_style25\"></p>\n\t                                <p>Another advantage is that it won't tear up your stomach as with NSAIDS. Usually, when you have a headache, you just want to lie down somewhere. Doing this can cause heartburn after taking something like ibuprofen. If you are prone to heartburn, go with acetaminophen.</p>\n\t                                <p>&nbsp;</p>\n\t                                <p>&nbsp;</p>",
+						"mode": "1"
+					},
+					{
+						"title": "<span class=\"color19\">NSAIDs</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>These are anti-inflammatory pain relievers&nbsp;used to relieve headaches and other types of pain.<img alt=\"Lady with a headache\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/headache-lady3.svg\" class=\"img_style33\"></p>\n\t                                <h3><span class=\"color10\">First choice of NSAIDS:</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;&nbsp;&nbsp;&nbsp;&nbsp;</h3>\n\t                                <p><span style=\"font-size: 13px; line-height: 20.8px;\">Ibuprofen or buffered aspirin. Choose this if you can take it. See the 'know this' section to see who should not take it &nbsp;and the side effects to expect.</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</p>\n\t                                <h3><span class=\"color24\">Others:</span></h3>\n\t                                <p>Naproxen</p>\n\t                                <p>&nbsp;</p>\n\t                                <p>&nbsp;</p>",
+						"mode": "1"
+					},
+					{
+						"title": "<span class=\"color15\">&nbsp;Caffeine</span>&nbsp;+<span class=\"color6\"> Pain reliever</span> &nbsp;&nbsp;<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span style=\"font-size:16px;\"><strong>Acetaminophen + <span class=\"color15\">caffeine</span></strong></span>&nbsp;&nbsp;</p>\n\t                                <p><span style=\"line-height: 1.6em;\">This will provide quick relief for the head, neck and shoulder pain associated with most tension headaches.</span></p>\n\t                                <p>The caffeine helps boost the effectiveness of acetaminophen for the headache.<img alt=\"Lady with headache\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/headache-lady3.svg\" class=\"img_style26\"></p>\n\t                                <p>The only catch, try not to take this late in the night because of the caffeine. The amount in 2 capsules is equivalent to a cup of coffee.</p>\n\t                                <p>&nbsp;</p>",
+						"mode": "1"
+					},
+					{
+						"title": "<span class=\"color8\">Pain reliever</span> +<span class=\"color9\"> PM</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span style=\"font-size:16px;\"><strong><span class=\"color7\">Acetaminophen</span> <span class=\"color15\">PM</span></strong></span></p>\n\t                                <p>This is a good choice for a late night or at bedtime headaches.</p>\n\t                                <p>They contain diphenhydramine (Benadryl). The goal is to ease your headache while getting you some sleep.<img alt=\"Lady with headache\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/headache-lady4.svg\" class=\"img_style27\"></p>\n\t                                <p><span style=\"font-size:16px;\"><strong><span class=\"color11\">Ibuprofen</span> <span class=\"color15\">PM</span></strong></span></p>\n\t                                <p>This is a good choice if you also have body aches and other sore muscles with this headache.&nbsp;</p>\n\t                                <p>But do not take this if you get frequent heartburn or other stomach irritation problems. You will wake up bloated in the morning with a headache coming back soon after.</p>\n\t                                <p>&nbsp;</p>",
+						"mode": "1"
+					},
+					{
+						"title": "<span class=\"color3\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>1. If you are prone to tension headaches and anticipate coming down with one because of a stressful day or hectic activity, take acetaminophen or an NSAID before hand.</p>\n\t                                <p>2. If your tension headache is due to stress or anxiety. Take valerian with the headache medication before you go to sleep.<img alt=\"Man with ice bag over his head\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/icebag-man.svg\" class=\"img_style28\"></p>\n\t                                <p>3. Remember to rest with an ice bag over your forehead.</p>\n\t                                <p>&nbsp;</p>",
+						"mode": "1"
+					},
+					{
+						"title": "<span class=\"color11\">Acetaminophen</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Acetaminophen is a non-specific medication for a migraine.<img alt=\"Woman with headache holding tablets\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/holding-pills-lady.svg\" class=\"img_style29\"> That is it works on all kinds of headaches.&nbsp;</p>\n\t                                <p>You may want to take this in a combination form. Like combined with caffeine and aspirin.</p>\n\t                                <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"color16\">NSAIDS</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>These are anti-inflammatory pain relievers. They can be effective for headaches in general and are worth a try in migraine headaches.&nbsp;</p>\n\t                                <p>Ibuprofen and naproxen are good examples.&nbsp;</p>\n\t                                <p>Remember, over-the-counter medicines are no substitute for prescription migraine medicines. Those are more specific and work much better. You should only use OTC medicines in the absence of prescription migraine medicines. It is very necessary you treat your migraine immediately with the medicine prescribed by your physician.</p>\n\t                                <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"color25\">Worth Doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>We assume you know what your triggers are by now. If not, this is the first thing to do. Try including these in your migraine therapy. They should help.<img alt=\"Woman with migraine lying down\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/migraine-lady2.svg\" class=\"img_style34\"></p>\n\t                                <p>1. You must see a doctor for migraine headaches. Make sure you always have enough supply of your doctor's recommended medication on hand. It is hard enough to find which prescription medicine will work for you, when you find one, do your best to have it with you. Just a reminder, if a medicine prescribed is not working for you, call the doctor to try something else. Taking more won't make any difference.</p>\n\t                                <p>2. Keep a headache journal. It is important you know how you respond to migraine medicines. Which one worked best for you? What triggered it? How bad is this migraine? These are questions you need to know as time goes on.</p>\n\t                                <p>3. Know your triggers. Prevention is better than cure. Moreover, prescription migraine medications are not cheap. You need to be more focused on prevention and use those medicines only when you need them.</p>\n\t                                <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"color11\">NSAIDS</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Non-Steroidal Anti-inflammatory Drugs (NSAIDS) include ibuprofen, naproxen, aspirin. We recommend this for sinus pain and pressure. Most of the time, inflammation of the sinuses would lead to a headache. NSAIDS&nbsp;helps with the inflammation while working on the head pain.<img alt=\"Woman with sinus headache\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sinus-headache-lady2.svg\" class=\"img_style31\">&#8203;</p>\n\t                                <p>If this headache also includes severe sinus pressure, you will be better off adding pseudoephedrine to relieve the pressure. Good combinations are available behind the pharmacy counter. <span class=\"color11\">Ibuprofen + pseudoephedrine;</span> <span class=\"img_style16\">Naproxen + pseudoephedrine</span> are good examples. If the pharmacy is closed, a nasal spray with <span class=\"color3\">oxymetazoline</span> will help. But use this as a last resort.</p>\n\t                                <p>&nbsp;</p>",
+						"mode": "3"
+					},
+					{
+						"title": "<span class=\"color8\">Acetaminophen</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>We recommend acetaminophen if you can't take NSAIDS. If all you have is a headache, acetaminophen will be better. For instance a&nbsp;lingering headache after a sinus infection. In this case, acetaminophen will be appropriate.<img alt=\"Lady taking pills\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-taking-pills.svg\" class=\"img_style32\"></p>\n\t                                <p>If you cannot take NSAIDS and think acetaminophen will work better for you, we encourage you to combine it with pseudoephedrine which is available behind the pharmacy counter. This combination will be useful in a case of headache with sinus pain and pressure.</p>\n\t                                <p>&nbsp;</p>",
+						"mode": "3"
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 10,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightBlue\">\n                    Or if you have a question for the pharmacist?\n                </div>\n            </div>\n            <div class=\"grid_4\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 11,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen centerText\"> <span>No <span class=\"greenfont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	}
+}

@@ -1,0 +1,612 @@
+{
+	"12": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p><p>&nbsp;</p>",
+				"header_iregular": "<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>\n\t\t\t\t            <div class=\"maxwidth450\">\n\t\t\t\t                <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                    <span class=\"firstname orangefont\"> </span><br>\n\t\t\t\t                    Earache can be very painful. Let's do something.\n\t\t\t\t                </div>\n\t\t\t\t                <div align=\"right\">\n\t\t\t\t                    <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" width=\"100\" alt=\"Pharmacist\"> \n\t\t\t\t                </div>\n\t\t\t\t            </div>\n\t\t\t\t            <div class=\"clearboth divider1\"></div>\n\t\t\t\t            <br>\n\t\t\t\t            <!-----------------End Border right person------------------- -->\n\t\t\t\t            <div class=\"orangeBorderAll\">\n\t\t\t\t                <p>The first thing to do is get a warm moist cloth and apply over the ear that hurt.&nbsp;</p>\n\t\t\t\t                <p>When you have done that, see available over the counter earache medications below.</p>\n\t\t\t\t                <p>We will use this information to make a good decision on how to take care of this earache you are experiencing.</p>\n\t\t\t\t                <p>&nbsp;</p>\n\t\t\t\t                <hr class=\"hrorange\">\n\t\t\t\t                <p class=\"centerText\">\n\t\t\t\t                    <img src=\"assets/img/people/adult/ear/earache-recom.svg\" width=\"130\" alt=\"\">\n\t\t\t\t                </p>\n\t\t\t\t            </div>\n\t\t\t\t            <div class=\"clearboth divider1\"></div>\n\t\t\t\t            <br>",
+				"header": "<div class=\"maxwidth450\">\n\t\t\t\t                    <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                        <span class=\"redfont firstname\"> </span><br>\n\t\t\t\t                        Earache could be caused by different things, which of these listed below apply to you? \n\t\t\t\t                    </div>\n\t\t\t\t                    <div align=\"right\">\n\t\t\t\t                        <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" width=\"100\" alt=\"Pharmacist\"> \n\t\t\t\t                    </div>\n\t\t\t\t                </div>\n\t\t\t\t                <div class=\"clearboth divider1\"></div>\n\t\t\t\t                <br>\n<div class=\"centerText\">\n\t\t\t\t                    <p>\n\t\t\t\t                        <img src=\"assets/img/people/adult/ear/earache-recom.svg\" width=\"100\" alt=\"Lady holding her ear\">\n\t\t\t\t                    </p>\n\t\t\t\t                    <hr class=\"hrorange\">\n\t\t\t\t                    <p> Choose your symptoms from the list below and see what is recommended. </p>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>\n\t\t\t\t                </div>",
+				"startpage": -1,
+				"fieldset": [
+					"Earache is as a result or cold or allergy.",
+					"I suspect a ruptured ear drum ",
+					"Started after a toothache",
+					"A result of water in the ear.",
+					"Ear is swollen inside or outside",
+					"Ear canal is itching and getting painful.",
+					"I also have fever",
+					"I also have a sore throat",
+					"Like pressure/fluid in the ear. Yawning or coughing cannot get rid of it.",
+					"Fluid is also draining from the ear.",
+					"<span class=\"greenfont\">Prevention only</span>",
+					"<span class=\"orangefont\">None of these</span>"
+				],
+				"fieldspecial": [10, 10, 11],
+				"mode": {
+					"1": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> <span class=\"redfont\">None of these?</span><br>\n\t\t\t\t                            We must have left something out. \n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\"></div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth\"></div>",
+					"2": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            Something to <span class=\"orangefont\">prevent?</span>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\">\n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"3": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span class=\"orangefont\">Ruptured ear drum?</span> You should go to the nearest urgent care or emergency room. \n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\">\n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <br>",
+					"4": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span class=\"purplefont\">All of these?</span><br>\n\t\t\t\t                            You must have this earache really bad. \n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth\"></div>\n\t\t\t\t                    <!-----------------End Border right person------------------- -->\n\t\t\t\t                    <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                    <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                    <p>&nbsp;</p>",
+					"5": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Selection require a <span class=\"purplefont\">pain reliever.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"6": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Selection require  <span class=\"purplefont\">soothing ear drops.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"7": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Selection require a <span class=\"purplefont\">decongestant.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"8": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Selection require  a <span class=\"purplefont\">warm compress.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"9": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Selection require you to  <span class=\"purplefont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"10": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">pain reliever</span> and <span class=\"redfont\">soothing ear drops.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"11": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">pain reliever</span> and a <span class=\"redfont\">decongestant</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"12": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">pain reliever</span> and <span class=\"redfont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"13": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">pain reliever</span> and you should  <span class=\"redfont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"14": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require  <span class=\"purplefont\">soothing ear drops</span> and a <span class=\"redfont\">decongestant</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"15": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require  <span class=\"purplefont\">soothing ear drops</span> and a <span class=\"redfont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"16": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require  <span class=\"purplefont\">soothing ear drops</span> and you should <span class=\"redfont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"17": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">decongestant</span> and a <span class=\"redfont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"18": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">decongestant</span> and you should <span class=\"redfont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"19": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require  <span class=\"purplefont\">warm compress</span> and you should go to the <span class=\"redfont\">nearest urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"20": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purplefont\">soothing ear drops</span> and a <span class=\"bluefont\">decongestant.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"21": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purplefont\">soothing ear drops</span> and a <span class=\"bluefont\">warm compress.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"22": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purplefont\">soothing ear drops</span> and  go to the <span class=\"bluefont\">nearest urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"23": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purplefont\">decongestant</span> and a <span class=\"bluefont\">warm compress.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"24": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purplefont\">decongestant</span> and  <span class=\"bluefont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"25": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"26": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">soothing ear drops</span>, <span class=\"purplefont\">decongestant</span> and a <span class=\"bluefont\">warm compress.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"27": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">soothing ear drops</span>, <span class=\"purplefont\">decongestant</span> and  <span class=\"bluefont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"28": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">soothing ear drops</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"29": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">decongestant</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"30": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purplefont\">soothing ear drops</span>, <span class=\"purplefont\">decongestant</span> and a <span class=\"bluefont\">warm compress.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"31": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purplefont\">soothing ear drops</span>, <span class=\"purplefont\">decongestant</span> and  <span class=\"bluefont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"32": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purplefont\">soothing ear drops</span>, <span class=\"purplefont\">warm compress</span> and  go to the <span class=\"bluefont\">nearest urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"33": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purplefont\">decongestant</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"34": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">soothing ear drops</span>, <span class=\"purplefont\">decongestant</span>, <span class=\"purplefont\">warm compress</span> and  go to the <span class=\"bluefont\">nearest urgent care</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"35": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightOrange centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">pain reliever</span>, <span class=\"purple_redfont\">soothing ear drops</span>, <span class=\"purplefont\">decongestant</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek urgent care.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"50": "<div class=\"grid_9\">\n\t\t\t\t                        <div class=\"bubbleRightPurple_red\" id=\"selected_adult_recom_earache_mobile_q1 centerText\">\n\t\t\t\t                        \t<span class=\"redfontLarge\">Oops!,</span> You told me nothing\n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"grid_3\"> \n\t\t\t\t                        <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-alicia-orange.svg\" width=\"80\" align=\"right\">\n\t\t\t\t                    </div>"
+				},
+				"mode_not": [
+					{
+						"mode_no": "50",
+						"content1": "<div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <div class=\"centerText\">\n\t\t\t\t                        <span class=\"grayfontSmallSmall\">Last updated by pharmacist on  02/16/2016 </span>\n\t\t\t\t                    </div>",
+						"content2": "",
+						"buttons": [
+							{
+								"class": "linkGreen",
+								"title": "<span class=\"mbsc-ic mbsc-ic-ion-android-system-back mobi-icon-font36\"></span>Back",
+								"goto": "200"
+							}
+						]
+					}
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"color10\">Pain relievers</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color29\">NSAIDs</span></p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">You will start with non-steroidal anti-inflammatory drugs</p>\n\t\t\t\t                    <p><img alt=\"Lady taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine.svg\" class=\"img_style53\"></p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">&nbsp;if you can take something like ibuprofen or naproxen which are good examples.</p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">This would help with&nbsp;any swelling that is typical of earaches and ear pain. Most of the time, an inflammation is causing the ear pain.</p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color28\">Acetaminophen</span></p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">This is the second choice if you cannot take ibuprofen or naproxen.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color3\">Hemoepathic eardrops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color52\">Hylands,</span>&nbsp;<span class=\"color29\">Similasan</span>&nbsp;or store brands.</p>\n\t\t\t\t                    <p><img alt=\"Eardrop bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/eardrops-bottle.svg\" class=\"img_style54\"></p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">These eardrops should temporarily relieve ear pain and congestion or at a minimum soothe the ear.</p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">We recommend you add an oral anti-inflammatory pain reliever to this if you want &nbsp;to sleep at night.</p>\n\t\t\t\t                    <p>&nbsp;</p>\n\t\t\t\t                    <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color11\">Warming soothing oils</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color28\">Olive/sweet oil</span>,&nbsp;<span class=\"color29\">mullein/garlic oil</span>,&nbsp;<span style=\"color: rgb(0, 100, 0);\">tea tree oil</span>.</p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">Use any of these if the ear is not draining pus.&nbsp;</p>\n\t\t\t\t                    <p><img alt=\"Bottle of weet oil\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sweet-oil.svg\" class=\"img_style55\"></p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">We recommend starting with sweet oil or olive oil. Don't go looking for sweet oil at the pharmacy. Get olive oil, warm it up and put 2 to 3 drops in the affected ear(s). Make sure you heat the olive oil by putting it in a container and putting the container in hot water or running it under hot water. Test the temperature on the forearm and apply the drops.</p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color44\">Warning.</span>&nbsp;Stay away from these if an earache is caused by swimming or water in the ear. It will make it worse. The oil will just be floating on the water. You will need drying agents for this situation.</p>\n\t\t\t\t                    <p>&nbsp;</p>\n\t\t\t\t                    <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "\"<span class=\\\"bluefont\\\">Preventive measures</span><span class=\\\"ui-collapsible-heading-status\\\"> click to collapse contents</span>\"",
+						"content": "<br><p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"purplefont\">Pain Reliever</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color29\">NSAIDs</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">You will start with non-steroidal anti-inflammatory drugs if you can take something like ibuprofen or naproxen which are good examples.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">This would help with&nbsp;any swelling which is typical of earaches and ear pain. Most of the time, an inflammation is causing the ear pain.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color28\">Acetaminophen</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">This is the second choice if you cannot take ibuprofen or naproxen.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode": "5,10,11,12,13,20,21,22,23,24,25,30,31,32,33,35"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Soothing ear drops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p class=\"span5\"><span class=\"span6\">Olive/sweet oil</span>,&nbsp;<span class=\"span9\">mullein/garlic oil</span>,&nbsp;<span class=\"span7\">tea tree oil</span>.</p>\n\t\t\t\t                        <p class=\"span5\">Use any of these if the ear is not draining pus. We recommend starting with sweet oil or olive oil. Don't go looking for sweet oil at the pharmacy. Get olive oil, warm it up and put 2 to 3 drops in the affected ear(s). Make sure you heat the olive oil by putting it in a container and putting the container in hot water or running it under hot water. Test the temperature on the forearm and apply the drops.</p>\n\t\t\t\t                        <p class=\"span5\"><span class=\"span8\">Warning.</span>&nbsp;Stay away from these if an earache is caused by swimming or water in the ear. It will make it worse. The oil will just be floating on the water. You will need drying agents for this situation.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color52\">Hylands,</span>&nbsp;<span class=\"color29\">Similasan</span>&nbsp;or store brands.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">These eardrops should temporarily relieve ear pain and congestion or at a minimum soothe the ear.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">We recommend you add an oral anti-inflammatory pain reliever to this if you want &nbsp;to sleep at night.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode": "6,10,14,15,16,20,21,22,26,27,28,30,31,32,34,35"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Decongestants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">This will be useful if an earache is due to sinus pain and pressure or resulted from a cold or allergy.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Get pseudoephedrine. Ask for this at the pharmacy counter.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode": "7,11,14,17,18,20,23,24,26,27,29,30,31,33,34,35"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Warm Compress</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span style=\"font-size: 13px; line-height: 20.8px;\">This should help with the inflammatory pain and ease congestion in the affected ear.</span></p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode": "8,12,15,17,19,21,23,25,26,28,29,30,32,33,34,35"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Urgent Care Clinic</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Please go to the nearest urgent care clinic. Nothing over-the-counter will take care of this.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode": "9,13,16,18,19,22,24,25,27,28,29,31,32,33,34,35"
+					},
+					{
+						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
+						"mode_above": "3"
+					}
+				],
+				"irregular": {
+					"page": -1,
+					"content": "<p>&nbsp;</p>\n\t\t\t\t            <p class=\"redBorderAll centerText\">Let's use this information to choose a good over-the -counter remedy.</p>",
+					"button": {
+						"title": "Continue",
+						"goto": 0
+					}
+				}
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightOrange centerText\"> <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-melissa-orange.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 10,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <span class=\"orangefont\"> \"If a patient presents with these symptoms, what will you recommend and why?\"</span><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice. \n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>\n                        Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. \n                    </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightOrange centerText\"> <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightOrange\"> Or if you have a question for the pharmacist? </div>\n            </div>\n            <div class=\"grid_4\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-melissa-orange.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 11,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightOrange centerText\"> <span>No <span class=\"bluefont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-melissa-orange.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"13": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p><p>&nbsp;</p>",
+				"header_iregular": "<p>&nbsp;</p>\n\t\t\t\t            <div class=\"maxwidth450\">\n\t\t\t\t                <div class=\"ovalBorderRightRed centerText\"> \n\t\t\t\t                    <span class=\"firstname redfont\"> </span><br>\n\t\t\t\t                    Swimmer's ear is an infection. You will have to see a doctor.\n\t\t\t\t                </div>\n\t\t\t\t                <div align=\"right\">\n\t\t\t\t                    <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 100px;\" alt=\"Pharmacist\"> \n\t\t\t\t                </div>\n\t\t\t\t            </div>\n\t\t\t\t            <div class=\"clearboth divider1\"></div>\n\t\t\t\t            <br>\n\t\t\t\t            <!-----------------End Border right person------------------- -->\n\t\t\t\t            <div class=\"orangeBorderAll\">\n\t\t\t\t                <p>The goal of taking care of swimmer's ear infection&nbsp;is to:</p>\n\t\t\t\t                <ul>\n\t\t\t\t                    <li>clear the ear canal of accumulated debris,</li>\n\t\t\t\t                    <li>make the infection go away usually with antibiotics,</li>\n\t\t\t\t                    <li>reduce the inflammation,</li>\n\t\t\t\t                    <li>take some pain relievers&nbsp;and</li>\n\t\t\t\t                    <li>keep the ear canal dry.&nbsp;</li>\n\t\t\t\t                </ul>\n\t\t\t\t                <p>No antibiotics or ear drops for inflammation over-the-counter</p>\n\t\t\t\t                <p>And removal of the debris is to be done by a healthcare professional.</p>\n\t\t\t\t                <p><span style=\"line-height: 1.6em;\">The only thing you can do that is available over-the-counter until you can see a doctor are listed below.</span></p>\n\t\t\t\t                <p>We can use these to work out a relief for this swimmer's ear infection.</p>\n\t\t\t\t                <hr class=\"hrpink\">\n\t\t\t\t                <p class=\"centerText\">\n\t\t\t\t                    <img src=\"assets/img/people/adult/ear/swimear-recom.svg\" style=\"width: 120px;\" alt=\"Lady holding her ear\">\n\t\t\t\t                </p>\n\t\t\t\t            </div>\n\t\t\t\t            <div class=\"clearboth divider1\"></div>\n\t\t\t\t            <br> ",
+				"header": "<div class=\"maxwidth450\">\n\t\t\t\t                    <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                        <span class=\"redfont firstname\"> </span><br>\n\t\t\t\t                        Which of the <span class=\"greenfont\">symptoms</span> listed below are you <span class=\"purple_redfont\">experiencing</span> right now? \n\t\t\t\t                    </div>\n\t\t\t\t                    <div align=\"right\">\n\t\t\t\t                        <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 100px;\" alt=\"Pharmacist\"> \n\t\t\t\t                    </div>\n\t\t\t\t                </div>\n\t\t\t\t                <div class=\"clearboth divider1\"></div>\n\t\t\t\t                <br>\n<div class=\"centerText\">\n\t\t\t\t                    <p>\n\t\t\t\t                        <img src=\"assets/img/people/adult/ear/swimear-recom.svg\" style=\"width: 100px;\" alt=\"Lady holding her ear\">\n\t\t\t\t                    </p>\n\t\t\t\t                    <hr class=\"hrpink\">\n\t\t\t\t                    <p> Choose your symptoms from the list below and see what is recommended. </p>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>\n\t\t\t\t                </div>",
+				"startpage": -1,
+				"fieldset": [
+					"I think I am looking at a ruptured eardrum.",
+					"Pus is draining from the ear. ",
+					"Ear is getting painful.",
+					"Fluid or water in my ear.",
+					"Ear appear red and swollen.",
+					"I also have fever",
+					"Hearing is muffled and reduced.",
+					"Ear canal is very itchy.",
+					"<span class=\"greenfont\">Prevention only</span> ",
+					"<span class=\"orangefont\">None of these</span>"
+				],
+				"fieldspecial": [8, 8, 9],
+				"mode": {
+					"1": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> <span class=\"redfont\">None of these?</span><br>\n\t\t\t\t                            We must have left something out. \n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\"></div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth\"></div>\n\t\t\t\t                    <!-----------------End Border right person------------------- -->\n\t\t\t\t                    <p><span style=\"font-size: 13px; line-height: 20.8px;\">Please choose what you think closely relates to what you are experiencing and see what is recommended.</span></p>",
+					"2": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            Something to <span class=\"orangefont\">prevent?</span>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\">\n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"3": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span class=\"purplefont\">All of these?</span><br>\n\t\t\t\t                            You must have this swimear really bad. \n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth\"></div><p>&nbsp;</p>",
+					"4": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span class=\"redfont\">Ruptured eardrum?</span><br>\n\t\t\t\t                            You should seek the nearest urgent care or go to the emergency room. \n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth\"></div>\n\t\t\t\t                    <!-----------------End Border right person------------------- -->\n\t\t\t\t                    <p><span style=\"font-size: 13px; line-height: 20.8px;\">You should take the child to the nearest children's urgent care clinic.</span></p>\n\t\t\t\t                    <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                    <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                    <p>&nbsp;</p>",
+					"5": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Selection require a <span class=\"purplefont\">drying or soothing ear drops</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"6": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Selection require an <span class=\"purplefont\">anti-inflammatory pain reliever.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"7": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Selection require an <span class=\"purplefont\">antihistamine.</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"8": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Selection require a <span class=\"purplefont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"9": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Selection require you to <span class=\"purplefont\">seek urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"10": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">drying or soothing ear drops</span> and <span class=\"redfont\">anti-inflammatory pain reliever</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"11": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">drying or soothing ear drops</span> and <span class=\"redfont\">antihistamine</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"12": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">drying or soothing ear drops</span> and <span class=\"redfont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"13": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">drying or soothing ear drops</span> and <span class=\"redfont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"14": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">anti-inflammatory pain reliever</span> and <span class=\"redfont\">antihistamine</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"15": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">anti-inflammatory pain reliever</span> and <span class=\"redfont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"16": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">anti-inflammatory pain reliever</span> and <span class=\"redfont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"17": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">antihistamine</span> and <span class=\"redfont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"18": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require an <span class=\"purplefont\">antihistamine</span> and <span class=\"redfont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"19": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require a <span class=\"purplefont\">warm compress</span> and <span class=\"redfont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"20": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purplefont\">anti-inflammatory pain reliever</span> and a <span class=\"bluefont\">antihistamine</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"21": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purplefont\">anti-inflammatory pain reliever</span> and a <span class=\"bluefont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"22": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purplefont\">anti-inflammatory pain reliever</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"23": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purplefont\">antihistamine</span> and a <span class=\"bluefont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"24": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purplefont\">antihistamine</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"25": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"26": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">anti-inflammatory pain reliever</span>, <span class=\"purplefont\">antihistamine</span> and a <span class=\"bluefont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"27": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">anti-inflammatory pain reliever</span>, <span class=\"purplefont\">antihistamine</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"28": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">anti-inflammatory pain reliever</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"29": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">antihistamine</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"30": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purplefont\">anti-inflammatory pain reliever</span>, <span class=\"purplefont\">antihistamine</span> and a <span class=\"bluefont\">warm compress</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"31": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purplefont\">anti-inflammatory pain reliever</span>, <span class=\"purplefont\">antihistamine</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"32": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purplefont\">anti-inflammatory pain reliever</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"33": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purplefont\">antihistamine</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"34": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">anti-inflammatory pain reliever</span>, <span class=\"purplefont\">antihistamine</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"35": "<div class=\"maxwidth450\">\n\t\t\t\t                        <div class=\"ovalBorderRightPurple_red centerText\"> \n\t\t\t\t                            <span>Symptoms require <span class=\"purple_redfont\">drying or soothing ear drops</span>, <span class=\"purple_redfont\">anti-inflammatory pain reliever</span>, <span class=\"purplefont\">antihistamine</span>, <span class=\"purplefont\">warm compress</span> and  <span class=\"bluefont\">seek an urgent care clinic</span></span><br>\n\t\t\t\t                        </div>\n\t\t\t\t                        <div align=\"right\">\n\t\t\t\t                            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 70px;\" alt=\"Pharmacist\"> \n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <p>&nbsp;</p>",
+					"50": "<div class=\"grid_9\">\n\t\t\t\t                        <div class=\"bubbleRightPurple_red\" id=\"selected_adult_recom_swimear_mobile_q1 centerText\">\n\t\t\t\t                        \t<span class=\"redfontLarge\">Oops!,</span>You told me nothing\n\t\t\t\t                        </div>\n\t\t\t\t                    </div>\n\t\t\t\t                    <div class=\"grid_3\"> \n\t\t\t\t                        <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-red.svg\" style=\"width: 80px;\" align=\"right\">\n\t\t\t\t                    </div>"
+				},
+				"mode_not": [
+					{
+						"mode_no": "50",
+						"content1": "<div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <div class=\"centerText\">\n\t\t\t\t                        <span class=\"grayfontSmallSmall\">Last updated by pharmacist on  02/16/2016 </span>\n\t\t\t\t                    </div>",
+						"content2": "",
+						"buttons": [
+							{
+								"class": "linkBlue",
+								"title": "<span class=\"mbsc-ic mbsc-ic-ion-android-system-back mobi-icon-font36\"></span>Back",
+								"goto": "200"
+							}
+						]
+					}
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"color26\">Drying ear drops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>To&nbsp;keep the ear canal dry.<img alt=\"Ear drops bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/eardrops-bottle.svg\" class=\"img_style54\">&nbsp;</p>\n\t\t\t\t                    <p>These ear drops evaporate excess water in the ear and prevent the growth of bacteria and fungi in the ear canal. A mixture of half rubbing alcohol and half white vinegar should do the trick.</p>\n\t\t\t\t                    <p>We recommend buying ear drops for swimmer's ear over-the-counter. These have other things mixed with them like boric acid.</p>\n\t\t\t\t                    <p>Be sure to do this only if the eardrum is not ruptured or you don't use any ear tubes.</p>\n\t\t\t\t                    <p>&nbsp;</p>\n\t\t\t\t                    <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color10\">Pain relievers</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Naproxen, ibuprofen for ear pain and inflammation.</p>\n\t\t\t\t                    <p><img alt=\"Lady taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine2.svg\" class=\"img_style56\"></p>\n\t\t\t\t                    <p>&nbsp;These are anti-inflammatory pain relievers that will be useful in case of any swelling or preventing swelling in the ear canal.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color3\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>To reduce itching in the ear canal. Take an antihistamine if the ear is very itchy.<img alt=\"Woman taking her medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine3.svg\" class=\"img_style57\"></p>\n\t\t\t\t                    <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
+						"content": "<br>\n\t\t\t\t                            <p style=\"font-size: 13px; line-height: 20.8px;\">1. Get in the habit of using a drying ear drop after swimming.</p>\n\t\t\t\t                            <p style=\"font-size: 13px; line-height: 20.8px;\">2. A blow dryer set on low is helpful to dry out water after swimming.</p>\n\t\t\t\t                            <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                            <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                            <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"purplefont\">Ear Drops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">To&nbsp;keep the ear canal dry.<img alt=\"Ear drops bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/eardrops-bottle.svg\" class=\"img_style54\">&nbsp;</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">These ear drops evaporate excess water in the ear and prevent the growth of bacteria and fungi in the ear canal. A mixture of half rubbing alcohol and half white vinegar should do the trick.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">We recommend buying ear drops for swimmer's ear over-the-counter. These have other things mixed with them like boric acid.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Be sure to do this only if the eardrum is not ruptured or your child does not use&nbsp;ear tubes.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode": "5,10,11,12,13,20,21,22,23,24,25,30,31,32,33,35"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Pain Reliever</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">Naproxen, ibuprofen for ear pain and inflammation.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><img alt=\"Lady taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine2.svg\" class=\"img_style56\"></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">&nbsp;These are anti-inflammatory pain relievers that will be useful in case of any swelling or preventing swelling in the ear canal.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode": "6,10,14,15,16,20,21,22,26,27,28,30,31,33,34,35"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">To reduce itching in the ear canal.&nbsp;</p>\n\t\t\t\t                        <p><img alt=\"Woman taking her medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine3.svg\" class=\"img_style58\"><span style=\"font-size: 13px; line-height: 1.6em;\">Take an antihistamine if the ear is very itchy.</span></p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode": "7,11,14,17,18,20,23,24,26,27,29,30,31,33,34,35"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Warm Compress</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>A warm compress should provide temporary relief from the pain and inflammation.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode": "8,12,15,17,19,21,23,25,26,28,29,30,32,34,35"
+					},
+					{
+						"title": "<span class=\"purple_redfont\">Seek Urgent Care</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You should go the nearest urgent care clinic for this. It is going to get worse.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode": "9,13,16,18,19,22,24,25,27,28,29,30,32,33,34,35"
+					},
+					{
+						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">1. Get in the habit of using a drying ear drop after swimming.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">2. A blow dryer set on low is helpful to dry out water after swimming.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
+						"mode_above": "2"
+					}
+				],
+				"irregular": {
+					"page": -1,
+					"content": "<div class=\"clearboth divider1\"></div>\n\t\t\t\t            <p class=\"grayfontSmallSmall centerText\">\n\t\t\t\t                Last updated by pharmacist on : \n\t\t\t\t                02/16/2016 at 09:28:am          \n\t\t\t\t            </p>\n\t\t\t\t            <div class=\"clearboth divider1\"></div>",
+					"button": {
+						"title": "Continue",
+						"goto": 0
+					}
+				}
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightPurple_red centerText\">\n            <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-pink.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 9,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightPurple_red centerText\">\n            <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightPurple_red\">\n                    Or if you have a question for the pharmacist?\n                </div>\n            </div>\n            <div class=\"grid_4\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-pink.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 10,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightPurple_red centerText\"> <span>No <span class=\"bluefont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-pink.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div><div class=\"clearboth divider1\"></div>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"14": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n",
+				"header_iregular": "<p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen centerText\"> \n            <span class=\"firstname purplefont\"> </span><br>\n            Let's see what is available over-the-counter to get rid of ear wax.\n        </div>\n        <div align=\"right\">\n            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-hailey-teal.svg\" width=\"100\" alt=\"Pharmacist\"> \n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>\n    <!-----------------End Border right person------------------- -->\n    <div class=\"greenBorderAll\">\n        <p>Before getting rid of ear wax yourself, you must make sure you do not have a perforated (punctured) eardrum.</p>\n        <p>This can lead to middle ear infection.</p>\n        <p>If you are not sure, then seek doctor visit to get rid of the ear wax.</p>\n        <p>The goal of over-the-counter ear wax removal drops is to gradually soften the wax allowing you to flush it out with a bulb of water.</p>\n        <p>Let's take a look at what can achieve this objective by answering a few questions.</p>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <p>&nbsp;</p>",
+				"header": "<div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen shadowRight centerText\"> \n            <span>Are you looking for a <span class=\"orangefont\">one time</span> process of removing ear wax?</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-hailey-teal.svg\" width=\"80\" alt=\"Pharmacist\"> \n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person--------------------->\n    <div class=\"orangeBorderAll\">\n        <p>May be you just want to get it over with.</p>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <p>&nbsp;</p>",
+				"startpage": -1,
+				"fieldset": [
+				],
+				"fieldspecial": [],
+				"mode": {
+				},
+				"mode_not": [
+				],
+				"collapsable": [
+					
+				],
+				"irregular": {
+					"page": -1,
+					"content": "",
+					"button": {
+						"title": "Continue",
+						"goto": 0
+					}
+				}
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen centerText\">\n            <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-peter-teal.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 7,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen centerText\">\n            <span> What if you are currently <span class=\"orangefont\">experiencing</span> any of the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightGreen\">\n                    Or if you have a question for the pharmacist?\n                </div>\n            </div>\n            <div class=\"grid_4\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-peter-teal.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 8,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen centerText\"> <span>No <span class=\"greenfont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-peter-teal.svg\" width=\"80\" alt=\"Article photo\"></div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"15": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n",
+				"header_iregular": "<div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightOrange centerText\"> \n            <span class=\"firstname orangefont\"> </span><br>\n            Motion sickness is better prevented than treated. Let's see how we can help.\n        </div>\n        <div align=\"right\">\n            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-orange.svg\" width=\"100\" alt=\"Pharmacist\"> \n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>\n    <!-----------------End Border right person------------------- -->\n    <div class=\"orangeBorderAll\">\n        <p>Over-the-counter motion sickness medications are usually antihistamines.</p>\n        <p>Some will cause drowsiness. So we have to figure out what will work best for your situation.</p>\n        <p>Let's take a look at &nbsp;available over-the-counter medications or options for motion sickness.</p>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"header": "",
+				"startpage": -1,
+				"fieldset": [],
+				"fieldspecial": [],
+				"mode": {
+				
+				},
+				"mode_not": [
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"color3\">Antihistamines</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">This is the main medication&nbsp;available over-the-counter to help with motion sickness.</p>\n            <p style=\"font-size: 13px; line-height: 20.8px;\">Examples are meclizine, dimenhydrinate and diphenhydramine. The non-sedating antihistamines are not effective for motion sickness. So stay away from loratadine, cetirizine or fexofenadine.</p>\n            <p style=\"font-size: 13px; line-height: 20.8px;\">Choose meclizine if drowsiness is a concern for you. It is the least drowsy of the group.</p>\n            <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color53\">Acupressure / Magnets</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\"><span style=\"font-size: 12px;\"><span class=\"span10\">These are knitted elasticated wrist band, which operates by applying pressure on the Nei Kuan acupressure point on each wrist by means of a plastic stud. A good example is sea band.</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</p>\n            <p style=\"font-size: 13px; line-height: 20.8px;\">Follow the package directions to be sure they work properly and use on both wrists is highly recommended for adequate effect.</p>\n            <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color15\">Ginger Gum</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">Ginger gum will help with the nausea of motion sickness for some people. It is worth trying.</p>\n            <p style=\"font-size: 13px; line-height: 20.8px;\">Look for a product that will provide 25 mg of ginger oil or 8 g of fresh ginger root per gum.</p>\n            <p>&nbsp;</p>",
+						"mode": "-1"
+					}
+				],
+				"irregular": {
+					"page": -1,
+					"content": "<div class=\"clearboth divider1\"></div>\n    <p class=\"grayfontSmallSmall centerText\">\n        Last updated by pharmacist on : \n        02/16/2016 at 10:50:am          \n    </p>"				
+				}
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightOrange centerText\"> <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-orange.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 10,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <span class=\"orangefont\"> \"If a patient presents with these symptoms, what will you recommend and why?\"</span><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice. \n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>\n                        Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. \n                    </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightOrange centerText\"> <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightOrange\"> Or if you have a question for the pharmacist? </div>\n            </div>\n            <div class=\"grid_4\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-orange.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 11,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightOrange centerText\"> <span>No <span class=\"bluefont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-orange.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	}
+}

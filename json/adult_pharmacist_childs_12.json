@@ -1,0 +1,468 @@
+{
+	"48": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n",
+				"header_iregular": "<div class=\"maxwidth450\">\n         <div class=\"ovalBorderRightBlue centerText\"> \n            <span class=\"firstname purple_redfont\"> </span><br>\n            Let's figure out the best way to take care of this period pain.\n         </div>\n         <div align=\"right\">\n            <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-selena-cyan.svg\" width=\"100\" alt=\"Pharmacist\"> \n         </div>\n      </div>\n      <div class=\"clearboth divider1\"></div>\n      <br>\n      <!-----------------End Border right person------------------- -->\n      <div class=\"blueBorderAll\">\n         <p>The approach would be to use an anti inflammatory pain reliever to not only reduce the pain, but reduce the amount of bleeding.</p>\n         <p>It is always better to take the pills day before the period starts to prevent the pain from building up.</p>\n         <p>With this approach in mind, see what is recommended below.</p>\n         <hr class=\"hrblue\">\n         <p class=\"centerText\">\n            <img src=\"assets/img/people/adult/pelvic/menstrual-lady2.svg\" width=\"150\" alt=\"Lady holding her stomach in pain\">\n         </p>\n      </div>\n      <div class=\"clearboth divider1\"></div>\n      <br>",
+				"header": "",
+				"startpage": -1,
+				"fieldset": [],
+				"fieldspecial": [],
+				"mode": {
+				
+				},
+				"mode_not": [
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"color8\">Relieving Pain</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color3\">Non-steroidal anti-inflammatory drugs <strong>(NSAIDs):&nbsp;</strong></span></p>\n            <p>Start taking this the day before your period &nbsp;starts, and continue for the first few days of the period.</p>\n            <p>Take the tablets regularly, for 2-3 days each period,<img alt=\"Lady taking pills\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-taking-pill.svg\" class=\"img_style71\"> rather than 'now and then' when pain builds up&nbsp;<span style=\"font-size:12px;\"><em>(taking as-needed use is not adequate </em></span><span style=\"font-size:14px;\"><em><span style=\"font-size:12px;\">for</span></em></span><span style=\"font-size:12px;\"><em> most people).</em></span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>If taken early and in prescription strength (see \"<span class=\"color9\">know this</span>\" for dosing), they are extremely successful in alleviating menstrual pain.</p>\n            <p>A good example is ibuprofen, naproxen, aspirin.</p>\n            <p>&nbsp;</p>\n            <p><strong><span class=\"color8\">Can't take</span> <span class=\"color3\">NSAIDS?</span>&nbsp;</strong>&nbsp;&nbsp;&nbsp;</p>\n            <p>Take&nbsp;a combination pill of <em>Acetaminophen 500 mg</em> (Pain reliever), <em>Pamabrom 25mg </em>(diuretic), <em>Pyrilamine maleate 15 mg&nbsp;</em>(antihistamine), C<em>affeine.</em>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p><span style=\"font-size:12px;\"><em>Examples are Midol®, Pamprin®,&nbsp;Premsyn PMS.&nbsp;</em></span>&nbsp;&nbsp;</p>\n            <p>These are useful if you experience significant <span class=\"color3\">bloating,</span>&nbsp;<span class=\"color11\">headache</span>&nbsp;and <span class=\"color58\">water retention.</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>Take midol® if the main thing is a <span class=\"color7\">headache.</span></p>\n            <p>Take Pamprin® if the main concern is <span class=\"color5\">feeling bloated.</span></p>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color55\">Bloated? headaches?</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Midol if mainly <span class=\"color3\">headaches.<img alt=\"Woman holding pills\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/holding-pills-lady.svg\" class=\"img_style38\"></span></p>\n            <p>Pamprin if mainly <span class=\"color11\">bloating.</span></p>\n            <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color7\">Worth trying</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "            <ul>\n               <li>Apply a heating pad to your lower belly area, below the belly button.<img alt=\"Woman with hot water bottle on pelvic area\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/waterbottle-lady2.svg\" class=\"img_style88\"><br>\n                  &nbsp;\n               </li>\n               <li>Take warm showers or baths.<br>\n                  &nbsp;\n               </li>\n               <li>Keep your legs raised while lying down.<br>\n                  &nbsp;\n               </li>\n               <li>Lie on the side with your knees bent.<br>\n                  &nbsp;\n               </li>\n               <li>Do light circular massage with your fingertips around your lower belly area.<br>\n                  &nbsp;\n               </li>\n               <li>Do low-fat vegetarian diet at least for now.<br>\n                  &nbsp;\n               </li>\n               <li>Cut back on salt to help prevent water retention.<br>\n                  <br>\n                  Water retention can lead to breast tenderness; swelling of your feet, ankles, and hands; and headaches.<br>\n                  &nbsp;\n               </li>\n               <li>Try vitamin B6, calcium, and magnesium supplements.<br>\n                  &nbsp;\n               </li>\n               <li>Now is a good time to take fish oil.</li>\n            </ul>\n            <p>&nbsp;</p>",
+						"mode": "-1"
+					}
+				],
+				"irregular": {
+					"page": -1,
+					"content": "<div class=\"clearboth divider1\"></div>\n      <p class=\"grayfontSmallSmall centerText\">\n         Last updated by pharmacist on : \n         02/06/2016 \n      </p>"
+				}
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 10,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightBlue\">\n                    Or if you have a question for the pharmacist?\n                </div>\n            </div>\n            <div class=\"grid_4\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 11,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen centerText\"> <span>No <span class=\"greenfont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"49": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n",
+				"header": "<div class=\"maxwidth450\">\n      <div class=\"ovalBorderRightBlue centerText\"> \n         <span class=\"bluefont firstname\"> </span><br>\n         Let's see how to take care of this insect bite.\n      </div>\n      <div align=\"right\">\n         <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"100\" alt=\"Pharmacist\"> \n      </div>\n   </div>\n   <div class=\"clearboth divider1\"></div>\n   <br>\n   <!-----------------End Border right person------------------- -->\n   <div class=\"blueBorderAll\">\n      <p>Know that we are talking about insect bites and stings that caused a mild reaction confined to the area of the bite.</p>\n      <p><span style=\"font-size:14px;\"><span class=\"color8\">If you are having a severe reaction to the insect bite, seek emergency room visit.</span></span></p>\n      <p>Since most insect bites cause itching and swelling, we will take a look at what is available over the counter to take care of this.</p>\n      <p>We will also figure out what to do in case there are other symptoms like pain or blisters.</p>\n      <p>With this in mind, use the search field below to search for an insect and&nbsp;see what is available over the counter to take care of&nbsp;the bites.</p>\n      <hr class=\"hrblue\">\n      <p class=\"centerText\">\n         <img src=\"assets/img/people/adult/skin/insect-bites-lady2.svg\" width=\"130\" alt=\"Lady scratching her hand\">\n      </p>\n   </div>\n   <div class=\"clearboth divider1\"></div>\n   ",
+				"ullist": [
+					{
+						"text": "<img src=\"assets/img/illustration/insects/bedbug.svg\" alt=\"bed bug\">\n            <h2>Bed bugs</h2>\n            <p></p>",
+						"goto": 4901
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/bee.svg\" alt=\"bee\">\n            <h2>Bees</h2>\n            <p>Bumble bee</p>",
+						"goto": 4902
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/blackfly.svg\" alt=\"black fly\">\n            <h2>Black fly</h2>\n            <p></p>",
+						"goto": 4903
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/chigger.svg\" alt=\"chigger\">\n            <h2>Chigger</h2>\n            <p></p>",
+						"goto": 4904
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/fireant.svg\" alt=\"fire ant\">\n            <h2>Fire ants</h2>\n            <p></p>",
+						"goto": 4905
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/flea.svg\" alt=\"flea\">\n            <h2>Flea</h2>\n            <p></p>",
+						"goto": 4906
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/mosquito.svg\" alt=\"mosquito\">\n            <h2>Mosquito</h2>\n            <p></p>",
+						"goto": 4907
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/mosquito.svg\" alt=\"mosquito\">\n            <h2>Other</h2>\n            <p></p>",
+						"goto": 4908
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/puss-moth-cat.svg\" alt=\"puss moth caterpillar\">\n            <h2>Puss moth caterpillar</h2>\n            <p></p>",
+						"goto": 4909
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/spider.svg\" alt=\"\">\n            <h2>Spider</h2>\n            <p></p>",
+						"goto": 4910
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/tick.svg\" alt=\"tick\">\n            <h2>Tick</h2>\n            <p></p>",
+						"goto": 4911
+					},
+					{
+						"text": "<img src=\"assets/img/illustration/insects/wasps.svg\" alt=\"wasps\">\n            <h2>Wasps</h2>\n            <p></p>",
+						"goto": 4912
+					}
+				],
+				"fieldset": [],
+				"fieldspecial": [],
+				"mode": {
+					"1": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Self-care recommendations for bedbugs bites are discussed below. But you must have pest control get rid of these bedbugs to be successful.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/bedbug.svg\" width=\"120\" alt=\"bed bug\">\n        </div>",
+					"2": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Remedies available over-the-counter for bee stings are discussed below.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/bee.svg\" width=\"120\" alt=\"bee\">\n        </div>",
+					"3": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Let's see how to take care of this black fly bites.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/blackfly.svg\" width=\"120\" alt=\"black fly\">\n        </div>",
+					"4": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Remedies for chigger bites available over-the-counter are discussed below.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/chigger.svg\" width=\"120\" alt=\"chigger\">\n        </div>",
+					"5": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Let's figure out how to take care of this fireants bites.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/fireant.svg\" width=\"120\" alt=\"Fire ant\">\n        </div>\n        <p>&nbsp;</p>\n        <p class=\"redBorder redfont centerText\">Need treatment overview entry here</p>\n        <p>&nbsp;</p>",
+					"6": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Let's find what to use over-the-counter for these flea bites.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/flea.svg\" width=\"120\" alt=\"Flea\">\n        </div>\n        <p>&nbsp;</p>\n        <p class=\"redBorder redfont centerText\">Need treatment overview entry here</p>\n        <p>&nbsp;</p>",
+					"7": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Over-the-counter recommendations for mosquito bites are discussed below.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/mosquito.svg\" width=\"120\" alt=\"Mosquito\">\n        </div>",
+					"8": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Let's see what to use for insect bites over-the-counter.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/bee.svg\" width=\"120\" alt=\"bee\">\n        </div>\n        <p>&nbsp;</p>\n        <p class=\"redBorder redfont centerText\">Need treatment overview entry here</p>\n        <p>&nbsp;</p>",
+					"9": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Let's see how to take care of this moth irritation.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/puss-moth-cat.svg\" width=\"120\" alt=\"Puss moth caterpilar\">\n        </div>\n        <p>&nbsp;</p>\n        <p class=\"redBorder redfont centerText\">Need treatment overview entry here</p>\n        <p>&nbsp;</p>",
+					"10": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Let's see what to use over-the-counter for this spider bite.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/spider.svg\" width=\"120\" alt=\"spider\">\n        </div>\n        <p>&nbsp;</p>\n        <p class=\"redBorder redfont centerText\">Need treatment overview entry here</p>\n        <p>&nbsp;</p>",
+					"11": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Recommendations for tick bites available over-the-counter are discussed below.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/tick.svg\" width=\"120\" alt=\"tick\">\n        </div>\n        <p>&nbsp;</p>\n        <p class=\"redBorder redfont centerText\">Need treatment overview entry here</p>\n        <p>&nbsp;</p>",
+					"12": "<div class=\"maxwidth450\">\n            <div class=\"ovalBorderRightBlue centerText\"> \n                <span class=\"purplefont greet_adult_recom_mobile\"></span><br>\n                Let's see how to take care of this wasp bites over-the-counter.\n            </div>\n            <div align=\"right\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"80\" alt=\"Pharmacist\"> \n            </div>\n        </div>\n        <div class=\"clearboth divider1\"></div>\n        <br>\n        <!-----------------End Border right person------------------- -->\n        <div class=\"centerText\">\n            <img src=\"assets/img/illustration/insects/wasps.svg\" width=\"120\" alt=\"wasps\">\n        </div>\n        <p>&nbsp;</p>\n        <p class=\"redBorder redfont centerText\">Need treatment overview entry here</p>\n        <p>&nbsp;</p>"
+				},
+				"mode_not": [
+					{
+						"mode_no": "50",
+						"content1": "<div class=\"clearboth divider1\"></div>\n        <p class=\"grayfontSmallSmall centerText\">\n            Last updated by pharmacist on : \n            02/06/2016 \n        </p>",
+						"content2": "",
+						"buttons": [
+							{
+								"class": "linkCyan",
+								"title": "<span class=\"mbsc-ic mbsc-ic-ion-android-system-back mobi-icon-font40\"></span>Back",
+								"goto": "200"
+							}
+						]
+					}
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"color80\">Anti-Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color20\">Diphenhydramine</span></p>\n                <p>You will take the tablets to help with itching if the affected area is pretty large. If not a large area, the cream, roll-on or spray will do fine.</p>\n                <p><span class=\"color46\">Calamine Lotion</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</p>\n                <p>This is good as an anti-itch, antiseptic to prevent infection and astringent to dry up the affected spots.</p>\n                <p><span class=\"color8\">Hydrocortisone 1%</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n                <p>This is a steroidal cream that helps relieve&nbsp;itching and inflammation. Use this if the affected area is not large and dab it on the spots rather than rubbing all over the skin. You want to minimize the amount that the skin will absorb.</p>\n                <p>&nbsp;</p>",
+						"mode": "1"
+					},
+					{
+						"title": "<span class=\"color8\">Anti-inflammation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color8\">Hydrocortisone 1%</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n                <p>This will help both with the inflammation and itching of the affected area. Do not apply to a very large continuous &nbsp;area. If the bedbugs bite area is large, you have to seek urgent care.</p>\n                <p><span class=\"color11\">NSAIDs</span></p>\n                <p>Ibuprofen or naproxen will help if the bites are painful or very inflamed.&nbsp;</p>\n                <p><span class=\"color3\">Witch Hazel</span></p>\n                <p>Consider dabbing witch hazel on the affected areas if it is oozing. Probably use this before applying hydrocortisone cream or lotion.</p>\n                <p>&nbsp;</p>",
+						"mode": "1"
+					},
+					{
+						"title": "<span class=\"color5\">Worth Doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>1. Must get pest control company to get rid of the bedbugs. Do not try to do this yourself. You won't be successful. DIY does not work here.</p>\n                <p>2. Vacuum mattress and box-spring crevices</p>\n                <p>3. Place beddings and clothes in the dryer for 20 minutes on medium to high heat.</p>\n                <p>4. Cover mattress and box springs with a mattress cover that is impermeable.</p>\n                <p>&nbsp;</p>",
+						"mode": "1"
+					},
+					{
+						"title": "<span class=\"color8\">Remove the Stinger</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>This is the first step you have to take.<img alt=\"Removing a bee stinger\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/bee-stinger-removal.svg\" class=\"img_style38\"> It does not matter how you remove it, just do it. The earlier the better. A delay of a few seconds means more venom being injected.</p>\n                <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"color24\">Pain Relief</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color72\">Cold Compress</span></p>\n                <p>Do this once the stinger has been removed. This will help reduce the inflammation or swelling.<img alt=\"Applying cold pack to the hand\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/cold-pack-hand.svg\" class=\"img_style98\"> Keep applying ice until the pain has subsided. While doing this, have someone go to the pharmacy to get you benzocaine.</p>\n                <p><span class=\"color11\">Benzocaine, Lidocaine</span></p>\n                <p>These are local anesthetics that will numb the area providing pain and itch relief. Look for Lanacaine, Solarcaine sprays. Or go to the pharmacy counter and ask for lidocaine gel/cream. Any percentage is adequate, but the higher the better. LMX is a good brand. If these are not available,&nbsp;apply Orajel or Anbesol used for a&nbsp;toothache&nbsp;if you have any at home.</p>\n                <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"color59\">Inflammation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color8\">Hydrocortisone 1%</span></p>\n                <p>This should help with the swelling, redness and itch. Use this after using ice to reduce the pain.</p>\n                <p><span class=\"color11\">NSAIDs</span></p>\n                <p>Take <span class=\"color80\">aspirin</span> to help with the inflammation if you can,&nbsp;especially to reduce the redness. Prefer aspirin&nbsp;over ibuprofen or naproxen but either should be fine.</p>\n                <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"color3\">Anti-Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color80\">Diphenhydramine</span></p>\n                <p>Take the tablets to help with the itch or prevent excessive itching. You will also take this to prevent any allergic reaction to the bee sting.</p>\n                <p>You may combine this hydrocortisone 1% cream or lotion for &nbsp;inflammation that can cause redness, swelling and itching.&nbsp;</p>\n                <p>You <span class=\"color8\">must not scratch</span> the area.</p>\n                <p>&nbsp;</p>",
+						"mode": "2"
+					},
+					{
+						"title": "<span class=\"color8\">Anti-Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color3\">Diphenhydramine</span></p>\n                <p>This is an antihistamine to relieve itching. Take the pills if affected area is all over the body</p>\n                <p><span class=\"color8\">Hydrocortisone 1%</span></p>\n                <p>Good for both itching and inflammation</p>\n                <p><span class=\"color11\">Witch Hazel</span></p>\n                <p>To help reduce inflammation</p>\n                <p>&nbsp;</p>",
+						"mode": "3"
+					},
+					{
+						"title": "<span class=\"color81\">For Itching</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color58\">1. Cold / Ice</span></p>\n                <p>Apply this to the affected area to start with.</p>\n                <p><span class=\"color8\">2. Hydrocortisone 1%</span></p>\n                <p>Will help with the itching and inflammation</p>\n                <p><span class=\"color11\">3. Capsaicin cream</span></p>\n                <p><span class=\"color3\">4. Heat the bite with a hair dryer</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n                <p><span class=\"color82\">5. Add 2 tablespoonful salt in a jar of Vicks Vapor rub.</span></p>\n                <p>&nbsp;</p>",
+						"mode": "4"
+					},
+					{
+						"title": "<span class=\"color80\">Anti-Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color8\">Hydrocortisone 1%</span></p>\n                <p>Apply this for both itching and to get rid of the swelling</p>\n                <p><span class=\"color80\">Antihistamine</span></p>\n                <p>Take the tablets if the bites are all over the body. Diphenhydramine is a good example. The creams, sprays or lotions are better used if the bites just happened. These can prevent further release of histamine that causes the itching.</p>\n                <p><span class=\"color46\">Calamine Lotion</span></p>\n                <p>This is useful to stop the itching and being an astringent, can reduce swelling.</p>\n                <p><span class=\"color24\">Combination</span></p>\n                <p>Hydrocortisone 1% + Diphenhydramine (tablets or cream)</p>\n                <p>&nbsp;</p>",
+						"mode": "7"
+					},
+					{
+						"title": "<span class=\"color83\">For inflammation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color72\">Cold Compress / Ice</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</p>\n                <p>Use this as soon as possible to control any swelling.</p>\n                <p><span class=\"color8\">Hydrocortisone 1%</span></p>\n                <p>Apply this to prevent or reduce swelling and redness of the affected area.</p>\n                <p>&nbsp;</p>",
+						"mode": "7"
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 10,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightBlue\">\n                    Or if you have a question for the pharmacist?\n                </div>\n            </div>\n            <div class=\"grid_4\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 11,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen centerText\"> <span>No <span class=\"greenfont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"50": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "",
+				"header_iregular": "<p class=\"redBorder redfont centerText\">Article currently being updated and reviewed by the pharmacist. <br>Please check back later.</p>",
+				"header": "",
+				"startpage": -1,
+				"fieldset": [],
+				"fieldspecial": [],
+				"mode": {
+				
+				},
+				"mode_not": [
+				],
+				"collapsable": [
+					
+				],
+				"irregular": {
+					"page": -1,
+					"content": ""
+				}
+			},
+			{
+
+			},
+			{
+
+			},
+			{
+
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	},
+	"51": {
+		"title": "Pharmacist",
+		"tabs_title": [
+			"Take This",
+			"Know This",
+			"What If",
+			"Comments"
+		],
+		"tabs": [
+			{
+				"top_header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n",
+				"header_iregular": "<div class=\"maxwidth450\">\n      <div class=\"ovalBorderRightBlue centerText\"> \n         <span class=\"bluefont firstname\"> </span><br>\n         This assumes you are looking at a minor skin rash.\n      </div>\n      <div align=\"right\">\n         <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-cyan.svg\" width=\"100\" alt=\"Pharmacist\"> \n      </div>\n   </div>\n   <div class=\"clearboth divider1\"></div>\n   <br>\n   <!-----------------End Border right person------------------- -->\n   <div class=\"blueBorderAll\">\n      <p>A rash can be caused by many things. It is important you followed the link to appropriate topics suggested for you before you got to this stage.</p>\n      <p>For instance, if the rash is caused by a ringworm, you will need an antifungal cream, if due to poison ivy, there is a specific management process for that, if it is an allergic reaction, the best bet would be using an antihistamine cream or tablets.&nbsp;</p>\n      <p>The rash that will be talked about here is something like a rash you got on contact with something or heat rash.</p>\n      <p>With this in mind, see what is recommended below to help with a skin rash.</p>\n      <hr class=\"hrblue\">\n      <p class=\"centerText\">\n         <img src=\"assets/img/people/adult/skin/skinrash-lady5.svg\" width=\"130\" alt=\"Lady with skin rash\">\n      </p>\n   </div>",
+				"header": "",
+				"startpage": -1,
+				"fieldset": [],
+				"fieldspecial": [],
+				"mode": {
+				
+				},
+				"mode_not": [
+				],
+				"collapsable": [
+					{
+						"title": "<span class=\"color8\">For Inflammation</span>&nbsp;<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color8\">Hydrocortisone 1%</span></p>\n         <p>This will help with the inflammation of the affected area. Use this for mild cases only as this cream does not penetrate deep into the skin and as such effectiveness is limited.</p>\n         <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color25\">For Whole Body Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><strong><span class=\"color16\">Itching all over the body?</span></strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n         <p><span class=\"color3\">1. Diphenhydramine tablets</span><br>\n            This is an antihistamine that will ease the itching. Will make you drowsy. If you need something less drowsy for daytime use, try chlorpheniramine.\n         </p>\n         <p><span class=\"color24\">2. Sarna lotion</span><br>\n            This contains menthol(0.5%), camphor(0.5%)<img alt=\"Lady rubbing body anti-itch lotion\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/rash-lotion-lady.svg\" class=\"img_style89\"> which are very good ingredients for itchy skin. It is also steroid free.\n         </p>\n         <p><span class=\"color75\">3. Calamine lotion</span><br>\n            Combines anti-itch with antiseptic and astringent&nbsp;effect.\n         </p>\n         <p><span class=\"color76\">4. Oatmeal bath</span><br>\n            Prefer if the skin is dry, itchy and irritated. Oatmeal can help restore the skin's natural pH, provide temporary skin protection and restore moisture to the skin.\n         </p>\n         <p>We would rather you go to the store and get the colloidal oatmeal bath powder packets.<span style=\"font-size:11px;\"> Aveeno is a good brand.</span>&nbsp;It would be hard to get a good effect if you make it on your own. &nbsp; &#8203;</p>\n         <p>&nbsp;</p>",
+						"mode": "-1"
+					},
+					{
+						"title": "<span class=\"color77\">For Spotty Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p><span class=\"color8\">Hydrocortisone 1%</span><br>\n            Steroidal anti-itch cream or lotion. Apply to affected area only.\n         </p>\n         <p><span class=\"color18\">Benzocaine, Lidocaine</span><br>\n            Will temporarily numb the itchy area. It may cause skin sensitization so do not use in children.<img alt=\"Woman using spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/rash-spray-lady.svg\" class=\"img_style90\">\n         </p>\n         <p><span class=\"color3\">Diphenhydramine cream, spray</span><br>\n            More specific for itching. The rash will have to disappear on its own with time. If you have the cash, probably mix this with hydrocortisone 1%.\n         </p>\n         <p><span class=\"color16\">Cold compress</span><br>\n            We recommend you start with this before applying any anti-itch cream or lotion\n         </p>\n         <p>&nbsp;</p>",
+						"mode": "-1"
+					}
+				],
+				"irregular": {
+					"page": -1,
+					"content": "<div class=\"clearboth divider1\"></div>\n      <p class=\"grayfontSmallSmall centerText\">\n         Last updated by pharmacist on : \n         02/06/2016 \n      </p>"
+				}
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 10,
+				"collapsable": [
+					{
+						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightBlue centerText\">\n            <span> What if you are currently <span class=\"orangefont\">experiencing</span> the conditions listed below?</span><br>\n        </div>\n        <div class=\"clearboth\"></div>\n        <div class=\"container_12\">\n            <div class=\"grid_8\">\n                <br>\n                <div class=\"bubbleRightBlue\">\n                    Or if you have a question for the pharmacist?\n                </div>\n            </div>\n            <div class=\"grid_4\">\n                <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n            </div>\n        </div>\n    </div>\n    <br>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
+				"colstart": 11,
+				"collapsable": [
+					{
+						"title": "You have a question<span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
+						"content": "<p>Please contact the pharmacist. He or she will gladly answer your questions.</p>",
+						"mode": ""
+					},
+					{
+						"title": "Contacting the pharmacist<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>You may have to unlock the contact form using social networking tools <span class=\"bluefontSmall\">(facebook,</span> <span class=\"blue_brightfontSmall\">twitter,</span> <span class=\"redfontSmall\">google+,</span> <span class=\"bluefontSmall\">linkedIn)</span> we have made available to you.</p>\n                    <p>If you can't do this, you will have to wait a few seconds depending on the number of users at the time.</p>\n                    <div class=\"clearboth divider1\"></div>",
+						"buttons": [
+							{
+								"type": "j",
+								"title": "Contact Pharmacist",
+								"goto": "2"
+							}
+						],
+						"mode": ""
+					},
+					{
+						"title": "What to expect<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>Expect a reply as soon as possible.<br>\n                        If the authoring pharmacist cannot reply within 24 hours, the system will push your email to the rest of the team. Any available pharmacist will answer your question as soon as possible.\n                    </p>\n                    <p>If you have a comment and not a question, please post it in the comments section for all to read.</p>",
+						"mode": ""
+					},
+					{
+						"title": "What can't be done:<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>No replies to vulgar, disrespectful emails.<br> The system is  programmed to look for certain words that are disrespectful and will automatically delete such emails. They don't get to the pharmacist. This will blacklist your email address automatically.</p>\n                    <p>Email addresses or questions are not saved.<br> They are deleted once answered and not stored in a database. Should you need to follow up, copy the previous question(s) along with the new message for quick reference.</p>\n                    <p>The pharmacist does not reply to emails that are not relevant to the topic he or she  authored. They are forwarded to the author of the topic and are under no obligation to reply.</p>\n                    <p>We encourage pharmacists to respond to questions but are under no obligations to answer questions.</p>",
+						"mode": ""
+					}
+				]
+			},
+			{
+				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightGreen centerText\"> <span>No <span class=\"greenfont\">comments</span> or <span class=\"orangefont\">ratings</span> on this recommendation yet. How about being the first to say something?</span><br>\n        </div>\n        <div align=\"right\"> <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-john-port-cyan.svg\" width=\"80\" alt=\"Pharmacist\" align=\"right\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <!-----------------End Border right person------------------- -->\n    <p>&nbsp;</p>",
+				"buttons": [
+					{
+						"class": "linkBlueBorder",
+						"title": "Leave a comment",
+						"goto": "3"
+					},
+					{
+						"class": "linkAmberBorder",
+						"title": "Why?",
+						"goto": "100"
+					}
+				],
+				"why": "<br>\n        <ul>\n            <li>Let others know if the recommendation worked for you.</li>\n            <li>Share your treatment outcome with others.</li>\n            <li>Add to the recommendation.</li>\n            <li>Improve on the recommendation.</li>\n            <li>Quickest way to ask a pharmacist a question.</li>\n            <li>What about you answering a question?</li>\n        </ul>"
+			}
+		],
+		"footer": "<p>&nbsp;</p><p>&nbsp;</p>"
+	}
+}
