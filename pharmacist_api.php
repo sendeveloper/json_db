@@ -97,7 +97,21 @@ if (isset($_REQUEST['id']))
 				}
 			}
 
-			
+			$ullist_sql = "SELECT * from ullist WHERE page_id={$id}";
+			if ($ullist_result = $mysqli->query($ullist_sql))
+			{
+				if ($ullist_result->num_rows > 0)
+				{
+					$data['tabs'][0]['ullist'] = array();
+					while($ullist_row = $ullist_result->fetch_assoc())
+					{
+						$each = array();
+						$each['text'] = $ullist_row['content'];
+						$each['goto'] = $ullist_row['goto'];
+						$data['tabs'][0]['ullist'][] = $each;
+					}
+				}
+			}
 
 			$data['tabs'][0]['fieldset'] = array();
 			$data['tabs'][0]['fieldspecial'] = array();
