@@ -140,12 +140,15 @@
 				if (isset($data['tabs'][0]['irregular']['buttongo']))
 				{
 					$irregular_buttongo = $data['tabs'][0]['irregular']['buttongo'];
-					$type = 1;	// Means buttongo
-					$title = $mysqli->escape_string($irregular_buttongo['title']);
-					$class = $irregular_buttongo['class'];
-					$goto = $irregular_buttongo['goto'];
-					$ir_button_sql = "INSERT INTO header_iregular (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
-					$mysqli->query($ir_button_sql);
+					foreach($irregular_buttongo as $each_buttongo)
+					{
+						$type = 1;	// Means buttongo
+						$title = $mysqli->escape_string($each_buttongo['title']);
+						$class = $each_buttongo['class'];
+						$goto = $each_buttongo['goto'];
+						$ir_button_sql = "INSERT INTO header_iregular (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
+						$mysqli->query($ir_button_sql);
+					}
 				}
 			}
 
