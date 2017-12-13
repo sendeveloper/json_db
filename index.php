@@ -1,7 +1,7 @@
 <?php
 	require_once("config.php");
 
-	for ($i=0;$i<1;$i++)
+	for ($i=0;$i<4;$i++)
 	{
 		$file_name = "adult_pharmacist_childs_{$i}.json";
 		$content = file_get_contents("json/{$file_name}");
@@ -103,25 +103,71 @@
 					}
 				}
 
-				if (isset($each_tab['buttons']))
+			}
+
+			if (isset($data['tabs'][0]['ullist']))
+			{
+				foreach($data['tabs'][0]['ullist'] as $list_key => $list_field)
 				{
-					$buttons = $each_tab['buttons'];
-					foreach($buttons as $each_button)
-					{
-						$class = $each_button['class'];
-						$title = $mysqli->escape_string($each_button['title']);
-						$goto = $each_button['goto'];
-						$button_sql = "INSERT INTO buttons (page_id, tab_id, class, title, goto) VALUES ({$page_id}, {$tab_id}, '{$class}', '{$title}', '{$goto}')";
-						$mysqli->query($button_sql);
-					}
+					$content = $mysqli->escape_string($list_field['text']);
+					$goto = $list_field['goto'];
+					$mode_sql = "INSERT INTO ullist (page_id, content, goto) VALUES ({$page_id}, '{$content}', '{$goto}')";
+					$mysqli->query($mode_sql);
 				}
-				if (isset($each_tab['why']))
+			}
+
+			if (isset($data['tabs'][0]['header_iregular']))
+			{
+				$header = $mysqli->escape_string($data['tabs'][0]['header_iregular']);
+				$page = isset($data['tabs'][0]['startpage']) ? $data['tabs'][0]['startpage'] : 0;
+				$content = $mysqli->escape_string($data['tabs'][0]['irregular']['content']);
+
+				$irregular_sql = "INSERT INTO header_iregular (page_id, header, page, content) VALUES ({$page_id}, '{$header}', $page, '{$content}')";
+				$mysqli->query($irregular_sql);
+
+				$irregular_id = $mysqli->insert_id;
+
+				if (isset($data['tabs'][0]['irregular']['button']))
 				{
-					$why = $each_tab['why'];
-					$why_sql = "INSERT INTO why (page_id, tab_id, content) VALUES ({$page_id}, {$tab_id}, '{$why}')";
-					$mysqli->query($why_sql);
+					$irregular_button = $data['tabs'][0]['irregular']['button'];
+					$type = 0;
+					$title = $mysqli->escape_string($irregular_button['title']);
+					$class = "";
+					$goto = $irregular_button['goto'];
+					$ir_button_sql = "INSERT INTO header_iregular (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
+					$mysqli->query($ir_button_sql);
 				}
+				if (isset($data['tabs'][0]['irregular']['buttongo']))
+				{
+					$irregular_buttongo = $data['tabs'][0]['irregular']['buttongo'];
+					$type = 1;	// Means buttongo
+					$title = $mysqli->escape_string($irregular_buttongo['title']);
+					$class = $irregular_buttongo['class'];
+					$goto = $irregular_buttongo['goto'];
+					$ir_button_sql = "INSERT INTO header_iregular (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
+					$mysqli->query($ir_button_sql);
+				}
+			}
+
+			if (isset($data['tabs'][3]['buttons']))
+			{
+				$buttons = $data['tabs'][3]['buttons'];
+				foreach($buttons as $each_button)
+				{
+					$class = $each_button['class'];
+					$title = $mysqli->escape_string($each_button['title']);
+					$goto = $each_button['goto'];
+					$button_sql = "INSERT INTO buttons (page_id, tab_id, class, title, goto) VALUES ({$page_id}, {$tab_id}, '{$class}', '{$title}', '{$goto}')";
+					$mysqli->query($button_sql);
+				}
+			}
+			if (isset($data['tabs'][3]['why']))
+			{
+				$why = $each_tab['why'];
+				$why_sql = "INSERT INTO why (page_id, tab_id, content) VALUES ({$page_id}, {$tab_id}, '{$why}')";
+				$mysqli->query($why_sql);
 			}
 		}
 	}
+	echo 'success';
 ?>
