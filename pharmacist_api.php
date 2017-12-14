@@ -10,6 +10,7 @@ if (isset($_REQUEST['id']))
 		{
 			$page_row = $page_result->fetch_assoc();
 			$data['title'] = $page_row['title'];
+			$data['theme_type'] = $page_row['theme_type'];
 			$data['tabs_title'] = array("Take This", "Know This", "What If", "Comments");
 			$data['tabs'] = array();
 			for ($i=0;$i<4;$i++)
