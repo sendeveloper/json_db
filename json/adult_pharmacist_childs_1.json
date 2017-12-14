@@ -6,7 +6,7 @@
 			"Know This",
 			"What If",
 			"Comments"
-		], 
+		],
 		"tabs": [
 			{
 				"top_header": "<p>&nbsp;</p><p>&nbsp;</p>",
@@ -227,7 +227,7 @@
 				"top_header": "<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
 				"header": "<div class=\"maxwidth450\">\n\t\t\t\t                <div class=\"ovalBorderRightGreen centerText\"> \n\t\t\t\t                    <span class=\"bluefontLarge firstname\"> </span><br>\n\t\t\t\t                    Is this for a <span class=\"bluefont\">male</span> or a <span class=\"pinkfont\">female?</span> \n\t\t\t\t                </div>\n\t\t\t\t                <div align=\"right\">\n\t\t\t\t                    <img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-peter-teal.svg\" width=\"80\" alt=\"Pharmacist\"> \n\t\t\t\t                </div>\n\t\t\t\t            </div>\n\t\t\t\t            <div class=\"clearboth divider1\"></div>\n\t\t\t\t            <br>\n\t\t\t\t            <!-----------------End Border right person------------------- -->\n\t\t\t\t            <div class=\"greenBorderAll\">\n\t\t\t\t                <p>We may have to approach this hair loss management based on gender.</p>\n\t\t\t\t            </div>\n\t\t\t\t            <div class=\"clearboth divider1\"></div>",
 				"fieldset": [
-					
+
 				],
 				"fieldspecial": [],
 				"mode": {
@@ -444,7 +444,7 @@
 								"class": "linkBlue",
 								"title": "<span class=\"mbsc-ic mbsc-ic-ion-android-system-back mobi-icon-font36\"></span>Back",
 								"goto": "200"
-							}							
+							}
 						]
 					}
 				],
@@ -638,7 +638,7 @@
 								"class": "linkBlue",
 								"title": "<span class=\"mbsc-ic mbsc-ic-ion-android-system-back mobi-icon-font36\"></span>Back",
 								"goto": "200"
-							}							
+							}
 						]
 					}
 				],
