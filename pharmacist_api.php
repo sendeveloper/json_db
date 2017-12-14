@@ -4,7 +4,7 @@ if (isset($_REQUEST['id']))
 {
 	$data = array();
 	$id = $_REQUEST['id'];
-	$page_sql = "SELECT * FROM pages WHERE page_id={$id}";
+	$page_sql = "SELECT * FROM adult_pharmacist_pages WHERE page_id={$id}";
 	if ($page_result = $mysqli->query($page_sql)) {
 		if ($page_result->num_rows>0)
 		{
@@ -19,7 +19,7 @@ if (isset($_REQUEST['id']))
 				$data['tabs'][$i]['collapsable'] = array();
 			}
 			$data['tabs'][0]['top_header'] = '';
-			$top_header_sql = "SELECT * from top_header WHERE page_id={$id}";
+			$top_header_sql = "SELECT * FROM adult_pharmacist_top_header WHERE page_id={$id}";
 			if ($top_result = $mysqli->query($top_header_sql))
 			{
 				if ($top_result->num_rows > 0)
@@ -29,7 +29,7 @@ if (isset($_REQUEST['id']))
 				}
 			}
 
-			$irregular_sql = "SELECT * from irregular_content WHERE page_id={$id}";
+			$irregular_sql = "SELECT * FROM adult_pharmacist_irregular_content WHERE page_id={$id}";
 			if ($irregular_result = $mysqli->query($irregular_sql))
 			{
 				if ($irregular_result->num_rows > 0)
@@ -42,7 +42,7 @@ if (isset($_REQUEST['id']))
 					$data['tabs'][0]['irregular']['page'] = $irregular_row['page'];
 					$data['tabs'][0]['irregular']['content'] = $irregular_row['content'];
 
-					$ir_button_sql = "SELECT * from irregular_buttons WHERE page_id={$id} and irregular_id={$ir_id}";
+					$ir_button_sql = "SELECT * FROM adult_pharmacist_irregular_buttons WHERE page_id={$id} and irregular_id={$ir_id}";
 					if ($ir_button_result = $mysqli->query($ir_button_sql))
 					{
 						if ($ir_button_result->num_rows > 0)
@@ -67,7 +67,7 @@ if (isset($_REQUEST['id']))
 				}
 			}
 
-			$header_sql = "SELECT * from header WHERE page_id={$id}";
+			$header_sql = "SELECT * FROM adult_pharmacist_header WHERE page_id={$id}";
 			if ($header_result = $mysqli->query($header_sql))
 			{
 				if ($header_result->num_rows > 0)
@@ -80,7 +80,7 @@ if (isset($_REQUEST['id']))
 				}
 			}
 
-			$firstpage_buttons_sql = "SELECT * from firstpage_buttons WHERE page_id={$id}";
+			$firstpage_buttons_sql = "SELECT * FROM adult_pharmacist_firstpage_buttons WHERE page_id={$id}";
 			if ($firstpage_buttons_result = $mysqli->query($firstpage_buttons_sql))
 			{
 				if ($firstpage_buttons_result->num_rows > 0)
@@ -97,7 +97,7 @@ if (isset($_REQUEST['id']))
 				}
 			}
 
-			$ullist_sql = "SELECT * from ullist WHERE page_id={$id}";
+			$ullist_sql = "SELECT * FROM adult_pharmacist_ullist WHERE page_id={$id}";
 			if ($ullist_result = $mysqli->query($ullist_sql))
 			{
 				if ($ullist_result->num_rows > 0)
@@ -115,7 +115,7 @@ if (isset($_REQUEST['id']))
 
 			$data['tabs'][0]['fieldset'] = array();
 			$data['tabs'][0]['fieldspecial'] = array();
-			$field_sql = "SELECT * from fieldset WHERE page_id={$id}";
+			$field_sql = "SELECT * FROM adult_pharmacist_fieldset WHERE page_id={$id}";
 			if ($field_result = $mysqli->query($field_sql))
 			{
 				if ($field_result->num_rows > 0)
@@ -137,7 +137,7 @@ if (isset($_REQUEST['id']))
 				}
 			}
 			$data['tabs'][0]['mode'] = array();
-			$mode_sql = "SELECT * from mode WHERE page_id={$id}";
+			$mode_sql = "SELECT * FROM adult_pharmacist_mode WHERE page_id={$id}";
 			if ($mode_result = $mysqli->query($mode_sql))
 			{
 				if ($mode_result->num_rows > 0)
@@ -150,7 +150,7 @@ if (isset($_REQUEST['id']))
 				}
 			}
 			$data['tabs'][0]['mode_not'] = array();
-			$mode_not_sql = "SELECT * from mode_not WHERE page_id={$id}";
+			$mode_not_sql = "SELECT * FROM adult_pharmacist_mode_not WHERE page_id={$id}";
 			if ($mode_not_result = $mysqli->query($mode_not_sql))
 			{
 				if ($mode_not_result->num_rows > 0)
@@ -162,7 +162,7 @@ if (isset($_REQUEST['id']))
 						$each['content1'] = $mode_not_row['content1'];
 						$each['content2'] = $mode_not_row['content2'];
 						$each['buttons'] = array();
-						$mode_button_sql = "SELECT * from mode_not_buttons WHERE page_id={$id}";
+						$mode_button_sql = "SELECT * FROM adult_pharmacist_mode_not_buttons WHERE page_id={$id}";
 						if ($mode_button_result = $mysqli->query($mode_button_sql))
 						{
 							if ($mode_button_result->num_rows > 0)
@@ -183,7 +183,7 @@ if (isset($_REQUEST['id']))
 			}
 			
 
-			$collapsable_sql = "SELECT * from collapsable WHERE page_id={$id}";
+			$collapsable_sql = "SELECT * FROM adult_pharmacist_collapsable WHERE page_id={$id}";
 			if ($collapsable_result = $mysqli->query($collapsable_sql))
 			{
 				if ($collapsable_result->num_rows > 0)
@@ -205,7 +205,7 @@ if (isset($_REQUEST['id']))
 						else
 							$each['mode'] = $collapsable_row['mode'];
 
-						$col_button_sql = "SELECT * FROM `collapsable_buttons` WHERE page_id={$id} and collapsable_id={$col_id}";
+						$col_button_sql = "SELECT * FROM adult_pharmacist_`collapsable_buttons` WHERE page_id={$id} and collapsable_id={$col_id}";
 						if ($col_button_result = $mysqli->query($col_button_sql))
 						{
 							if ($col_button_result->num_rows > 0)
@@ -230,7 +230,7 @@ if (isset($_REQUEST['id']))
 			}
 
 			$data['tabs'][3]['buttons'] = array();
-			$button_sql = "SELECT * from buttons WHERE page_id={$id} and tab_id=3";
+			$button_sql = "SELECT * FROM adult_pharmacist_buttons WHERE page_id={$id} and tab_id=3";
 			if ($button_result = $mysqli->query($button_sql))
 			{
 				if ($button_result->num_rows > 0)
@@ -245,7 +245,7 @@ if (isset($_REQUEST['id']))
 				}
 			}
 			$data['tabs'][3]['why'] = '';
-			$why_sql = "SELECT * from why WHERE page_id={$id} and tab_id=3";
+			$why_sql = "SELECT * FROM adult_pharmacist_why WHERE page_id={$id} and tab_id=3";
 			if ($why_result = $mysqli->query($why_sql))
 			{
 				if ($why_result->num_rows > 0)
