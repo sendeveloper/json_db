@@ -119,6 +119,7 @@
 	},
 	"22": {
 		"title": "Pharmacist",
+		"category": "Stuffy Nose",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -139,31 +140,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color57\">Saline wash</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Always better to start with a saline wash before using medications.<img alt=\"lady using saline spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/saline-spray-lady.svg\" class=\"img_style66\"></p>\n                <p>Medications for stuffy nose comes with some baggage. They will either bump up the blood pressure, make you wired, deny you sleep, make you jittery or even cause stuffy nose if you use it for too long.</p>\n                <p>&nbsp;</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color62\">Neti-Pot</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>A good idea if you want to avoid using decongestant<img alt=\"Woman using neti-pot\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/netipot-woman.svg\" class=\"img_style67\"> medications as much as possible.</p>\n                <p>The only problem is, you either like it or you don't. To like it, use it with <span class=\"color65\">Alkalol®</span> a&nbsp;<span style=\"font-family: 'Helvetica Neue', Arial, Helvetica, Geneva, sans-serif; font-size: 11.52px; line-height: 17.28px;\" class=\"color64\">saline rinse formulated with natural extracts and essential oils</span>&nbsp; for an invigorating clean.</p>\n                <p>Once you get past the initial feeling of accidentally inhaling water while swimming, you will love using it. &nbsp;</p>\n                <p>&nbsp;&nbsp;</p>\n                <p>&nbsp;</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Decongestants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color3\">Nasal sprays</span></p>\n                <p>Start with the decongestant nasal spray. These start to work within 10 minutes.<img alt=\"Hand holding nasal spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/hand-holding-nasalspray.svg\" class=\"img_style37\"></p>\n                <p>You can then switch to decongestant tablets or syrup if still congested after 3 or 4 days.</p>\n                <p>At about 3&nbsp;to 5&nbsp;days, you must stop using the nasal spray if you still have a stuffy nose. That is when you will start experiencing the rebound effect of the nasal spray making you congested instead of providing relief (rebound effect).</p>\n                <p>&nbsp;</p>\n                <p><span style=\"font-size:12px;\">Prefer nasal spray with<span class=\"color11\"> oxymetazoline</span> for 12-hour dosing.</span></p>\n                <p><span style=\"font-size:12px;\">Those with<span class=\"color6\"> phenylephrine</span> require more frequent use of 4 to 6 hours.</span><br>\n                    &nbsp;\n                </p>\n                <p><span class=\"color8\">Pills</span>:</p>\n                <p>Ask for <span class=\"color7\">pseudoephedrine</span> at the pharmacy counter.<img alt=\"Woman at the pharmacy counter\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/pharmacy-counter.svg\" class=\"img_style68\"></p>\n                <p>You will need a government issued&nbsp;ID to monitor your daily or monthly quantity&nbsp;limit.</p>\n                <p><span class=\"color8\">Do not use phenylephrine found in the cold aisle.</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n                <p>The strength approved by the FDA for nasal congestion is not effective and using a higher dose will cause more side effects and won't work either. Stay away from that.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color63\">Nasal spray steroids</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color3\">Steroidal nasal sprays</span> can reduce<img alt=\"Lady using nasal spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/nasalspray-lady3.svg\" class=\"img_style69\"> the inflammation that is causing the nasal congestion.</p>\n                <p>But you have to give it about 7 days&nbsp;to kick in.</p>\n                <p>If you&nbsp;get nasal congestion often as in allergy situations or nasal polyps,&nbsp;you will need to invest in this. Both for prevention and relief purposes.</p>\n                <p><strong><span class=\"color8\">Do not</span></strong> get this if your stuffy nose is due to a <span class=\"color58\">cold.</span> It won't work.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color37\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>1. Invest in a humidifier.&nbsp;<img alt=\"Humidifier\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/humidifier.svg\" class=\"img_style70\"></p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -240,6 +216,7 @@
 	},
 	"23": {
 		"title": "Pharmacist",
+		"category": "Runny Nose",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -260,21 +237,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color6\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>If the runny nose is caused by histamine&nbsp;</p>\n                <p><img alt=\"Lady taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-taking-pill.svg\" class=\"img_style71\"></p>\n                <p>release as in allergy situations, an antihistamine should take care of it by blocking histamine getting to the cells.</p>\n                <p>There are two types of antihistamines used for a runny nose, first generation <em>(diphenhydramine, chlorpheniramine)</em> and second generation <em>(loratadine, cetirizine, fexofenadine)</em>. The main difference is the side effect of drowsiness caused by first-generation antihistamines.</p>\n                <p>If the runny nose is caused by a <span class=\"color16\">cold</span>, stick with the <span class=\"color8\">first generation</span> antihistamines. The second generation like loratadine, cetirizine or fexofenadine do not work for cold symptoms.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color55\">Saline rinse</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>There are different types.&nbsp;</p>\n                <p><img alt=\"Man using nasal spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/nasalspray-man.svg\" class=\"img_style72\"></p>\n                <p>The spray is basically to moisturize the nasal passages. The rinse is used to thin the mucus that lines the passages so you can gently blow it out.</p>\n                <p>For a runny nose, you will use the rinse. Neti-pot is good if you are used to it, but for a quick job, get a sinus rinse with packets.<img alt=\"Lady using sinus rinse\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sinus-rinse-lady.svg\" class=\"img_style73\"> Be sure to always use distilled water.</p>\n                <p>We recommend you include <span class=\"color7\">Alkalol®</span> for a soothing effect.</p>\n                <p>&nbsp;</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color66\">Steroidal nasal spray</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>If you already have a runny nose,&nbsp;</p>\n                <p><img alt=\"Man using nasal spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/nasalspray-man2.svg\" class=\"img_style74\"></p>\n                <p>this is not going to work. They need a few days to kick in. Average 5 days. So don't waste your money if you have not been using a steroidal nasal spray and currently have a runny nose.</p>\n                <p>If you are prone to a runny nose as in allergy, this has to be a part of your treatment regimen. Daily use will be great for about 4 to 6 months a year.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
