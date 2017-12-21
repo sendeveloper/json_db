@@ -1,6 +1,7 @@
 {
 	"40": {
 		"title": "Pharmacist",
+		"category": "Stomach Ache",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -81,7 +82,42 @@
 					}
 				],
 				"collapsable": [
-					
+					{
+						"field": "prevention",
+						"title": "<span class=\"bluefont\">Preventive measures<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "antacid_antigas",
+						"title": "<span class=\"purplefont\">Antacid / Antigas<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "bismuth",
+						"title": "<span class=\"purple_redfont\">Bismuth Subsalicylate<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "cola_syrup",
+						"title": "<span class=\"purple_redfont\">Cola Syrup<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "anti_inflammatory",
+						"title": "<span class=\"purple_redfont\">Anti-inflammatory pain reliever<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "greenfont",
+						"title": "<span class=\"purplefont\">Worth doing<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					}
 				],
 				"irregular": {
 					"page": -1,
@@ -157,6 +193,7 @@
 	},
 	"41": {
 		"title": "Pharmacist",
+		"category": "Stomach Virus",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -177,21 +214,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color11\">Prevent Dehydration</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span style=\"font-family: Arial; font-size: 10.5pt; line-height: 15pt;\">Prevent dehydration from diarrhea and/or nausea. The key word&nbsp;is \"Prevent\".&nbsp;Start preventive measures with the first bout of diarrhea.&nbsp;</span></p>\n            <p style=\"margin-top: 6pt; margin-bottom: 11pt; line-height: 15pt; font-family: Arial; font-size: 10.5pt;\">Choose any of the measures below that you are comfortable with:</p>\n            <ol style=\"margin-left: 0.375in; direction: ltr; unicode-bidi: embed; margin-top: 0in; margin-bottom: 0in; font-family: Arial; font-size: 10.5pt;\" type=\"1\">\n               <li style=\"margin-top: 0px; margin-bottom: 0px; vertical-align: middle;\" value=\"1\"><span style=\"font-size: 10.5pt;\">Gatorade, Pedialyte.<img alt=\"Lady drinking gatorade\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/drinking-water-bottle.svg\" class=\"img_style85\"></span></li>\n               <li style=\"margin-top: 0px; margin-bottom: 0px; vertical-align: middle;\"><span style=\"font-size: 10.5pt;\">In-store ORS (Oral Rehydration Salts). Marketed as&nbsp;</span><span style=\"font-size: 10.5pt; color: red;\">electrolyte replacement packets</span><span style=\"font-size: 10.5pt;\">&nbsp;(Find this in the weight loss, nutrition or protein bar aisle of most pharmacies).</span></li>\n               <li style=\"margin-top: 0px; margin-bottom: 0px; vertical-align: middle;\"><span style=\"font-size: 10.5pt;\">Homemade ORS: (6+1/2+1). That is 6 level&nbsp;</span><span style=\"font-weight: bold; font-size: 10.5pt;\">tea</span><span style=\"font-size: 10.5pt;\">spoonfuls (2&nbsp;</span><span style=\"font-weight: bold; font-size: 10.5pt;\">table</span><span style=\"font-size: 10.5pt;\">spoonfuls) of sugar + 1/2 level&nbsp;</span><span style=\"font-weight: bold; font-size: 10.5pt;\">tea</span><span style=\"font-size: 10.5pt;\">spoonful of salt + 1 liter (1000ml) of water (regular drinking water).</span></li>\n            </ol>\n            <p style=\"margin-top: 6pt; margin-bottom: 11pt; line-height: 15pt; font-family: Arial; font-size: 10.5pt;\">Drink as often as you can especially after a bout&nbsp;of diarrhea. If you throw up, wait&nbsp;for 5 to 10 minutes and start again.&nbsp;</p>\n            <p>\n               <!--EndFragment -->\n            </p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color16\">Pain Relief</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>For headaches or body aches and pain, <img alt=\"Lady taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-taking-pills-orange.svg\" class=\"img_style32\">take ibuprofen, naproxen or acetaminophen.</p>\n            <p>Prefer ibuprofen or naproxen if you mainly have body aches.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color5\">Worth Doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>1. Drink tea. Ginger (for nausea) or peppermint tea (calms the stomach)</p>\n            <p>2. Eat <span class=\"color11\">BRAT</span> (Bananas, Rice, Applesauce, Toast (white bread)).</p>\n            <p>3. Keep yogurt till after diarrhea. It will be hard to digest and can make it worse during diarrhea.</p>\n            <p>4. Rest. Your body is fighting hard to get rid of the virus. You should make it easier by resting.</p>\n            <p>5. Wash hands frequently. Same for the household.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -263,6 +285,7 @@
 	},
 	"42": {
 		"title": "Pharmacist",
+		"category": "Food Poisoning",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -283,31 +306,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color6\">Control the diarrhea</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Alright. Before running to the pharmacy to get medication for this diarrhea, let the body clear the toxins out of your system as much as possible. This should take about 5 to 6 bouts of running to the bathroom.</p>\n            <p>You should help the system&nbsp;by drinking a lot of water after each bout of diarrhea. <img alt=\"Lady with a glass of water\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/drinking-water-lady3.svg\" class=\"img_style86\">Wash your hands, take a big glass of water and drink as much as possible. See it as washing out the toxin from your body.</p>\n            <p>If after 6 bouts of diarrhea and lots of water the diarrhea is still there, you can go to the pharmacy to get <span class=\"color11\">Pepto.</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>The salicylate in Pepto has anti-inflammatory effects on the linings of the stomach and intestine. These should be inflamed by now. You should still take this even if the diarrhea is going away or gone. It may come back again due to the severe inflammatory process that the digestive system has just dealt with.</p>\n            <p>Stay away from loperamide <span style=\"font-size:11px;\">(Imodium).</span></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color55\">Prevent dehydration</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>A big step is to prevent dehydration from diarrhea and/or nausea. The key word here is \"Prevent\". Don't wait till after your 5th bout&nbsp;with diarrhea to start. Start with your first bout.&nbsp;</p>\n            <p>Choose any of the means &nbsp;below that you are comfortable with:</p>\n            <ol>\n               <li>Gatorade, Pedialyte.</li>\n               <li>In-store ORS (Oral Rehydration Salts). You will probably find this in the pharmacy marketed as <span class=\"color8\">electrolyte replacement packets</span> in the weight loss, nutrition or protein bar aisle.</li>\n               <li>Homemade ORS: (6+1/2+1) 6 level teaspoonful of sugar + 1/2 level teaspoonful of salt + 1 liter (1000ml) of water (regular drinking water).</li>\n            </ol>\n            <p>Drink as often as you can especially after a bout&nbsp;of diarrhea. If you throw up, wait 5&nbsp;minutes and start again.&nbsp;</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Control the nausea</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>The goal for nausea due to food poisoning is to prevent dehydration.</p>\n            <p>Over-the-counter remedy available for nausea is for an upset stomach. Cola syrup is a good choice.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color61\">Replace electrolytes</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">Choose any of the means &nbsp;below that you are comfortable with:<img alt=\"Lady drinking glass of fluid\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/drinking-water-lady2.svg\" class=\"img_style47\"></p>\n            <ol style=\"font-size: 13px; line-height: 20.8px;\">\n               <li>Gatorade, Pedialyte.</li>\n               <li>In-store ORS (Oral Rehydration Salts). You will probably find this in the pharmacy marketed as&nbsp;<span class=\"color44\">electrolyte replacement packets</span>&nbsp;in the weight loss, nutrition or protein bar aisle.</li>\n               <li>Homemade ORS: (6+1/2+1) 6 level teaspoonful of sugar + 1/2 level teaspoonful of salt + 1 liter (1000ml) of water (regular drinking water).</li>\n            </ol>\n            <p style=\"font-size: 13px; line-height: 20.8px;\">Drink as often as you can especially after a bout&nbsp;of diarrhea. If you throw up, wait 5&nbsp;minutes and start again.&nbsp;</p>\n            <p style=\"font-size: 13px; line-height: 20.8px;\">Be sure to follow the mixing ratio&nbsp;above should you decide to use homemade ORS. Must add sugar and salt. Using salt alone is dangerous and can lead to quicker dehydration. This is because&nbsp;salt (Na+) by itself cannot cross the intestinal walls to become part of the body fluid during diarrhea. In fact, a high concentration of salt will draw water from the body making diarrhea worse. Glucose is what helps salt transportation from the intestinal walls. Same way glucose alone or at a high concentration can worsen diarrhea.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color60\">Probiotics</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>You should start this after diarrhea has subsided. Your digestive system has washed away all the good bacteria in the gut. You will need to replace them.</p>\n            <p>Compare probiotics using our comparison tool to see what will work best for you.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -379,6 +377,7 @@
 	},
 	"43": {
 		"title": "Pharmacist",
+		"category": "Yeast",
 		"tabs_title": [
 			"Take This",
 			"Know This",
