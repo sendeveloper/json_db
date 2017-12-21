@@ -1,6 +1,7 @@
 {
 	"44": {
 		"title": "Pharmacist",
+		"category": "UTI",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -21,26 +22,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color3\">Urinary Pain Relief</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This will help with the pain, burning and frequent, urgent urination.</p>\n            <p>Some contain phenazopyridine which is the same ingredient as the prescription urinary pain relief medication but at a lower strength.</p>\n            <p><span style=\"font-size:12px;\">Examples are Azo®, Uristat®, Leader®, Store brands.</span></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span style=\"font-size:14px;\"><span class=\"color11\">Methenamine + Sodium Salicylate</span></span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Helps slow down the progression of the infection using the antibacterial agent methenamine.</p>\n            <p>Know that, this will not get rid of the infection.</p>\n            <p>Goal is to slow down the progression of the infection as it makes it's way up the urinary tract.</p>\n            <p>Pain relief not as fast as phenazopyridine, but if you have the money, you can use both together for maximum benefit.</p>\n            <p><span style=\"font-size:12px;\">Example: Cystex Plus®</span></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color73\">Do this</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<ul>\n               <li>Drink lots of water to dilute your urine and help flush out bacteria.<img alt=\"Woman with hot water bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/waterbottle-lady.svg\" class=\"img_style87\"><br>\n                  &nbsp;\n               </li>\n               <li>Place a heating pad over your abdomen to ease pressure and discomfort.</li>\n            </ul>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color6\">Prevention</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Recurring infections are common and some women may have 3 or more UTIs a year.<br>\n               Once the UTI is treated, follow this plan to reduce the risk.\n            </p>\n            <ul>\n               <li>Drink 8-16 ounces of <span class=\"color65\">cranberry</span> juice daily to keep bacteria from growing and clinging to your bladder wall.&nbsp;<br>\n                  &nbsp;\n               </li>\n               <li>If worried about calories, take cranberry tablets.<br>\n                  &nbsp;\n               </li>\n               <li>Drink plenty&nbsp;of water daily.<br>\n                  &nbsp;\n               </li>\n               <li>Wipe from front to back when you go to the bathroom.<br>\n                  &nbsp;\n               </li>\n               <li>Go to the bathroom right after you have sex.<br>\n                  &nbsp;\n               </li>\n               <li>Use tampons instead of sanitary pads and change them every 3 to 4 hours.<br>\n                  &nbsp;\n               </li>\n               <li>Avoid wearing ultra skin-tight jeans.</li>\n            </ul>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -112,6 +93,7 @@
 	},
 	"45": {
 		"title": "Pharmacist",
+		"category": "Jock Itch",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -132,21 +114,7 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color10\">Anti-Fungal</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>The first choice would be the azole type drugs such as <span class=\"color11\">clotrimazole,</span> <span class=\"color3\">miconazole.</span></p>\n            <p>These are more effective against the possible mix of fungi that can cause jock itch should you want to cover all the bases.</p>\n            <p>Fungi like damp conditions, so get the powder or powder spray. But if you can keep the area dry, a cream or lotion should do.</p>\n            <p>Should you decide to go with the powder, look for the ones that use talc rather than corn starch as the inactive ingredient.</p>\n            <p>Fungi can feed on starch making it a little harder to get rid of. (A good example is zeasorb® powder).</p>\n            <p>Terbinafine, butenafine may work faster, but may be more expensive.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Inflammation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><strong><span class=\"color8\">Hydrocortisone 1%</span></strong></p>\n            <p>Helps if it is very itchy, red and inflamed.</p>\n            <p>But do not use this alone as it may make it worse if the fungi is not being killed.</p>\n            <p>Also do not use for more than 7 days. May continue to use the anti fungal cream if relief is not complete.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color5\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>You will need to improve air flow to the area. You can do this by:</p>\n            <ul>\n               <li>Wearing loose cotton or boxer underwear or none at all</li>\n               <li>Wearing loose night clothes or none</li>\n               <li>Sleeping under a fan</li>\n            </ul>\n            <p>Also drying the area before putting on underwear is very important. You may have to use a hair dryer if need be.</p>\n            <p>A damp groin is an ideal area for fungi to grow.&nbsp;</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
+					
 				],
 				"irregular": {
 					"page": -1,
@@ -218,6 +186,7 @@
 	},
 	"46": {
 		"title": "Pharmacist",
+		"category": "Hemorrhoid",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -238,26 +207,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color8\">Reducing swelling</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color11\">NSAIDs</span> (Non-Steroidal Antiinflammatory Drugs) will reduce the swelling and inflammation. Examples include ibuprofen, naproxen. <span class=\"color8\">Skip</span> these if the hemorrhoid is bleeding.</p>\n            <p><br>\n               <span class=\"color24\">Phenylephrine suppositories&nbsp;</span>(preparation H)\n            </p>\n            <p>This constricts the tiny blood vessels around hemorrhoid in the same way they take care of nasal congestion. This action should reduce the swelling.</p>\n            <p><br>\n               <span class=\"color3\">Hydrocortisone</span>\n            </p>\n            <p>Not for more than 14 days, however. May cause thinning of the skin&nbsp;(Example: cortisone 10 cooling relief gel)</p>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Relieving itching</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span style=\"color:#33ccff;\">Sitz bath</span></p>\n            <p>This involves sitting (Sitz mean&nbsp;to sit) in warm water or warm compress for 15 minutes at a time 2 to 3 times a day.&nbsp;<span style=\"line-height: 1.6em;\">This will help&nbsp;keep the area clean and improve blood flow.&nbsp;</span></p>\n            <p><span style=\"line-height: 1.6em;\">Now, you don't need to go to the pharmacy looking for a sitz bath. You can fill a bathtub with 4 inches of hot water and sit in it for about 15 minutes. This will be just as good.</span></p>\n            <p><br>\n               <span class=\"color11\">&nbsp;Witch hazel.</span>&nbsp;&nbsp;&nbsp;&nbsp;\n            </p>\n            <p>This is a strong astringent. Add this to the treatment regimen. You can buy a bottle (cheaper) and a gauze pad or get Tucks Pads if you prefer.&nbsp;</p>\n            <p><br>\n               <span class=\"color18\">Hydrocortisone 1%</span> (preparation H cream, cortisone 10 cooling).\n            </p>\n            <p>Prefer the cooling gel.</p>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color6\">Easing the pain</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color4\">Lidocaine 5%</span> (RectiCare, LMX 5%)</p>\n            <p>This is used to numb the affected area helping relieve the pain. At least for a few hours.</p>\n            <p>Combine this with creams containing phenylephrine (vasoconstrictor) for a stronger and longer effect.</p>\n            <p><br>\n               <span class=\"color11\">NSAIDs</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;\n            </p>\n            <p>Take ibuprofen or naproxen for pain and inflammation.</p>\n            <p>Use this if there is no bleeding.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Softening the stool</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color16\">Docusate</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>This is a stool softener. Softening the stool will reduce the stress on hemorrhoid.</p>\n            <p><br>\n               <span class=\"color11\">Fiber&nbsp;drinks</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;\n            </p>\n            <p>These also help soften the stool.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -329,6 +278,7 @@
 	},
 	"47": {
 		"title": "Pharmacist",
+		"category": "Pinworm",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -349,21 +299,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color74\">Deworming</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><strong><span class=\"color11\">Pyrantel pamoate</span></strong></p>\n            <p>This works by making the worms unable to move (paralyzed) so that the body can remove them naturally in the stool.</p>\n            <p>It is given in a single dose initially, and then another single dose two weeks later to eliminate possible re-infection from the eggs since the first dose of medication.</p>\n            <p>Should you decide to treat, you may have to treat the whole household to reduce reinfestation which is very common.</p>\n            <p><span style=\"font-size:12px;\">Brand name is <span class=\"color11\">Pin-X®</span></span></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Stopping the itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Hydrocortisone 1%</p>\n            <p>Apply this to the affected area up to 4 times a day.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color5\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<ul>\n               <li>Treat the whole household at the same time.<br>\n                  &nbsp;\n               </li>\n               <li>Pinworm lay their eggs at night, so shower and wash the anal area first thing in the morning.<br>\n                  &nbsp;\n               </li>\n               <li>Wash sheets, clothes, underwear and towels in a washing machine to &nbsp;eliminate the eggs.<br>\n                  &nbsp;\n               </li>\n               <li>Wash hands frequently and keep fingernails trimmed.<br>\n                  &nbsp;\n               </li>\n               <li>Discourage touching, scratching bare anal areas.<br>\n                  &nbsp;\n               </li>\n               <li>Discourage bitting the nails<br>\n                  &nbsp;\n               </li>\n               <li>Wash toys.<br>\n                  &nbsp;\n               </li>\n               <li>Change underwear and bed linen daily to help remove eggs<br>\n                  &nbsp;\n               </li>\n               <li>Do not fan the bed sheets as this can cause the eggs to be airborne, inhaled and then swallowed.<br>\n                  &nbsp;\n               </li>\n               <li>Clean the toilet seats daily.<br>\n                  &nbsp;\n               </li>\n               <li>It is not necessary to take a laxative, but some people use this opportunity to have the whole family take a laxative to clean the digestive system.</li>\n            </ul>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
