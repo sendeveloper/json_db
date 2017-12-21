@@ -94,6 +94,7 @@
 	},
 	"33": {
 		"title": "Pharmacist",
+		"category": "Shoulder Pain",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -114,21 +115,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color8\">NSAIDS</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Non-Steroidal Anti-inflammatory Drugs (NSAIDS) are useful to reduce the inflammation and pain. These should also help with any stiffness.</p>\n            <p>Ibuprofen, Naproxen, Aspirin are good examples.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color34\">Pain relief creams/patches</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Pain relief creams and patches are counterirritants<img alt=\"Woman applying pain patch\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/painpatch-shoulder-lady.svg\" class=\"img_style83\"> or counter stimulants that help mask pain by causing other sensations in the area it was applied to. Sensations such as the feeling of warmth or cold.</p>\n            <p>They actually cause irritation or inflammation in one location (skin) with the goal of reducing another irritation or inflammation in another location (muscles, joints, tendons).</p>\n            <p>These creams or patches usually contain&nbsp;<span style=\"font-size:11px;\"><span class=\"span11\">&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Capsaicin\" class=\"span12\" title=\"Capsaicin\" class=\"ui-link\"><span class=\"color8\">capsaicin</span></a><span class=\"span11\">,&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Methyl_salicylate\" class=\"span12\" title=\"Methyl salicylate\" class=\"ui-link\"><span class=\"color11\">methyl salicylate</span></a><span class=\"span11\">,&nbsp;</span><a href=\"https://en.wikipedia.org/wiki/Camphor\" class=\"span12\" title=\"Camphor\" class=\"ui-link\"><span class=\"color3\">camphor</span></a><span class=\"span11\">, or&nbsp;</span><span class=\"span13\"><a href=\"https://en.wikipedia.org/wiki/Menthol\" class=\"span12\" title=\"Menthol\" class=\"ui-link\">menthol</a>.</span></span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>A good example is <span class=\"color72\">Salonpas.</span> This is&nbsp;approved by the FDA for over-the-counter pain relief. Others will do just as good or better. Be sure to compare these patches or creams using the link at the end of this page. This should help you make a good decision on what to get.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color68\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>1. Cold packs help reduce inflammation and swelling. Heat assists in relaxing muscles and increasing circulation.</p>\n            <p>2. We recommend ice or cold compress within the first 48 to 72 hours of the occurrence of the shoulder pain and heat thereafter. Cold will reduce inflammation that usually occur early on in a sprain.</p>\n            <p>3. Exercises</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -212,6 +198,7 @@
 	},
 	"34": {
 		"title": "Pharmacist",
+		"category": "Wrist Pain",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -232,21 +219,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color34\">Start by:</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color16\">Applying ice</span></p>\n            <p>If it is a recent sprain apply ice compress for about 20 minutes 2 - 3 times a day.</p>\n            <p>This would help prevent any swelling and inflammation.</p>\n            <p><br>\n               <span class=\"color8\">Use heating pad</span>\n            </p>\n            <p>If the sprain is now over 24 to 48 hours, use a heating pad or warm compress.</p>\n            <p>This should help soothe the wrist and prevent any stiffness.</p>\n            <p><br>\n               <span class=\"color11\">Rest&nbsp;the wrist</span>\n            </p>\n            <p><br>\n               <span class=\"color7\">Keep it elevated if you can.</span>\n            </p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Then:</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color11\">NSAIDs</span></p>\n            <p>Take ibuprofen or naproxen to help with the pain and inflammation. This will also help prevent or reduce any swelling.</p>\n            <p><br>\n               <span class=\"color16\">Pain relief creams</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;\n            </p>\n            <p>These reduce pain by acting as counterirritants.</p>\n            <p><br>\n               <span class=\"color8\">Wrist splint</span>\n            </p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Worth doing:</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color38\"><em>Follow these exercises at the link below once your wrist beings to feel better.</em></span><br>\n               <br>\n               <a href=\"http://m.medlineplus.gov/ency/patientinstructions/000568.htm?page=5&quot;\" target=\"_blank\" class=\"ui-link\">source: MedlinePlus</a>&nbsp; &nbsp;&nbsp;\n            </p>\n            <p><br>\n               &nbsp;\n            </p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -330,6 +302,7 @@
 	},
 	"35": {
 		"title": "Pharmacist",
+		"category": "Elbow Pain",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -350,21 +323,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color8\">Pain and inflammation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>1. <span class=\"color11\">NSAIDs</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>You will use take ibuprofen or naproxen to reduce pain and inflammation in the elbow.</p>\n            <p>This will reduce any swelling or prevent any swelling.<img alt=\"Man wearing elbow pain patch\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/elbow-sleeve-man.svg\" class=\"img_style84\"></p>\n            <p>2. <span class=\"color26\">Pain Patches/Creams</span></p>\n            <p>These cause irritation on the skin to reduce the pain in the elbow tendons or muscles. They are counterirritants.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Do these!</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><strong><span class=\"color16\">Ice</span></strong></p>\n            <p>This is a very important element in the healing process and should be used any time signs of pain or inflammation are present.</p>\n            <p>Use ice after exercise and after any activity that causes discomfort.</p>\n            <p><br>\n               <strong><span class=\"color11\">Rest</span></strong>\n            </p>\n            <p>Rest is the absence of abusive activity, <span class=\"color8\">not</span> the absence of any activity.</p>\n            <p>Tendons require tension and motion to maintain health after injury.</p>\n            <p><img alt=\"Man wearing a counterforce elbow brace\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/elbow-brace-man.svg\" class=\"img_style9\"><br>\n               <strong><span class=\"color7\">Elbow brace</span></strong>\n            </p>\n            <p>The goal of bracing is to help disperse forces that would be absorbed in the site of the elbow injury.</p>\n            <p>A <span class=\"color3\">counterforce brace</span> is useful here.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color6\">Exercises</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Search online for <span class=\"color11\">tennis elbow exercises.</span> Prefer the ones in a pdf version so you can print and take with you.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
