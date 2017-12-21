@@ -95,8 +95,44 @@
 						"mode": "-1"
 					},
 					{
-						"field": "purple_redfont",
-						"title": "<span class=\"purplefont\">Stimulant Laxative<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"field": "stimulant",
+						"title": "<span class=\"purple_redfont\">Stimulant Laxative<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "lubricant",
+						"title": "<span class=\"purple_redfont\">Lubricant Laxative<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "fibers",
+						"title": "<span class=\"purple_redfont\">Fibers<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "saline",
+						"title": "<span class=\"purple_redfont\">Saline Laxative<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "hyper_osmotic",
+						"title": "<span class=\"purple_redfont\">Hyper-Osmotic Laxatives<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "combination",
+						"title": "<span class=\"purplefont\">Combination Products<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "greenfont",
+						"title": "<span class=\"purplefont\">Worth doing<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
 						"content": "",
 						"mode": "-1"
 					}
@@ -175,6 +211,7 @@
 	},
 	"37": {
 		"title": "Pharmacist",
+		"category": "Diarrhea",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -195,21 +232,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "",
-						"content": "",
-						"mode": ""
-					},
-					{
-						"title": "",
-						"content": "",
-						"mode": ""
-					},
-					{
-						"title": "",
-						"content": "",
-						"mode": ""
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -281,6 +303,7 @@
 	},
 	"38": {
 		"title": "Pharmacist",
+		"category": "Heartburn",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -364,66 +387,49 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color3\">Antacids</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Antacids contain alkaline ions (bicarbonate, carbonate or hydroxide) and counterions (Calcium, Magnesium, Sodium, Aluminum) that help to neutralise stomach acids.<img alt=\"Lady taking antacid\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/antacid-lady.svg\" class=\"img_style82\"> You should start getting relief in about 30 mins.</p>\n            <p>The liquid formulation work faster. But the tablets are better for taking along because you may have to take this frequently until you get relief.</p>\n            <p>Be sure to compare OTC antacids using our comparison tool. For instance some you shouldn't take if you have diarrhea and some if you have constipation.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color6\">H<sub>2</sub> blockers</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>These reduce acid production in the stomach by blocking the H2 receptors in the stomach. They are not as effective as Proton pump inhibitors but are a good alternative if cost is a problem.</p>\n            <p>Know that these are used to suppress stomach acid. Don't expect them to work right away if you already have heartburn. They are much better for prevention. If you already have this heartburn, you will have to include an&nbsp;antacid to neutralize the acid already present for fast relief and then use this to prevent further acid production.</p>\n            <p><span style=\"font-size:12px;\">Cimetidine, Famotidine, Ranitidine, and nizatidine are examples.</span></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color47\">Antigas</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color11\">Simethicone</span> is the main ingredient that dissolves the gas in cases of bloating.</p>\n            <p>This is an anti-foaming agent that combines tiny air bubbles in the stomach into a bigger one that you can then belch out or pass as gas.</p>\n            <p>You would use this if you are experiencing bloating along with a heartburn. Some heartburn medications combine this with antacids. This combination is usually preferred.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color7\">Proton Pump Inhibitors</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span style=\"font-family: Arial; font-size: 10.5pt; line-height: 15pt;\"><span class=\"color7\">Omeprazole,</span> <span class=\"color69\">Lansoprazole,</span> <span class=\"color3\">Esomeprazole.</span> These are used to suppress acid production in the stomach.</span></p>\n            <p style=\"margin:0in;line-height:15pt;font-family:Arial;font-size:10.5pt\">The FDA recommends&nbsp;not more than&nbsp;<span class=\"color3\">three 14-day treatment</span>&nbsp;courses to be used in one year. This should be sufficient for you. By that I mean, do it 14 days at a time and if you add good dietary habits and other lifestyle changes, you should not need it for more than 3 times in one year.</p>\n            <p style=\"margin:0in;line-height:15pt;font-family:Arial;font-size:10.5pt\">This is how these drugs work. They irreversibly inhibit the pump that produces acid in the stomach called proton pump. They can knock out up to 99% of these pumps irreversibly which means they will never come back. A 14-day treatment should make this happen. But the stomach will form new pumps to replace the ones that were knocked out which will gradually take a while&nbsp;(average 2 to 3 months) to reach the levels that were causing heartburn before. So if you add good dietary and lifestyle changes to your treatment plan, you should not have to be taking these medications every day just for heartburn relief.</p>\n            <p style=\"margin:0in;line-height:15pt;font-family:Arial;font-size:10.5pt\">Which should you choose? Well, you will have to use the comparison feature of this app to help you with that.</p>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Lifestyle changes</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>You will have to work on these:</p>\n            <ul>\n               <li style=\"margin-bottom: 0.5em;\">Carbonated drinks</li>\n               <li style=\"margin-bottom: 0.5em;\">Alcohol</li>\n               <li style=\"margin-bottom: 0.5em;\">Coffee</li>\n               <li style=\"margin-bottom: 0.5em;\">Caffeinated energy drinks</li>\n               <li style=\"margin-bottom: 0.5em;\">Chocolate, mints or peppermints</li>\n               <li style=\"margin-bottom: 0.5em;\">Citrus fruits</li>\n               <li style=\"margin-bottom: 0.5em;\">Fatty or spicy foods</li>\n               <li style=\"margin-bottom: 0.5em;\">Tomato products</li>\n               <li style=\"margin-bottom: 0.5em;\">Smoking</li>\n               <li style=\"margin-bottom: 0.5em;\">Taking ibuprofen, naproxen or aspirin</li>\n            </ul>\n            <p style=\"margin-bottom: 0.5em;\">Take these seriously. You may want to make a list and place it on the refrigerator as a reminder.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
+						"field": "prevention",
 						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
 						"content": "<br>\n                        <p style=\"margin-top: 8px; margin-bottom: 15px; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\">You will have to work on these:</p>\n                        <ul style=\"margin: 0px 0px 0px 12px; padding-right: 0px; padding-bottom: 15px; padding-left: 1em; border: 0px; font-size: 14px; vertical-align: baseline; list-style-image: none; list-style-type: square; font-family: Arial, Helvetica, sans-serif; line-height: 19.6px;\">\n                            <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Carbonated drinks</li>\n                            <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Alcohol</li>\n                            <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Coffee</li>\n                            <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Caffeinated energy drinks</li>\n                            <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Chocolate, mints or peppermints</li>\n                            <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Citrus fruits</li>\n                            <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Fatty or spicy foods</li>\n                            <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Tomato products</li>\n                            <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Smoking</li>\n                            <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Taking ibuprofen, naproxen or aspirin</li>\n                        </ul>\n                        <p style=\"margin-top: 8px; margin-bottom: 0.5em; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\">Take these seriously. You may want to make a list and place it on the refrigerator as a reminder.</p>\n                        <!--------------------------Banner Link----------------------------- -->\n                        <!--------------------------Banner Link----------------------------- -->\n                        <p>&nbsp;</p>",
 						"mode": "2"
 					},
 					{
+						"field": "antacid",
 						"title": "<span class=\"purplefont\">Antacid</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>You will use this to neutralize the stomach acid already present. This should give you relief within the next 30 mins.</p>\n                    <p>Use the <span class=\"color7\">comparison feature</span> of this app to choose a good one that will work best for you.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "3,8,9,10,11,18,19,20,21,22,23,28,29,30,31,33"
 					},
 					{
+						"field": "antigas",
 						"title": "<span class=\"purple_redfont\">Antigas</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<span class=\"purple_redfont\">Antigas</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>This contains <span class=\"color72\"> </span><span class=\"color72\">simethicone</span> the ingredient that dissolves the gas in the stomach.</p>\n                    <p>You will take this if you are feeling bloated. Expect some belching. When this happens, you should start&nbsp;feeling better.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "4,8,12,13,14,18,19,20,24,25,26,28,29,30,32,33"
 					},
 					{
+						"field": "h2_blocker",
 						"title": "<span class=\"purple_redfont\">H2 Blocker</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>You will want to take this to reduce the production of stomach acid.</p>\n                    <p>Know that it reduces the production of the acid and it will take a few days to kick in. So you may need to combine this with an antacid to neutralise the acid that is already present in the stomach.</p>\n                    <p>Compare H2 blockers using the comparison feature of this app to see which will work best for you.</p>\n                    <p>Just a reminder, you should take this <span class=\"color8\">OR</span> a proton pump inhibitor and not both at the same time.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "5,9,12,15,16,18,21,22,24,25,27,28,29,31,32,33"
 					},
 					{
+						"field": "ppi",
 						"title": "<span class=\"purple_redfont\">PPI</span><span class=\"grayfontSmallSmall\">(Proton pump inhibitors)</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>You will need this to suppress acid production in the stomach. Know that it takes a while to kick in. If you also need something for immediate relief, add an antacid to neutralize the acid that is currently present in the stomach while this will prevent more from being formed. After a couple of days, you can then stop taking the antacid and continue with a proton pump inhibitor.</p>\n                    <p>Be sure to compare the different types using the comparison table of this app to know which to choose between omeprazole, pantoprazole, esomeprazole.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "6,10,13,15,17,19,21,23,24,26,27,28,30,31,32,33"
 					},
 					{
+						"field": "doctor",
 						"title": "<span class=\"purple_redfont\">Seek Urgent Care</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>You will have to see a healthcare provider on this one. Over-the-counter or self-care is not going to take care of this. Don't waste your time and money. It will get worse.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "7,11,14,16,17,20,22,23,25,26,27,29,30,31,32,33"
 					},
 					{
+						"field": "combination",
 						"title": "<span class=\"purplefont\">Combination Products</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>1. Antacid + Famotidine</p>\n                    <p>2. Antacid + Omeprazole</p>\n                    <p>3. Antacid + Antigas</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "8,9,10,18,19,22,23,28,29,30,31,33"
 					},
 					{
+						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"margin-top: 8px; margin-bottom: 15px; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\">You will have to work on these:</p>\n                    <ul style=\"padding-right: 0px; padding-bottom: 15px; padding-left: 1em; margin: 0px 0px 0px 12px; border: 0px; font-size: 14px; vertical-align: baseline; list-style-image: none; list-style-type: square; font-family: Arial, Helvetica, sans-serif; line-height: 19.6px;\">\n                        <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Carbonated drinks</li>\n                        <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Alcohol</li>\n                        <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Coffee</li>\n                        <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Caffeinated energy drinks</li>\n                        <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Chocolate, mints or peppermints</li>\n                        <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Citrus fruits</li>\n                        <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Fatty or spicy foods</li>\n                        <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Tomato products</li>\n                        <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Smoking</li>\n                        <li style=\"margin: 0px 0px 0.5em; padding: 0px; border: 0px; vertical-align: baseline;\">Taking ibuprofen, naproxen or aspirin</li>\n                    </ul>\n                    <p style=\"margin-top: 8px; margin-bottom: 0.5em; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\">Take these seriously. You may want to make a list and place it on the refrigerator as a reminder.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode_above": "2"
@@ -503,6 +509,7 @@
 	},
 	"39": {
 		"title": "Pharmacist",
+		"category": "Nausea",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -583,7 +590,60 @@
 					}
 				],
 				"collapsable": [
-					
+					{
+						"field": "prevention",
+						"title": "<span class=\"bluefont\">Preventive measures<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "meclizine",
+						"title": "<span class=\"purplefont\">Meclizine<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "cola_syrup",
+						"title": "<span class=\"purple_redfont\">Cola Syrup<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "prevention",
+						"title": "<span class=\"bluefont\">Preventive measures<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "antacid",
+						"title": "<span class=\"purple_redfont\">Antacid<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "ort",
+						"title": "<span class=\"purple_redfont\">Oral Rehydration Therapy (ORT)<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "doctor",
+						"title": "<span class=\"purple_redfont\">Seek Urgent Care<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "combination",
+						"title": "<span class=\"purplefont\">Combination Products<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "worth_doing",
+						"title": "<span class=\"greenfont\">Worth doing<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					}
 				],
 				"irregular": {
 					"page": -1,
