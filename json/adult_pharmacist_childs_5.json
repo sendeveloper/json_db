@@ -1,6 +1,7 @@
 {
 	"20": {
 		"title": "Pharmacist",
+		"category": "Dry Mouth",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -21,21 +22,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color14\">xylitol</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Look for formulations with xylitol which is a tooth-friendly sugar alcohol.<img alt=\"Woman pouring mouthwash\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/mouthwash-lady.svg\" class=\"img_style65\">&nbsp;</p>\n                <p>\n                    It has advantages of reducing cavities, remineralization&nbsp;of the enamel before cavities are formed and&nbsp;the sensation of&nbsp;sweetness increases&nbsp;<!--StartFragment-->secretion of saliva.&nbsp;<!--EndFragment-->\n                </p>\n                <p><span style=\"font-size:10px;\"><em>Examples: Biotene, Oasis, ACT</em></span></p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Carboxymethylcellulose</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Look for formulations of mouthwashes<img alt=\"Woman using mouthwash\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/mouthwash-lady-opp.svg\" class=\"img_style65\"> with carboxymethyl cellulose or hydroxyethyl cellulose.</p>\n                <p>The viscosity&nbsp;simulates saliva.</p>\n                <p><span style=\"font-size:10px;\"><em>Examples: Biotene, Oasis</em></span></p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color59\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>1. Regularly sip water.<br>\n                    2. Chew sugar-free gums or suck on sugar-free hard candies.<br>\n                    3. Stay away from over-the-counter antihistamines<br>\n                    4. Do not breathe through the mouth.&nbsp;<br>\n                    5. Cut down on the intake of coffee or energy drinks. They contain caffeine which can cause dry mouth.\n                </p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -107,6 +93,7 @@
 	},
 	"21": {
 		"title": "Pharmacist",
+		"category": "Bad Breath",
 		"tabs_title": [
 			"Take This",
 			"Know This",

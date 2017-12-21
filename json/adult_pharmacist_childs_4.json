@@ -93,6 +93,7 @@
 	},
 	"17": {
 		"title": "Pharmacist",
+		"category": "Toothache",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -113,36 +114,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color56\">1. Salt water rinse</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Place 2 to 3 teaspoonful of table salt in a glass<img alt=\"Woman rinsing the mouth\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/salt-drink-lady.svg\" class=\"img_style59\"> of warm water you can tolerate.</p>\n                <p>Swiss and spit as a mouth wash for about 30 seconds as needed.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">2. Pain pills</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>NonSteroidal Anti-inflammatory Drugs (NSAIDS)</p>\n                <p><img alt=\"Lady taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine4.svg\" class=\"img_style60\"><span style=\"line-height: 1.6em;\">such as ibuprofen or naproxen would help with the inflammation, pain and swelling.</span></p>\n                <p>If you can't take NSAIDs, acetaminophen would be a second choice.</p>\n                <p>But don't take acetaminophen as a first choice. It is not very good with the inflammatory pain associated with a toothache.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color7\">3a. Eugenol <span style=\"font-size:12px;\">(clove oil)</span></span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Use a Q-tip to apply clove oil to the toothache.<img alt=\"Bottle of clove oil\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/clove-oil.svg\" class=\"img_style61\">&#8203;</p>\n                <p>Place a little folded gauze pad to prevent it from being washed away for maximum effect.</p>\n                <p><span class=\"color6\">Can't find clove oil?</span></p>\n                <p>Look for preparations in the dental aisle containing <span class=\"color7\">eugenol.</span>&nbsp;<span style=\"font-size:12px;\">(Red Cross Toothache®, DenTek®).</span></p>\n                <p>This is the pain relieving ingredient in clove oil.</p>\n                <p>If clove oil (eugenol) is not your thing, then go with <span class=\"color58\">benzocaine.</span></p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color57\">3b. Benzocaine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Preparations containing <span class=\"color8\">20% benzocaine</span> will <img alt=\"woman applying benzocaine to tooth\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/orajel-lady-toothache.svg\" class=\"img_style32\">help numb the toothache pain for a few hours.</p>\n                <p>Know that the numbing agent will eventually wash away.</p>\n                <p>How long depends on the amount of saliva you are producing. So make sure you combine this with something like ibuprofen.&nbsp;</p>\n                <p>Average relief time is 4 hours.</p>\n                <p>Remember, it is clove oil (eugenol) or 20% benzocaine. <span class=\"color8\">Not both.</span></p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color40\">4. Cold compress</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>If swollen and very painful, press an ice pack<img alt=\"Woman using cold compress\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/cold-compress-lady.svg\" class=\"img_style62\"> against the cheek closest to the toothache for about 5 to 10 minutes 3 to 4 times a day to alleviate the pain.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color6\">Worth mentioning</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Massaging the web of the hand between the thumb and index finger on the same side as the body with the toothache pain with ice has been found to produce up to a 50% reduction in acute dental pain [ <a href=\"http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1801755/\" target=\"_blank\" class=\"ui-link\">R. Melzack et </a>].</p>\n                <p>I haven't tried it yet, but it would be interesting to see the result the next time I have a toothache.</p>\n                <p>If you tried it, please post your experience in the comments section.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -214,6 +185,7 @@
 	},
 	"18": {
 		"title": "Pharmacist",
+		"category": "Cold Sore",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -327,91 +299,55 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color57\">Docosanol</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This act by blocking the herpes Simplex Virus<img alt=\"Lady applying cream to lips\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/orajel-lady.svg\" class=\"img_style32\"> from entering the skin cells where it can replicate.</p>\n                <p>The result is cold sore with lesser symptoms, severity and shorter duration.</p>\n                <p>When used at the first sign, the tingling stage, it may shorten healing time by about a day or two. The key is using it early. The later, the less effective.</p>\n                <p><span style=\"font-size:12px;\"><em>Example Abreva®</em></span></p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Pain relieving creams</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Camphor, benzyl alcohol, phenol, thymol, menthol, benzocaine, lidocaine.</p>\n                <p>These are pain relief ingredients commonly used in cold sore formulations. They are basically numbing agents.</p>\n                <p>Numbing the area will reduce itching and pain associated with the damaged skin of the lips.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color6\">Skin protectants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Zinc oxide, allantoin, petroleum jelly.</p>\n                <p>They help keep the area moist and prevent cracking which can lead to pain.</p>\n                <p>They also act as a barrier to protect the skin and lips from external irritants.</p>\n                <p>They are useful during the scabbing stage to make scabs less likely to crack and bleed.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color7\">Pain relief +</span> <span class=\"color6\">&nbsp;protectants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Anbesol cold sore therapy®, Orajel single dose®.</p>\n                <p>The goal of these products is to combine pain relief with lip protection. This should make you comfortable enough to at least not be too aware of the cold sore while it is healing on its own.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color59\">Antiseptics</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Benzalkonium chloride. This will help prevent a secondary bacterial infection of the affected area speeding up healing time. Usually, when your skin barrier is broken, bacteria is already diving in to do some damage. This will make the damaged skin worse quickly.</p>\n                <p>Using benzalkonium chloride will act to reduce the level and risk of bacterial infection.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color45\">Antiseptics +</span> <span class=\"color7\">pain relievers</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Bactine® (lidocaine + benzalkonium). This combination is actually very useful in cold sores. The combination of numbing, anti-itch, antiseptic, pain relief reduces your awareness of the cold sore, reduces the urge to touch the area, and not disturbing the cold sore makes it heal faster.</p>\n                <p>We strongly recommend you add this to your treatment regimen especially at the blistering stages.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color60\">Lemon balm</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Lip balms containing 1% lemon extract shorten the healing time, prevent it from spreading and reduce&nbsp;recurrences.</p>\n                <p><span style=\"font-size:12px;\">Example Cold sore relief®</span></p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color22\">Lysine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Increase lysine intake to replace the arginine on skin cells thereby depriving the virus of arginine needed for replication. The virus needs arginine found in the skin to replicate&nbsp;while lysine helps deplete the skin of arginine by competing with its affinity for skin cells.</p>\n                <p>If you are prone to cold sores, you may want to make this a daily vitamin or start taking it when you feel something is coming on.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Others</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<ul>\n                    <li><span class=\"color8\">Red eyes relief eye drops:</span><br>\n                        To take the red out of cold sores on the skin.&nbsp;<span style=\"font-family: Arial, Helvetica, sans-serif; font-size: 14px; line-height: 19.6px;\">Use this if you want to reduce people noticing&nbsp;the cold sore which we all do anyway.</span><br>\n                        &nbsp;\n                    </li>\n                    <li><span class=\"color58\">Ice</span><br>\n                        &nbsp;\n                    </li>\n                    <li><span class=\"color11\">Non-Steroidal anti-inflammatory drugs</span> (NSAIDS)<br>\n                        &nbsp;\n                    </li>\n                    <li><span class=\"color8\">Hydrocortisone 1% cream:</span><br>\n                        For the inflammation. Use in extreme cases of inflammation. It may delay healing time.\n                    </li>\n                </ul>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
+						"field": "prevention",
 						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
 						"content": "<br>\n                        <p>1. Definitely, reduce your stress level. Stress will activate the herpes virus in the same way stress can lead to shingles.</p>\n                        <p>2. Reduce sun exposure or use sun block.</p>\n                        <p>3.&nbsp;<span style=\"background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">Avoid close or direct contact with someone with active cold sores.</span></p>\n                        <p><span style=\"background-image: initial; background-attachment: initial; background-size: initial; background-origin: initial; background-clip: initial; background-position: initial; background-repeat: initial;\">4. If you experience cold sores more than 4 times a year, definitely see a doctor for antiviral pills for prevention. It is worth it. While at it, ask for the tablets and not the creams. The creams are expensive and most insurances don't like paying for it.</span></p>\n                        <!--------------------------Banner Link----------------------------- -->\n                        <!--------------------------Banner Link----------------------------- -->\n                        <p>&nbsp;</p>",
 						"mode": "2"
 					},
 					{
+						"field": "docosanol",
 						"title": "<span class=\"purplefont\">docosanol</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">You will use this to block the herpes Simplex Virus from entering the skin cells where it can replicate.</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\">The result is a cold sore with lesser symptoms, severity and shorter duration.</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\">When used at the first sign, the tingling stage, it may shorten healing time by about a day or two.</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\">Avoid the store brand equivalents. Some stores promote a substitute by providing similar packaging as the original, but there is none. If you read the ingredients carefully, you will find it does not contain the active ingredient docosanol.</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\"><em><span style=\"font-size:10px;\">Brand name: Abreva®</span></em></p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "10,11,12,13,14,25,26,27,28,29,30,31,32,33,34,46,47,48,49,60,61,62,63,64,70,71,72,73,74,76"
 					},
 					{
+						"field": "antiinflammatory",
 						"title": "<span class=\"purple_redfont\">anti-inflammatory</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><span class=\"color11\">NSAIDS</span> <span style=\"font-size:10px;\">(Non-Steroidal Anti-Inflammatory Drugs)</span></p>\n                    <p>Take Ibuprofen or naproxen to help with the pain and inflammation.</p>\n                    <p><span class=\"color61\">Creams</span></p>\n                    <p>If the are is very inflamed, you may want to daub 1% hydrocortisone on the affected area. Do this not more than 2 days as it may delay healing if done often. The goal is to reduce the inflammation quickly and continue other symptom relief creams.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "5,10,15,16,17,18,25,26,27,28,35,36,37,38,39,40,45,46,47,48,49,60,65,66,67,68,70,71,72,73,75,76"
 					},
 					{
+						"field": "analgesic",
 						"title": "<span class=\"purple_redfont\">analgesic</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>You will need to numb the area to prevent itching and reduce pain.</p>\n                    <p><span style=\"font-size:11px;\"><span style=\"font-family: Arial, Helvetica, sans-serif; line-height: 18.9px;\">Camphor, benzyl alcohol, phenol, thymol, menthol, benzocaine, lidocaine are ingredients that will do this.</span></span></p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "6,11,15,19,20,21,25,29,30,31,35,36,37,41,42,43,45,46,47,61,62,63,65,66,67,69,70,71,72,74,75,76"
 					},
 					{
+						"field": "antiseptic",
 						"title": "<span class=\"purple_redfont\">antiseptic</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><span style=\"font-size: 13px; line-height: 20.8px;\">This will help prevent a secondary bacterial infection of the affected area speeding up healing.&nbsp;</span></p>\n                    <p><span style=\"font-size: 13px; line-height: 20.8px;\">Using benzalkonium chloride will act to reduce the level and risk of bacterial infection.</span></p>\n                    <p><span style=\"font-size: 13px; line-height: 20.8px;\">We recommend using it in combination with lidocaine or other numbing agents.</span></p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "7,12,16,19,22,23,26,29,32,33,35,38,39,41,42,44,45,48,49,61,62,64,65,66,68,69,70,71,73,74,75,76"
 					},
 					{
+						"field": "protectants",
 						"title": "<span class=\"purple_redfont\">lip protectants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">The affected area needs to be kept moist and also, you need to prevent cracking which can lead to pain and bleeding.</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\">Skin protectants also act as a barrier to protect the skin and lips from external irritants.</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\">Look for&nbsp;<span style=\"font-size: 13px; line-height: 20.8px;\">Zinc oxide, allantoin, or just use petroleum jelly (vaseline) you may have at home.</span></p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "8,13,17,20,22,24,27,30,32,34,36,38,40,41,43,44,46,48,60,61,63,64,65,67,68,69,70,72,73,74,75,76"
 					},
 					{
+						"field": "supplements",
 						"title": "<span class=\"purple_redfont\">supplements</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">Take Lysine&nbsp;to replace and deplete the arginine on skin cells that the virus needs for replication. &nbsp;</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\">If you are prone to cold sores, you may want to take this daily or start taking it when you feel something is coming on.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "9,14,18,21,23,24,28,31,33,34,37,39,40,42,43,44,47,49,60,62,63,64,66,67,68,69,71,72,73,74,75,76"
 					},
 					{
+						"field": "combination",
 						"title": "<span class=\"purplefont\">Combination Products</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><span class=\"color5\">1. Pain relief + Antiseptic</span></p>\n                    <p>This combines numbing agent lidocaine with the antiseptic benzalkonium chloride. We love this combination and recommend it if you have not tried it before. <span style=\"font-size:10px;\">Example Bactine®</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n                    <p><span class=\"color26\">2. Pain relief + Skin protectant</span></p>\n                    <p>Numbing the area with a numbing agent will reduce itching, pain and combining with a skin protectant should speed up healing and make this cold sore less disruptive to you.<br>\n                        <span style=\"font-size:10px;\">Example Anbesol cold sore therapy®, Orajel single dose®</span>\n                    </p>\n                    <p>&nbsp;</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "3,15,16,19,18,20,29,35,36,38,39,41,42,45,46,48,49,61,62,63,64,65,66,67,70,71,72,75,76"
 					},
 					{
+						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><span class=\"color8\">Reducing the redness</span></p>\n                    <p><span class=\"color3\">Styptic pencil.</span> This is an astringent that stops bleeding from nicks and cuts while shaving. It should help reduce the redness by shrinking the tiny capillary skin blood vessels exposed during the cold sore infection.</p>\n                    <p><span class=\"color11\">Eye drops.</span> Use redness-reducing eye drops to take the redness away. 1 to 2 drops should do it preferably 3 times a day. If they can reduce the redness of the eyes, they should help with the inflamed skin.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode_above": "2"
@@ -491,6 +427,7 @@
 	},
 	"19": {
 		"title": "Pharmacist",
+		"category": "Canker Sore",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -512,31 +449,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color8\">Pain relief</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color3\">Benzocaine:</span></p>\n                <p>To numb the sore and reduce pain. But it wears off after a few hours.<img alt=\"Hand holding ointment tube\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/holding-ointment-tube.svg\" class=\"img_style63\"></p>\n                <p>The best approach, apply ice to the sore for a few minutes, then apply the benzocaine gel.</p>\n                <p>Prefer gel over solution for longer effect.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Speed healing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color56\">Carbamide peroxide 10%</span></p>\n                <ul style=\"margin: 0.8em 0px; padding-right: 0px; padding-left: 0px; color: rgb(68, 68, 68); font-family: Helvetica, Arial, 'Nimbus Sans L', sans-serif; font-size: 14px; line-height: 19.6000003814697px;\">\n                    <li style=\"margin: 0px 0px 0.6em 1.6em; padding: 0px; list-style: disc; line-height: 1.2;\">Removes unhealthy tissue&nbsp;</li>\n                    <li style=\"margin: 0px 0px 0.6em 1.6em; padding: 0px; list-style: disc; line-height: 1.2;\">cleanse and soothe</li>\n                    <li style=\"margin: 0px 0px 0.6em 1.6em; padding: 0px; list-style: disc; line-height: 1.2;\">speeds up natural healing.<br>\n                        &nbsp;\n                    </li>\n                </ul>\n                <p><span class=\"color9\">Milk of Magnesia</span></p>\n                <p>Daub milk of magnesia on the affected area and surrounding.<img alt=\"Woman with canker sores\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/cankersore-lady.svg\" class=\"img_style64\"></p>\n                <p><br>\n                    <span class=\"color3\">Benadryl </span>+ <span class=\"color22\">Maalox/Mylanta</span>\n                </p>\n                <p>Swiss and spit with equal parts of Benadryl and Maalox.</p>\n                <p><br>\n                    <span class=\"color11\">Baking soda paste</span>\n                </p>\n                <p>Make a paste of baking soda and water.<br>\n                    Daub the paste over the canker sore with a Q-tip and let it dry.\n                </p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color61\">Canker cover</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>May benefit a few people. But may:</p>\n                <ul>\n                    <li>leave a sticky mess in your mouth</li>\n                    <li>make canker sore bigger initially</li>\n                    <li>create a burning sensation that can last for a long time</li>\n                    <li>irritate the gums</li>\n                    <li>affect the teeth because it may end up sticking to the teeth rather than the sore</li>\n                    <li>hard to take off</li>\n                </ul>\n                <p>For these &nbsp;reasons&nbsp;we do not recommend it if you have not tried it before.&nbsp;</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color5\">Worth trying</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<ul>\n                    <li>Powdered alum on the sore.<br>\n                        &nbsp;\n                    </li>\n                    <li>Allow <span class=\"color22\">peppermint Altoids</span> to dissolve on the sore.<br>\n                        Better than using canker cover actually.<br>\n                        &nbsp;\n                    </li>\n                    <li>Take <span class=\"color4\">cimetidine</span> 200 mg three times a day.</li>\n                </ul>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color6\">Prevention</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>If it occurs frequently, you can try these for prevention:</p>\n                <ul>\n                    <li>Lysine 500 mg daily.<br>\n                        &nbsp;\n                    </li>\n                    <li>Vitamin B12 1000 mcg daily.<br>\n                        &nbsp;\n                    </li>\n                    <li>Propolis 500 mg daily.<br>\n                        &nbsp;\n                    </li>\n                    <li><span class=\"color8\">Avoid </span>toothpaste with <span class=\"color3\">sodium laurel sulfate.</span>&nbsp;&nbsp;&nbsp;&nbsp;<br>\n                        Use Sensodyne, TheraBreath, Biotene, Rembrandt instead.\n                    </li>\n                </ul>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
