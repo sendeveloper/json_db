@@ -1,6 +1,7 @@
 {
 	"60": {
 		"title": "Pharmacist",
+		"category": "Athletes Foot",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -80,36 +81,49 @@
 				],
 				"collapsable": [
 					{
+						"field": "Prevention",
 						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
 						"content": "<br><p>&nbsp;</p>",
 						"mode": "2"
 					},
 					{
+						"field": "terbinafine",
 						"title": "<span class=\"purplefont\">Terbinafine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode": "4,9,10,11,12,19,20,21,22,23,24,29,30,31,32,34"
 					},
 					{
+						"field": "clotrimazole",
 						"title": "<span class=\"purple_redfont\">Clotrimazole</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode": "5,9,13,14,15,19,20,21,25,26,27,29,30,31,33,34"
 					},
 					{
+						"field": "hydrocortisone",
 						"title": "<span class=\"purple_redfont\">Hydrocortisone 1%</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode": "6,11,13,16,17,19,22,23,25,26,28,29,30,32,33,34"
 					},
 					{
+						"field": "powder",
 						"title": "<span class=\"purple_redfont\">Foot Powder</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode": "7,11,14,16,18,20,22,24,25,27,28,29,31,32,33,34"
 					},
 					{
+						"field": "domeboro",
 						"title": "<span class=\"purple_redfont\">Aluminum acetate</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode": "8,12,15,17,18,21,23,24,26,27,28,30,31,32,33,34"
 					},
 					{
+						"field": "combination",
+						"title": "<span class=\"purplefont\">Combination Products</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
+						"mode_above": "3"
+					}
+					{
+						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode_above": "3"
@@ -189,6 +203,7 @@
 	},
 	"61": {
 		"title": "Pharmacist",
+		"category": "Foot Pain",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -209,31 +224,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color7\">Stretching</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This play a very important role in the treatment of plantar fasciitis.<br>\n                It should focus on increasing the flexibility of the calf muscles and attempt to eliminate trigger points in the calves and the muscles on the bottom of your feet.<br>\n                For instance, before getting out of bed in the morning, try stretching the foot with a towel<br>\n                Or why at work on your desk, role the arch of your foot over a 16oz can of that energy drink you just finished drinking or a tennis ball.\n            </p>\n            <p>You can see good illustrations at <a href=\"http://www.aafp.org/afp/2011/0915/p676.html\" target=\"_blank\" class=\"ui-link\">aafp.org.</a></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Arch supports</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This varies a lot depending on the material used. Look for a soft and dense material.<br>\n                Stick with a <span class=\"color8\">brand name</span> on this one and forget about the store brands.\n            </p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color9\">Night splints</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This is designed to keep your ankle in a <span class=\"color7\">neutral</span> position overnight.<br>\n                This provide stretching of the calf and foot during sleep reducing tension when you first take your first step in the morning.<br>\n                Studies have shown great relief for people using night splints. Seriously consider this.\n            </p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Ice</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Use ice after activities like exercise, stretching, work.<br>\n                Use for 15 to 20 minutes.\n            </p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Medications</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Use this mainly to control the pain.<br>\n                Nsaids\n            </p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -305,6 +295,7 @@
 	},
 	"62": {
 		"title": "Pharmacist",
+		"category": "Arthritis",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -325,26 +316,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color7\">Acetaminophen</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>You should try this first.</p>\n                <p>Better to combine this with a pain relief cream like <span class=\"color8\">capsaicin.</span></p>\n                <p>If this is not working, you can then try NSAIDS.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">NSAIDS</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Nonsteroidal anti-inflammatory drugs.</p>\n                <p>This helps with the inflammation, swelling and pain.</p>\n                <p><span style=\"font-size:12px;\">If you cannot take this for reasons listed in the 'Know this' or 'What if' sections, the next choice would be acetaminophen arthritis relief.</span></p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Capsaicin cream</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Add this to the arthritis management especially if you have knee or hand arthritis.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Glucosamine</span> <span class=\"color6\">Chondroitin</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Try this if you have money to spend.</p>\n                <p>Little or no evidence that they work.</p>\n                <p>They are supposed to help with the cartilage build up and prevent any degradation of existing ones.</p>\n                <p>It can take up to 2 months for any benefit.</p>\n                <p>If at all you want to try these, choose the glucosamine <span class=\"color11\">sulfate</span> over glucosamine <span class=\"color38\">hydrochloride</span>.</p>\n                <p>At least the sulfate has shown a little benefit at a dose of 1500 mg once a day <span class=\"color12\">combined </span>with chondroitin 1200 mg.</p>\n                <p>The good thing is that they are pretty safe with little or no side effects other than the cost.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -416,6 +387,7 @@
 	},
 	"63": {
 		"title": "Pharmacist",
+		"category": "Nail Fungus",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -436,21 +408,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color11\">Keep this in mind</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<ul>\n                <li>With prescription medications, the cure rate for fingernail infection is probably about 70%, and 50 to 68% for toenail infections.&nbsp;</li>\n                <li><span style=\"line-height: 1.6em;\">Even if treatment is successful, the nails may appear abnormal for over a year because of their slow growth.</span></li>\n                <li><span style=\"line-height: 1.6em;\">Relapse occurs in about 20-25% of treated nail fungus.</span></li>\n                <li><span style=\"line-height: 1.6em;\">You may have to apply prescription topical solutions or nail lacquer for up to a year.&nbsp;</span></li>\n                <li><span style=\"line-height: 1.6em;\">Should the doctor decide to give you the tablets, you may have to take it for up to 6 weeks for fingernail infection and 12 weeks for toenail.</span></li>\n                <li><span style=\"line-height: 1.6em;\">To make matters worse, some insurance don't even cover these prescription medications. Those that do, require prior authorization where the doctor would have to fill out a form stating the medical necessity for the treatment.<br>\n                    According to them, it is a cosmetic issue and not a medical problem. Your doctor would have to write something like if it is not treated, your finger is going to fall off or it is going to lead to a secondary bacteria infection or something.</span>\n                </li>\n                <li><span style=\"line-height: 1.6em;\">You may have to do a liver function test before you take some of the oral medications.</span></li>\n            </ul>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color7\">Know this</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>See a doctor. Preferably a podiatrist due to the long term commitment involved. skip urgent care even if it is swollen.</p>\n            <p><br>\n                If you have athlete's foot, start treating that now with over the counter creams.\n            </p>\n            <p><br>\n                Know that if not treated, it may grow leading to a gradual destruction of the nail plate.\n            </p>\n            <p><br>\n                If not treated, it may spread to other nails or lead to bacteria infection.\n            </p>\n            <p><br>\n                It may become painful at some point or lead to a disfigured nail.\n            </p>\n            <p><br>\n                These information provided was to give you an idea of what you are looking at. If it is pretty bad, see a doctor now to get started.&nbsp;\n            </p>\n            <p><br>\n                There is some good news in all these. Some nail fungus do clear on their own and it is not life threatening.&nbsp;\n            </p>\n            <p><span style=\"line-height: 1.6em;\">But you may start avoiding the beaches or swimming pool due to the feeling of stigmatisation.</span></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">OTC medications</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color8\">Nothing over-the-counter will treat a nail fungus.&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>These over the counter medications are for taking care of the skin surrounding the nails.</p>\n            <p>List medications here.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,

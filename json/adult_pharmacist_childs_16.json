@@ -1,6 +1,7 @@
 {
 	"64": {
 		"title": "Pharmacist",
+		"category": "Warts",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -21,21 +22,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color8\">Salicylic acid</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>content</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color79\">Freezing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Content</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color5\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Combining both methods above for large warts</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -107,6 +93,7 @@
 	},
 	"65": {
 		"title": "Pharmacist",
+		"category": "Swollen Foot",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -138,6 +125,7 @@
 	},
 	"66": {
 		"title": "Pharmacist",
+		"category": "Corns",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -158,21 +146,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color3\">Try this first</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Soak your foot in epsom salt and warm water for about 10 to 20 minutes to soften the corn.</p>\n            <p>Then sand or rub away the corn gently using a pumice stone or skin file until you can fully remove the corn.</p>\n            <p>If this don't work, then you can use over the counter medication like salicylic acid.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Salicylic acid</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Look for a pad, plaster, liquid or applicators containing salicylic acid. Usually 40%.</p>\n            <p>This will dissolve the thick layer of dead skin turning the area white.</p>\n            <p>You can then &nbsp;peel away the dead skin.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color18\">Antibiotic ointment</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>You run the risk of infecting the area if you are doing anything yourself.</p>\n            <p>For this reason, use a triple antibiotic ointment to prevent any infection.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -244,6 +217,7 @@
 	},
 	"67": {
 		"title": "Pharmacist",
+		"category": "Ingrown Toenail",
 		"tabs_title": [
 			"Take This",
 			"Know This",
