@@ -170,7 +170,7 @@
 	},
 	"9": {
 		"title": "Pharmacist",
-		"category": "",
+		"category": "Red Eyes",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -192,16 +192,6 @@
 					
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color51\">Cold compress</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Use a cold compress to reduce the dilation of the blood vessels on the surface of the eye.</p>\n\t\t\t\t                    <p>If you have the time, place cucumber in the freezer for about 10 to 15 minutes, cut into slices and place the slice over your eyes to use as a cold compress.</p>\n\t\t\t\t                    <p>This will also help with circles under the eyes and wrinkles on and near the eyelids while you are at it.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Eye drops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Eye drops for red eyes act by constricting the blood vessels that have dilated on the surface of the eyes. This makes them less noticeable.</p>\n\t\t\t\t                    <p>You may need help choosing a good eye drops for red eyes. For this reason I have included a comparison table for eye drops for redness relief.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -278,6 +268,7 @@
 	},
 	"10": {
 		"title": "Pharmacist",
+		"category": "Stye",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -301,31 +292,6 @@
 					
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color8\">Warm compress</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Apply a warm compress about 4 to 6 times a day for about 5-10 minutes each time.</p><p>Keep your eyes closed while doing this.</p><p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color7\">Eyelid hygiene</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Eyelid hygiene would require you to gently scrub the infected eyelid with water and/or &nbsp;a nonirritating soap like baby shampoo.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Pain relievers</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>&nbsp;Take some ibuprofen or naproxen if you can to help with tenderness and pain.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color9\">Eye Lubricants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>These mainly contain petroleum jelly to soothe eye movement.</p><p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color15\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<ol>\n\t\t\t\t                        <li>Depending on how bad it is and how desperate you are, get triple antibiotic ointment or cream and gently dab it on the affected area outside the eye.<br>\n\t\t\t\t                            Know that this is not meant for the eye as it is not sterile. Try avoiding the eyes as much as possible and only use it while awake.<br>\n\t\t\t\t                            Wash off before going to sleep.<br>\n\t\t\t\t                            &nbsp;\n\t\t\t\t                        </li>\n\t\t\t\t                        <li>Do NOT attempt to squeeze or lance it.<br>\n\t\t\t\t                            Let it drain on its own.<br>\n\t\t\t\t                            If it does not drain in 2 to 3 days, then it is time to see a doctor.\n\t\t\t\t                        </li>\n\t\t\t\t                    </ol>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -397,6 +363,7 @@
 	},
 	"11": {
 		"title": "Pharmacist",
+		"category": "Dry Eyes",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -475,66 +442,49 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color2\">Lubrication</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>These include artificial tears, lubricant eye gels and ointments.<img alt=\"Eye drops bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/eyedrop-bottle.svg\" class=\"img_style50\"></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Punctal plugs</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>To plug the drainage duct of tears in the eye.<img alt=\"Punctal plug illustration\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/punctal-plug.svg\" class=\"img_style52\"></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Steroidal eye drops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>For inflammation.<img alt=\"eyedrops bottle with pack\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/eyedrop-pack-bottle.svg\" class=\"img_style51\"></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color51\">Restasis</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>How does it work?</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Oral antibiotics</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Like doxycycline.</p><p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Others</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<ol>\n\t\t\t\t                        <li>Warm compress</li>\n\t\t\t\t                        <li>Omega 3 oils</li>\n\t\t\t\t                        <li>Eye lid scrubs.</li>\n\t\t\t\t                    </ol>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
+						"field": "prevention",
 						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
 						"content": "<br><p>&nbsp;</p>",
 						"mode": "2"
 					},
 					{
+						"field": "thicker",
 						"title": "<span class=\"purplefont\">Thicker / Viscous Artificial Tears</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>Entry for thick eye drops</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "4,9,10,11,12,19,20,21,22,23,24,29,30,31,32,34"
 					},
 					{
+						"field": "watery",
 						"title": "<span class=\"purple_redfont\">Watery Artificial Tears</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>Watery eye drops</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "5,9,13,14,15,19,20,21,25,26,27,29,30,31,33,34"
 					},
 					{
+						"field": "nighttime",
 						"title": "<span class=\"purple_redfont\">Night Time Lubricant Gel</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>Night time gel</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "6,10,13,16,17,19,22,23,25,26,28,29,30,32,33,34"
 					},
 					{
+						"field": "cold_warm_compress",
 						"title": "<span class=\"purple_redfont\">Cold / Warm Compress</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode": "7,11,14,16,18,20,22,24,25,27,28,29,31,32,33,34"
 					},
 					{
+						"field": "preservative_free",
 						"title": "<span class=\"purple_redfont\">Preservative Free</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode": "8,12,15,17,18,21,23,24,26,27,28,30,31,32,33,34"
 					},
 					{
+						"field": "combination",
+						"title": "<span class=\"purplefont\">Combination Products</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
+						"mode_above": "2"
+					}
+					{
+						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode_above": "2"

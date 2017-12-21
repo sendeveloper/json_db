@@ -1,6 +1,7 @@
 {
 	"12": {
 		"title": "Pharmacist",
+		"category": "Earache",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -82,51 +83,49 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color10\">Pain relievers</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color29\">NSAIDs</span></p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">You will start with non-steroidal anti-inflammatory drugs</p>\n\t\t\t\t                    <p><img alt=\"Lady taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine.svg\" class=\"img_style53\"></p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">&nbsp;if you can take something like ibuprofen or naproxen which are good examples.</p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">This would help with&nbsp;any swelling that is typical of earaches and ear pain. Most of the time, an inflammation is causing the ear pain.</p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color28\">Acetaminophen</span></p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">This is the second choice if you cannot take ibuprofen or naproxen.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Hemoepathic eardrops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color52\">Hylands,</span>&nbsp;<span class=\"color29\">Similasan</span>&nbsp;or store brands.</p>\n\t\t\t\t                    <p><img alt=\"Eardrop bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/eardrops-bottle.svg\" class=\"img_style54\"></p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">These eardrops should temporarily relieve ear pain and congestion or at a minimum soothe the ear.</p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">We recommend you add an oral anti-inflammatory pain reliever to this if you want &nbsp;to sleep at night.</p>\n\t\t\t\t                    <p>&nbsp;</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Warming soothing oils</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color28\">Olive/sweet oil</span>,&nbsp;<span class=\"color29\">mullein/garlic oil</span>,&nbsp;<span style=\"color: rgb(0, 100, 0);\">tea tree oil</span>.</p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">Use any of these if the ear is not draining pus.&nbsp;</p>\n\t\t\t\t                    <p><img alt=\"Bottle of weet oil\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sweet-oil.svg\" class=\"img_style55\"></p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\">We recommend starting with sweet oil or olive oil. Don't go looking for sweet oil at the pharmacy. Get olive oil, warm it up and put 2 to 3 drops in the affected ear(s). Make sure you heat the olive oil by putting it in a container and putting the container in hot water or running it under hot water. Test the temperature on the forearm and apply the drops.</p>\n\t\t\t\t                    <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color44\">Warning.</span>&nbsp;Stay away from these if an earache is caused by swimming or water in the ear. It will make it worse. The oil will just be floating on the water. You will need drying agents for this situation.</p>\n\t\t\t\t                    <p>&nbsp;</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
+						"field": "prevention",
 						"title": "\"<span class=\\\"bluefont\\\">Preventive measures</span><span class=\\\"ui-collapsible-heading-status\\\"> click to collapse contents</span>\"",
 						"content": "<br><p>&nbsp;</p>",
 						"mode": "2"
 					},
 					{
+						"field": "pain_reliever",
 						"title": "<span class=\"purplefont\">Pain Reliever</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color29\">NSAIDs</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">You will start with non-steroidal anti-inflammatory drugs if you can take something like ibuprofen or naproxen which are good examples.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">This would help with&nbsp;any swelling which is typical of earaches and ear pain. Most of the time, an inflammation is causing the ear pain.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color28\">Acetaminophen</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">This is the second choice if you cannot take ibuprofen or naproxen.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "5,10,11,12,13,20,21,22,23,24,25,30,31,32,33,35"
 					},
 					{
+						"field": "eardrops",
 						"title": "<span class=\"purple_redfont\">Soothing ear drops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p class=\"span5\"><span class=\"span6\">Olive/sweet oil</span>,&nbsp;<span class=\"span9\">mullein/garlic oil</span>,&nbsp;<span class=\"span7\">tea tree oil</span>.</p>\n\t\t\t\t                        <p class=\"span5\">Use any of these if the ear is not draining pus. We recommend starting with sweet oil or olive oil. Don't go looking for sweet oil at the pharmacy. Get olive oil, warm it up and put 2 to 3 drops in the affected ear(s). Make sure you heat the olive oil by putting it in a container and putting the container in hot water or running it under hot water. Test the temperature on the forearm and apply the drops.</p>\n\t\t\t\t                        <p class=\"span5\"><span class=\"span8\">Warning.</span>&nbsp;Stay away from these if an earache is caused by swimming or water in the ear. It will make it worse. The oil will just be floating on the water. You will need drying agents for this situation.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color52\">Hylands,</span>&nbsp;<span class=\"color29\">Similasan</span>&nbsp;or store brands.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">These eardrops should temporarily relieve ear pain and congestion or at a minimum soothe the ear.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">We recommend you add an oral anti-inflammatory pain reliever to this if you want &nbsp;to sleep at night.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "6,10,14,15,16,20,21,22,26,27,28,30,31,32,34,35"
 					},
 					{
+						"field": "decongestant",
 						"title": "<span class=\"purple_redfont\">Decongestants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">This will be useful if an earache is due to sinus pain and pressure or resulted from a cold or allergy.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Get pseudoephedrine. Ask for this at the pharmacy counter.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "7,11,14,17,18,20,23,24,26,27,29,30,31,33,34,35"
 					},
 					{
+						"field": "warm_compress",
 						"title": "<span class=\"purple_redfont\">Warm Compress</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><span style=\"font-size: 13px; line-height: 20.8px;\">This should help with the inflammatory pain and ease congestion in the affected ear.</span></p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "8,12,15,17,19,21,23,25,26,28,29,30,32,33,34,35"
 					},
 					{
+						"field": "doctor",
 						"title": "<span class=\"purple_redfont\">Urgent Care Clinic</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>Please go to the nearest urgent care clinic. Nothing over-the-counter will take care of this.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "9,13,16,18,19,22,24,25,27,28,29,31,32,33,34,35"
 					},
 					{
+						"field": "combination",
+						"title": "<span class=\"purplefont\">Combination Products</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
+						"mode_above": "3"
+					}
+					{
+						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode_above": "3"
@@ -206,6 +205,7 @@
 	},
 	"13": {
 		"title": "Pharmacist",
+		"category": "Swimmers Ear",
 		"tabs_title": [
 			"Take This",
 			"Know This",
