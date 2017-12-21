@@ -123,7 +123,7 @@
 						"title": "<span class=\"purplefont\">Combination Products</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode_above": "3"
-					}
+					},
 					{
 						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
@@ -285,51 +285,49 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color26\">Drying ear drops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>To&nbsp;keep the ear canal dry.<img alt=\"Ear drops bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/eardrops-bottle.svg\" class=\"img_style54\">&nbsp;</p>\n\t\t\t\t                    <p>These ear drops evaporate excess water in the ear and prevent the growth of bacteria and fungi in the ear canal. A mixture of half rubbing alcohol and half white vinegar should do the trick.</p>\n\t\t\t\t                    <p>We recommend buying ear drops for swimmer's ear over-the-counter. These have other things mixed with them like boric acid.</p>\n\t\t\t\t                    <p>Be sure to do this only if the eardrum is not ruptured or you don't use any ear tubes.</p>\n\t\t\t\t                    <p>&nbsp;</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color10\">Pain relievers</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Naproxen, ibuprofen for ear pain and inflammation.</p>\n\t\t\t\t                    <p><img alt=\"Lady taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine2.svg\" class=\"img_style56\"></p>\n\t\t\t\t                    <p>&nbsp;These are anti-inflammatory pain relievers that will be useful in case of any swelling or preventing swelling in the ear canal.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>To reduce itching in the ear canal. Take an antihistamine if the ear is very itchy.<img alt=\"Woman taking her medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine3.svg\" class=\"img_style57\"></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
+						"field": "prevention",
 						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
 						"content": "<br>\n\t\t\t\t                            <p style=\"font-size: 13px; line-height: 20.8px;\">1. Get in the habit of using a drying ear drop after swimming.</p>\n\t\t\t\t                            <p style=\"font-size: 13px; line-height: 20.8px;\">2. A blow dryer set on low is helpful to dry out water after swimming.</p>\n\t\t\t\t                            <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                            <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                            <p>&nbsp;</p>",
 						"mode": "2"
 					},
 					{
+						"field": "eardrops",
 						"title": "<span class=\"purplefont\">Ear Drops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">To&nbsp;keep the ear canal dry.<img alt=\"Ear drops bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/eardrops-bottle.svg\" class=\"img_style54\">&nbsp;</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">These ear drops evaporate excess water in the ear and prevent the growth of bacteria and fungi in the ear canal. A mixture of half rubbing alcohol and half white vinegar should do the trick.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">We recommend buying ear drops for swimmer's ear over-the-counter. These have other things mixed with them like boric acid.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Be sure to do this only if the eardrum is not ruptured or your child does not use&nbsp;ear tubes.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "5,10,11,12,13,20,21,22,23,24,25,30,31,32,33,35"
 					},
 					{
+						"field": "pain_reliever",
 						"title": "<span class=\"purple_redfont\">Pain Reliever</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">Naproxen, ibuprofen for ear pain and inflammation.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><img alt=\"Lady taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine2.svg\" class=\"img_style56\"></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">&nbsp;These are anti-inflammatory pain relievers that will be useful in case of any swelling or preventing swelling in the ear canal.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "6,10,14,15,16,20,21,22,26,27,28,30,31,33,34,35"
 					},
 					{
+						"field": "antihistamine",
 						"title": "<span class=\"purple_redfont\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">To reduce itching in the ear canal.&nbsp;</p>\n\t\t\t\t                        <p><img alt=\"Woman taking her medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine3.svg\" class=\"img_style58\"><span style=\"font-size: 13px; line-height: 1.6em;\">Take an antihistamine if the ear is very itchy.</span></p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "7,11,14,17,18,20,23,24,26,27,29,30,31,33,34,35"
 					},
 					{
+						"field": "warm_compress",
 						"title": "<span class=\"purple_redfont\">Warm Compress</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>A warm compress should provide temporary relief from the pain and inflammation.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "8,12,15,17,19,21,23,25,26,28,29,30,32,34,35"
 					},
 					{
+						"field": "doctor",
 						"title": "<span class=\"purple_redfont\">Seek Urgent Care</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>You should go the nearest urgent care clinic for this. It is going to get worse.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "9,13,16,18,19,22,24,25,27,28,29,30,32,33,34,35"
 					},
 					{
+						"field": "combination",
+						"title": "<span class=\"purplefont\">Combination Products</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "",
+						"mode_above": "2"
+					},
+					{
+						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">1. Get in the habit of using a drying ear drop after swimming.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">2. A blow dryer set on low is helpful to dry out water after swimming.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode_above": "2"
@@ -409,6 +407,7 @@
 	},
 	"14": {
 		"title": "Pharmacist",
+		"category": "Ear Wax",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -505,6 +504,7 @@
 	},
 	"15": {
 		"title": "Pharmacist",
+		"category": "Motion Sickness",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -525,21 +525,7 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color3\">Antihistamines</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">This is the main medication&nbsp;available over-the-counter to help with motion sickness.</p>\n            <p style=\"font-size: 13px; line-height: 20.8px;\">Examples are meclizine, dimenhydrinate and diphenhydramine. The non-sedating antihistamines are not effective for motion sickness. So stay away from loratadine, cetirizine or fexofenadine.</p>\n            <p style=\"font-size: 13px; line-height: 20.8px;\">Choose meclizine if drowsiness is a concern for you. It is the least drowsy of the group.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color53\">Acupressure / Magnets</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\"><span style=\"font-size: 12px;\"><span class=\"span10\">These are knitted elasticated wrist band, which operates by applying pressure on the Nei Kuan acupressure point on each wrist by means of a plastic stud. A good example is sea band.</span></span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</p>\n            <p style=\"font-size: 13px; line-height: 20.8px;\">Follow the package directions to be sure they work properly and use on both wrists is highly recommended for adequate effect.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color15\">Ginger Gum</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">Ginger gum will help with the nausea of motion sickness for some people. It is worth trying.</p>\n            <p style=\"font-size: 13px; line-height: 20.8px;\">Look for a product that will provide 25 mg of ginger oil or 8 g of fresh ginger root per gum.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
+					
 				],
 				"irregular": {
 					"page": -1,

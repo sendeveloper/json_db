@@ -1,6 +1,7 @@
 {
 	"16": {
 		"title": "Pharmacist",
+		"category": "Vertigo",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -21,21 +22,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color54\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Some cases of vertigo may not require treatment, <img alt=\"Woman taking medicine\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-medicine-purple.svg\" class=\"img_style57\">but others may respond to over-the-counter antihistamines.</p>\n            <p><span style=\"line-height: 1.6em;\">Meclizine, dimenhydrinate &nbsp;and &nbsp;diphenhydramine are the main over the counter antihistamines that will help with nausea and dizziness associated with vertigo.</span></p>\n            <p>Prefer something with <span class=\"color11\">meclizine 25 mg</span> over the others.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color15\">Natural remedies</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Natural medicines that may help some people include &nbsp;ginger root, ginkgo biloba, and coriander.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color55\">Vitamin D</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This can help in some people if you have been diagnosed as having vitamin D deficiency.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
