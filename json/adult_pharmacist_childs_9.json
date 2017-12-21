@@ -83,33 +83,21 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color56\">Stool softeners</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This allows more water and fat to get into the stool making it softer and easier to move along.</p>\n            <p>They are stimulant free and generally regarded as gentle.</p>\n            <p>But expect action in about 1 to 3 days.</p>\n            <p><span style=\"font-size:14px;\">Docusate is a good example.</span></p>\n            <p>&nbsp;</p>",
+						"field": "prevention",
+						"title": "<span class=\"bluefont\">Preventive measures<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
 						"mode": "-1"
 					},
 					{
-						"title": "<span class=\"color11\">Bulk-forming fibers</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>These cause the stool to retain more water, bulk it up and form something like a gel making it easier to move along.</p>\n            <p>They are gentle and as such can be used daily to keep things moving.</p>\n            <p>Some of these fibers are sources of soluble and insoluble fibers. While the insoluble fibers help make things move in the intestine, the soluble fibers have been shown to reduce cholesterol and ultimately heart disease.</p>\n            <p><span style=\"font-size:14px;\"><em><span class=\"span14\">In 1998, the U.S. Food and Drug Administration (FDA) authorized the use of a health clai</span></em><span class=\"span14\"><em>m that</em>&nbsp;...</span><span class=\"color38\"><span style=\"font-family: Arial, Helvetica, sans-serif; line-height: normal;\">diets low in saturated fat and cholesterol that include 7 grams of soluble fiber per day from psyllium&nbsp;may reduce the risk of heart disease by lowering cholesterol...</span></span><em><span class=\"span14\">&nbsp;in the labeling of foods and dietary supplements containing psyllium husk.</span></em>&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p><span style=\"font-size:16px;\">If you have a history of constipation, you should include this in your daily routine.&nbsp; &nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>Examples include:&nbsp;<span class=\"span15\">&nbsp;Psyllium, cellulose, methylcellulose, carboxymethylcellulose sodium, karaya, malt soup extract, polycarbophil, and wheat bran.</span></p>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
+						"field": "stool_softener",
+						"title": "<span class=\"purplefont\">Stool Softener<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
 						"mode": "-1"
 					},
 					{
-						"title": "<span class=\"color8\">Stimulants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>These stimulates or make the intestine more active thereby causing a bowel movement.</p>\n            <p>They act on the walls and nerves of the intestine, altering the electrolytes and water movement.</p>\n            <p>They are the most powerful among laxatives, but also the most dangerous.</p>\n            <p>For instance, prolonged use can damage the ability of the folds in the colon to move stool along on its own because you've over stimulated it.</p>\n            <p>Then you will need to take another stimulant laxative to move things along and before you know it, you will end up with chronic constipation that is dependent on you having to take these laxatives before you can go. In other words, you will become dependent on them.</p>\n            <p>So use these on a short term basis. Never more than a week.</p>\n            <p><em>Examples are senna extracts, castor oil, bisacodyl, cascara, aloe vera, buckthorn.&nbsp;</em></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color65\">Lubricants</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>The idea is to make the stool slippery so it can pass out easily.</p>\n            <p>A good example is mineral oil.&nbsp;</p>\n            <p>Being an oil, mineral oil, also add more water to the stool making it softer, because it prevents the colon from absorbing water.</p>\n            <p>Only problem is that it will also prevent the absorption of fat-soluble vitamins and some minerals by dissolving them in the oil and passing them out.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color53\">Saline laxatives</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>These draws water into the intestine and retain it to make stool softer and more comfortable to pass.</p>\n            <p>You should take this with a full glass of water not only to make it more effective, but &nbsp;also prevent side effects like dehydration or electrolyte imbalance.</p>\n            <p>Examples include magnesium citrate, magnesium hydroxide or milk of magnesia, magnesium sulfate and&nbsp;sodium phosphate.</p>\n            <p><span style=\"font-size:12px;\">Stay away from <span class=\"color7\">oral</span> <span style=\"color:#008000;\">sodium phosphates.</span> <span class=\"span16\">These when taken at high doses </span><span class=\"span16\">&nbsp;in some individuals carry a risk of kidney injury. For this reason Fleet phospho-soda &nbsp;(Oral form. Not enema)</span><span class=\"span16\">&nbsp;</span>&nbsp;was recalled by the manufacturer.</span></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Hyper-osmotic agents</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>These cause the intestine to hold more water within thereby soften the stool for easy passage.</p>\n            <p>Their goal is to hydrate the stool, soften it and make it easier to pass.</p>\n            <p>Examples include glycerin suppository, polyethylene glycol (PEG), sorbitol,&nbsp;lactulose.</p>\n            <p>&nbsp;</p>",
+						"field": "purple_redfont",
+						"title": "<span class=\"purplefont\">Stimulant Laxative<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
 						"mode": "-1"
 					}
 				],
