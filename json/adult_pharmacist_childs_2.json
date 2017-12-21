@@ -1,6 +1,7 @@
 {
 	"8": {
 		"title": "Pharmacist",
+		"category": "Pink Eye",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -59,26 +60,37 @@
 				],
 				"collapsable": [
 					{
+						"field": "prevention",
 						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
 						"content": "<br><p>&nbsp;</p>",
 						"mode": "2"
 					},
 					{
+						"field": "allergy",
 						"title": "<span class=\"greenfont\">Allergy Management Approach</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>Allergy entry</p>\n\t\t                                \n\t\t                                \n\t\t                                <p>&nbsp;</p>\n\t\t                                <p>&nbsp;</p>",
 						"mode": "6,9,10,12"
 					},
 					{
+						"field": "viral",
 						"title": "<span class=\"redfont\">Viral Management Approach</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>Viral article</p>\n\t\t                                \n\t\t                                \n\t\t                                <p>&nbsp;</p>\n\t\t                                <p>&nbsp;</p>",
 						"mode": "7,9,11,12"
 					},
 					{
+						"field": "doctor",
 						"title": "<span class=\"purple_redfont\">Seek Urgent Care</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode": "8,10,11,12"
 					},
 					{
+						"field": "combination",
+						"title": "<span class=\"purplefont\">Combination Products</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
+						"mode_above": "2"
+					},
+					{
+						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode_above": "2"
@@ -158,6 +170,7 @@
 	},
 	"9": {
 		"title": "Pharmacist",
+		"category": "",
 		"tabs_title": [
 			"Take This",
 			"Know This",

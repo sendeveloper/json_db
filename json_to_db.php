@@ -25,7 +25,7 @@
 				$header_sql = "INSERT INTO adult_pharmacist_header (page_id, tab_id, content) VALUES ({$page_id}, {$tab_key}, '$content')";
 				$mysqli->query($header_sql);
 			}
-
+			
 			if (isset($data['tabs'][0]['fieldset']))
 			{
 				$field_special = $data['tabs'][0]['fieldspecial'];

@@ -1,6 +1,7 @@
 {
 	"4": {
 		"title": "Pharmacist",
+		"category": "Sleep",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -82,61 +83,43 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color3\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Antihistamines induce drowsiness by blocking histamine produced by the central nervous system. This side effect of drowsiness is what will make you sleepy.<img alt=\"Sleeping woman\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sleeping-woman.svg\" class=\"img_style35\"></p>\n\t\t\t\t                    <p><span class=\"color3\">Diphenhydramine</span> and <span class=\"color11\">doxylamine</span> are the common antihistamines used as sleep aids. There are subtle differences between the two. Be sure to check the comparison section for a great way to choose a sleep aid that will work best for you.</p>\n\t\t\t\t                    <p>Tolerance to antihistamines as a sleep aid can develop quickly. Use them 2 to 3 nights at a time or they won't work for you after a few uses.</p>\n\t\t\t\t                    <p>Take a look at the <strong>\"know this\"</strong> section for common side effects and things to avoid while taking an antihistamine for sleep.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color26\">Antihistamine + Pain relievers</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Antihistamines are commonly combined with pain relievers. This is useful if you had a busy day, came down with a headache and want something to give you a good night's sleep. Good examples are:</p>\n\t\t\t\t                    <h3><span class=\"color8\">Acetaminophen</span> + <span class=\"color3\">Diphenhydramine</span></h3>\n\t\t\t\t                    <p>Use this if you have a headache and this headache is keeping you from sleeping.<img alt=\"Sleepless woman\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sleepless-woman.svg\" class=\"img_style36\"></p>\n\t\t\t\t                    <h3><span class=\"color11\">Ibuprofen or</span> <span style=\"color:#6699ff;\">Naproxen</span> + <span class=\"color3\">Diphenhydramine</span></h3>\n\t\t\t\t                    <p>Use this if you have body aches and muscle pain and you are afraid this will keep you up. This combination provides and anti-inflammatory pain relief with a sleep aid.</p>\n\t\t\t\t                    <p>Now, do not use these for more than 3 nights at a time. That is easy to say. What if you can't sleep after 3 nights? I suggest you see a doctor. But before then, go with melatonin. See if that would help. This is a good reason while you should use the comparison section of this app to compare sleep aids and see what will work best for you.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color19\">Melatonin</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Melatonin may help with difficulty falling asleep and or staying asleep. It can tell your body it is time to go to sleep and as such, it is the sleep aid of choice in jet lags and shift work.<img alt=\"Man wide awake\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sleepless-man.svg\" class=\"img_style37\"></p>\n\t\t\t\t                    <p>Look for <span class=\"color7\">synthetic</span> melatonin. We <span class=\"color8\">discourage natural</span> ones. Natural melatonin is made from the pineal gland of animals and this can be easily contaminated with a virus or something. This is an instance where natural doesn't mean safe to take.</p>\n\t\t\t\t                    <p>&nbsp;</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color27\">Valerian</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Valerian root or stem is used as a sleep aid for sleeplessness and nervous tensions. It is more useful for sleep when you are going through anxiety or stress related situations.<img alt=\"Sleeping woman\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sleeping-lady.svg\" class=\"img_style38\"></p>\n\t\t\t\t                    <p>Know that formulations of valerian can vary in composition among manufacturers and even with the same manufacturer it can vary with different lots, date of manufacture and so on. This is because levels of constituents vary among plant and even depends on when the plant was harvested.</p>\n\t\t\t\t                    <p>Be sure to look for a good manufacturer to buy from.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Others</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>These are used in combination with other sleep aids.</p>\n\t\t\t\t                    <p>They include <span class=\"color7\">chamomile,</span> <span class=\"color21\">lemon balm leaf extract,</span> <span class=\"color10\">hops extract</span>.....</p>\n\t\t\t\t                    <p>Be sure to compare sleep aids using our comparison table.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
+						"field": "Prevention",
 						"title": "<span class=\"bluefont\">Staying Awake</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
 						"content": "<p>&nbsp;</p>",
 						"mode": "2"
 					},
 					{
+						"field": "antihistamine",
 						"title": "<span class=\"purple_redfont\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">Antihistamines induce drowsiness by blocking histamine produced by the central nervous system. This side effect of drowsiness is what will make you sleepy.<img alt=\"Sleeping woman\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sleeping-woman.svg\" class=\"img_style35\"></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color28\">Diphenhydramine</span>&nbsp;and&nbsp;<span style=\"color: rgb(255, 140, 0);\">doxylamine</span>&nbsp;are the common antihistamines used as sleep aids. There are subtle differences between the two. Be sure to check the comparison section for a great way to choose a sleep aid that will work best for you.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Tolerance to antihistamines as a sleep aid can develop quickly. Use them 2 to 3 nights at a time or they won't work for you after a few uses.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Take a look at the&nbsp;<strong>\"know this\"</strong>&nbsp;section for common side effects and things to avoid while taking an antihistamine for sleep.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "4,9,10,11,12,19,20,21,22,23,24,29,30,31,32,34"
 					},
 					{
+						"field": "antihistamine_painrelief",
 						"title": "<span class=\"purple_redfont\">Antihistamine + </span><span class=\"redfont\">Pain relief</span> <span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">Antihistamines are commonly combined with pain relievers. This is useful if you had a busy day, came down with a headache and want something to give you a good night's sleep.&nbsp;</p>\n\t\t\t\t                        <p><br class=\"Apple-interchange-newline\">\n\t\t\t\t                            <img alt=\"Sleepless woman\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sleepless-woman.svg\" style=\"opacity: 0.9; line-height: 20.8px; width: 121px; height: 78px; margin: 8px; float: right;\">\n\t\t\t\t                        </p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Good examples are:</p>\n\t\t\t\t                        <h3><span style=\"color: rgb(255, 0, 0);\">Acetaminophen</span>&nbsp;+&nbsp;<span style=\"color: rgb(128, 0, 128);\">Diphenhydramine</span></h3>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Use this if you have a headache and this headache is keeping you from sleeping.</p>\n\t\t\t\t                        <h3><span style=\"color: rgb(255, 140, 0);\">Ibuprofen or</span>&nbsp;<span style=\"color: rgb(102, 153, 255);\">Naproxen</span>&nbsp;+&nbsp;<span style=\"color: rgb(128, 0, 128);\">Diphenhydramine</span></h3>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Use this if you have body aches and muscle pain and you are afraid this will keep you up. This combination provides and anti-inflammatory pain relief with a sleep aid.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Now, do not use these for more than 3 nights at a time. That is easy to say. What if you can't sleep after 3 nights? I suggest you see a doctor. But before then, go with melatonin. See if that would help. This is a good reason while you should use the comparison section of this app to compare sleep aids and see what will work best for you.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "5,9,13,14,15,19,20,21,25,26,27,29,30,31,33,34"
 					},
 					{
+						"field": "melatonin",
 						"title": "<span class=\"purplefont\">Melatonin</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">Melatonin may help with difficulty falling asleep and or staying asleep. It can tell your body it is time to go to sleep and as such, it is the sleep aid of choice in jet lags and shift work.<img alt=\"Man wide awake\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sleepless-man.svg\" class=\"img_style37\"></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Look for&nbsp;<span class=\"color30\">synthetic</span>&nbsp;melatonin. We&nbsp;<span style=\"color: rgb(255, 0, 0);\">discourage natural</span>&nbsp;ones. Natural melatonin is made from the pineal gland of animals and this can be easily contaminated with a virus or something. This is an instance where natural doesn't mean safe to take.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "6,10,13,16,17,19,22,23,25,26,28,29,30,32,33,34"
 					},
 					{
+						"field": "valerian",
 						"title": "<span class=\"greenfont\">Valerian</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">Valerian root or stem is used as a sleep aid for sleeplessness and nervous tensions. It is more useful for sleep when you are going through anxiety or stress related situations.<img alt=\"Sleeping woman\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/sleeping-lady.svg\" class=\"img_style38\"></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Know that different formulation of valerian can vary in composition among manufacturers and even with the same manufacturer it can vary with different lots, date of manufacture and so on. This is because levels of constituents vary among plant and even depends on when the plant was harvested.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Be sure to look for a good manufacturer to buy from.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "7,11,14,16,18,20,22,24,25,27,28,29,31,32,33,34"
 					},
 					{
+						"field": "combination",
 						"title": "<span class=\"redfont\">Combination</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">These are used in combination with other sleep aids.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">They include&nbsp;<span class=\"color30\">chamomile,</span>&nbsp;<span class=\"color31\">lemon balm leaf extract,</span>&nbsp;<span class=\"color32\">hops extract</span>.....</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Be sure to compare sleep aids using our comparison table.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "8,12,15,17,18,21,23,24,26,27,28,29,30,31,32,33,34"
 					},
 					{
+						"field": "Worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode_above": 2
@@ -216,6 +199,7 @@
 	},
 	"5": {
 		"title": "Pharmacist",
+		"category": "Loss",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -273,51 +257,7 @@
 					}
 				],
 				"collapsable": [
-					{
-						"title": "<font class=\"color33\">Minoxidil</font><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span style=\"line-height: 1.6em;\">Expect an uphill battle with this. It will take time to get results. </span></p>\n\t\t\t\t                    <p><span style=\"line-height: 1.6em;\">You are looking at upward of 6 months.</span></p>\n\t\t\t\t                    <p>Again, it is not something you can apply anytime you want. When you start, you will need to stay with it for no less than 6 months. Or else you will just be wasting your money.</p>\n\t\t\t\t                    <p>You will typically see results only at the crown of the head.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "1"
-					},
-					{
-						"title": "<span class=\"color3\">Ketoconazole</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Even though this is for dandruff, it helps to handle the inflammation of your scalp which may prevent hair from growing even if you use a growth stimulant.</p>\n\t\t\t\t                    <p>It can also help reduce the sensitivity of the hair follicles to the effect of DHT.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "1"
-					},
-					{
-						"title": "Inhibit <span class=\"color34\">DHT</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>To do this, you will need a prescription drug like finasteride (Propecia®), dutasteride (Avodart®).</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "1"
-					},
-					{
-						"title": "<span class=\"color9\">Biotin</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>A vitamin that can stimulate hair growth.</p>\n\t\t\t\t                    <p>Assuming you are not prone to acne, 5,000 mcg per day of biotin can give you good results.</p>\n\t\t\t\t                    <p>Read the \"Know this\" and \"what if\" sections for more information on the side effects to expect.</p>\n\t\t\t\t                    <p>Make sure you are drinking lots of water while taking it.</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "1"
-					},
-					{
-						"title": "<span class=\"color8\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><strong><span class=\"color35\">Tricomin®&nbsp;</span></strong></p>\n\t\t\t\t                    <p>Stimulates hair growth and also helps with conditioning the hair.</p>\n\t\t\t\t                    <p>This may help in a case of thin hair. But don't expect hair growth in places without hair. Think of it as a filler to make the hair feel fuller.</p>\n\t\t\t\t                    <p><strong><span class=\"color36\">Spironolactone cream (5%)</span></strong></p>\n\t\t\t\t                    <p>This block DHT from reaching the hair follicle</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "1"
-					},
-					{
-						"title": "<span class=\"color37\">My recommendation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Summarize your recommendation</p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "1"
-					},
-					{
-						"title": "<span class=\"color6\">Minoxidil</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Content</p><p>&nbsp;</p>",
-						"mode": "2"
-					},
-					{
-						"title": "<span class=\"color11\">Ketoconazole</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Content</p><p>&nbsp;</p>",
-						"mode": "2"
-					},
-					{
-						"title": "<span class=\"color26\">Biotin</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Content</p><p>&nbsp;</p>",
-						"mode": "2"
-					}
+					
 				]
 			},
 			{
@@ -385,6 +325,7 @@
 	},
 	"6": {
 		"title": "Pharmacist",
+		"category": "Dandruff",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -450,56 +391,43 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color11\">Antifungal agents</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>These serve to remove or reduce yeast or<img alt=\"Shampoo bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/shampoo-bottle.svg\" class=\"img_style39\"> the fungus <span style=\"font-size:12px;\"><span class=\"color11\">(Malassezia furfur)</span></span> on the scalp that can cause dandruff.</p>\n\t\t\t\t                    <p><span class=\"color38\"><span style=\"font-size:12px;\">Examples include ketoconazole, pyrithione zinc, selenium sulfide shampoos.</span></span></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
+						"field": "prevention",
+						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
+						"content": "",
+						"mode_above": "2"
 					},
 					{
-						"title": "<span class=\"color8\">Antibacterial</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>They reduce bacterial count on the scalp<img alt=\"Shampoo bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/shampoo-bottle2.svg\" class=\"img_style40\"> that can hasten the death of skin cells of the scalp.</p>\n\t\t\t\t                    <p><span class=\"color38\"><span style=\"font-size:12px;\">Example include Zinc pyrithione (ZPT).</span></span></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color6\">Keratolytic agents</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Causes the outer layer of the skin<img alt=\"Shampoo bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/shampoo-bottle3.svg\" class=\"img_style41\"> to soften, loosen and shed thereby reducing skin flakes and scales.</p>\n\t\t\t\t                    <p><span class=\"color38\"><span style=\"font-size:12px;\">Examples include salicylic acid, sulfur.</span></span></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color40\">keratoplastics</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Slows down the over production of skin cells on the scalp.<img alt=\"Shampoo bottle\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/shampoo-bottle4.svg\" class=\"img_style42\"></p>\n\t\t\t\t                    <p>Slows the death and flaking off of skin cells on the scalp.&nbsp;</p>\n\t\t\t\t                    <p><span style=\"font-size:12px;\"><span class=\"color38\">Examples include coal tar, salicylic acid, sulfur.</span></span></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
-						"content": "<br>\n\t\t\t\t                            <p>Use a gentle shampoo daily to prevent oiliness and flaky build up.</p>\n\t\t\t\t                            <p>Use an&nbsp;antifungal shampoo like ketoconazole or selenium sulfide once or twice a week to control the fungal count on the scalp</p>\n\t\t\t\t                            <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                            <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                            <p>&nbsp;</p>",
-						"mode": "1"
-					},
-					{
+						"field": "mild",
 						"title": "<span class=\"purplefont\">Managing a mild case.</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><span class=\"color41\">Start with:</span></p>\n\t\t\t\t                        <p>Salicylic acid + sulfur or coal tar.</p>\n\t\t\t\t                        <p><img alt=\"Man washing his hair\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/shampoo-man.svg\" class=\"img_style43\"></p>\n\t\t\t\t                        <p>You need to soften the outer layer of the skin, loosen it and make it shed.&nbsp;</p>\n\t\t\t\t                        <p>This should reduce skin flakes and scales.</p>\n\t\t\t\t                        <p><span class=\"color8\">Then:</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\t\t\t\t                        <p>Use <span class=\"color22\">zinc pyrithione</span> for control. This should keep the bacteria count on the scalp in check. Bacteria can hasten the death of skin cells of the scalp.</p>\n\t\t\t\t                        <p>Or if not too bad, use emollients like <span class=\"color11\">lanolin</span> to keep the scalp hydrated.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "3,8,9,10,11,18,19,20,21,22,23,28,29,30,31,33"
 					},
 					{
+						"field": "moderate",
 						"title": "<span class=\"purple_redfont\">Managing a moderate case.</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><strong><span class=\"color11\">Start with:</span></strong></p>\n\t\t\t\t                        <p>Salicylic acid, sulfur or coal tar to soften,</p>\n\t\t\t\t                        <p><img alt=\"Woman washing her hair\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/woman-shower.svg\" class=\"img_style44\"></p>\n\t\t\t\t                        <p>&nbsp;loosen the outer layer of the skin on the scalp. You need to reduce skin flakes and scales.</p>\n\t\t\t\t                        <p><strong><span class=\"color5\">Then:</span></strong></p>\n\t\t\t\t                        <p>Once you are confident the outer skin layer is cleared, use an antifungal agent like selenium sulfide or ketoconazole to keep the fungi population in check. 2 weeks of use should take care of this.</p>\n\t\t\t\t                        <p>You can then maintain hydration with an emollient like lanolin.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "4,8,12,13,14,18,19,20,24,25,26,28,29,30,32,33"
 					},
 					{
+						"field": "severe",
 						"title": "<span class=\"purple_redfont\">Approach to severe cases.</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<h3><span class=\"color42\">Start by</span></h3>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Taking out the top dead cells layer of the scalp.</p>\n\t\t\t\t                        <p><img alt=\"Woman with severe dandruff\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/dandruff-lady.svg\" class=\"img_style45\"></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">This will allow other medications to penetrate the skin and act.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">To do this, you will use <span class=\"color6\">salicylic acid,</span> <span class=\"color11\">sulfur</span> or <span class=\"color43\">coal tar</span> for about <strong>2 weeks.</strong></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Know that it is going to appear worse because these agents are scalp scrubbers.</p>\n\t\t\t\t                        <h3><span class=\"color29\">After 2 weeks</span></h3>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Switch to <span class=\"color7\">ketoconazole,</span> <span class=\"color16\">selenium sulfide</span> or &nbsp;<span class=\"color8\">zinc pyrithione</span> containing medications to kill or reduce the fungi or yeast population on the scalp for another 2 weeks.</p>\n\t\t\t\t                        <h3><span class=\"color44\">Then</span></h3>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Use&nbsp;emollients&nbsp;like <span class=\"color45\">lanolin</span> to help keep the scalp hydrated.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "5,9,12,15,16,18,21,22,24,25,27,28,29,31,32"
 					},
 					{
+						"field": "warning",
 						"title": "<span class=\"purple_redfont\">Oily, dry, blonde or colored?</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><strong><span class=\"color3\">Oily?</span></strong></p>\n\t\t\t\t                        <p>Prefer <span class=\"color11\">salicylic acid</span> and or <strong>coal tar</strong> for taking out the flakes and scales.</p>\n\t\t\t\t                        <p><strong><span class=\"color16\">Dry?</span></strong></p>\n\t\t\t\t                        <p>If the scalp is dry, stay away from these two. They will make things worse.</p>\n\t\t\t\t                        <p><strong><span class=\"color46\">Blonde, chemical or color treated?</span></strong></p>\n\t\t\t\t                        <p>Avoid selenium sulfide. Go with ketoconazole or zinc pyrithione instead.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "6,10,13,15,17,19,21,23,24,26,27,28,30,31,32,33"
 					},
 					{
+						"field": "doctor",
 						"title": "<span class=\"purple_redfont\">See A Doctor.</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>You will have to see a doctor.</p>\n\t\t\t\t                        <p>Looking at&nbsp;serious inflammation that will require the use of topical steroids which are not available over-the-counter. &nbsp;</p>\n\t\t\t\t                        <p>May also be looking at possible scalp infection that will require a good evaluation by the physician.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "7,11,14,16,17,20,22,23,25,26,27,29,30,31,32,33"
 					},
 					{
+						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>1. Keep in mind that dandruff is a chronic condition. It cannot be cured. Your focus should be on control.</p>\n\t\t\t\t                        <p>Once under control, focus on maintenance to prevent it from getting worse.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode_above": "2"
@@ -579,6 +507,7 @@
 	},
 	"7": {
 		"title": "Pharmacist",
+		"category": "Head Lice",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -644,51 +573,37 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color47\">Insecticides</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Lice are basically insects that use humans as a host.<img alt=\"Combing lady's hair\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/hair-combing-lady.svg\" class=\"img_style46\"></p>\n\t\t\t\t                    <p>You need insecticides to kill them.</p>\n\t\t\t\t                    <p>The insecticides safe to use on humans are permethrin and pyrethrins.</p>\n\t\t\t\t                    <p><span class=\"color38\"><span style=\"font-size:12px;\">Examples include </span></span><span class=\"color22\"><span style=\"font-size:12px;\">1% permethrin</span></span><span class=\"color38\"><span style=\"font-size:12px;\"> (Nix®, store brands), </span></span><span class=\"color3\"><span style=\"font-size:12px;\">pyrethrins </span></span><span class=\"color38\"><span style=\"font-size:12px;\">(Rid®, store brands).</span></span></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color48\">Dimethicone 4%</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This coats the lice in silicone oil depriving them of human blood and ultimately death.<img alt=\"Woman combing her hair\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/combing-hair-lady.svg\" class=\"img_style47\"></p>\n\t\t\t\t                    <p>This may be useful if you don't want insecticides on the hair. But there are disadvantages.</p>\n\t\t\t\t                    <p><span class=\"color38\"><span style=\"font-size:12px;\">Example is LiceMD®</span></span></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color27\">Sodium Chloride 1%</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Basically salt water, the goal here is to desiccate<img alt=\"Woman having hair combed\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/combing-hair-lady2.svg\" class=\"img_style48\"> the lice (draw water from their cells by osmosis).</p>\n\t\t\t\t                    <p>This may lead to their death if done properly.&nbsp;</p>\n\t\t\t\t                    <p><span class=\"color38\">An example is LiceFree®</span></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color37\">Cetaphil Cleanser</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Idea is to smother the lice by coating<img alt=\"Lady applying cleanser\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/hair-wash-lady.svg\" class=\"img_style49\"> them in<span class=\"color16\"> Cetaphil cleanser</span>&nbsp;and drying the cleanser on the head.</p>\n\t\t\t\t                    <p><span class=\"color38\"><span style=\"font-size:12px;\">Example Nuvo</span></span></p>\n\t\t\t\t                    <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
+						"field": "Prevention",
 						"title": "<span class=\"bluefont\">Preventive measures</span><span class=\"ui-collapsible-heading-status\"> click to collapse contents</span>",
 						"content": "<br><p>&nbsp;</p>",
 						"mode": "2"
 					},
 					{
+						"field": "pediculicides",
 						"title": "<span class=\"purplefont\">Pediculicides</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><span style=\"line-height: 20.8px;\"><em><span class=\"color22\">1% permethrin</span>&nbsp;<span class=\"color49\">(Nix),</span></em></span><span style=\"font-size: 13px; line-height: 20.8px;\">&nbsp;or&nbsp;</span><span style=\"line-height: 20.8px;\"><em><span class=\"color6\">pyrethrins + piperonyl butoxide</span>&nbsp;<span class=\"color28\">(Rid)</span></em></span><span class=\"span4\">&nbsp;</span><span style=\"font-size: 13px; line-height: 20.8px;\">or store brands are the pediculicides available over-the-counter for head lice.</span></p>\n\t\t\t\t                        <p><span class=\"color11\">Nix, Rid or Store brands. Like to know which to use?</span></p>\n\t\t\t\t                        <ol style=\"font-size: 13px; line-height: 20.8px;\">\n\t\t\t\t                            <li>Allergic to ragweed&nbsp;or chrysanthemums?<br>\n\t\t\t\t                                If yes, get the 1% permethrin.<br>\n\t\t\t\t                                Pyrethrins are naturally occurring extracts from the chrysanthemum flower.\n\t\t\t\t                            </li>\n\t\t\t\t                            <li>&nbsp;Plan on using this on a child less than 2 years old?<br>\n\t\t\t\t                                Go with 1% permethrin lotion or cream.<br>\n\t\t\t\t                                Pyrethrins are not recommended for use on children less than 2 years old.\n\t\t\t\t                            </li>\n\t\t\t\t                            <li>Don't plan on repeating the process in a week?<br>\n\t\t\t\t                                You should re-apply both in a week&nbsp;for best results.<br>\n\t\t\t\t                                None of them will kill the eggs.\n\t\t\t\t                            </li>\n\t\t\t\t                        </ol>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span style=\"font-size: 12px;\">Nix<sup>®</sup>&nbsp;website says kills the eggs. What they mean is that permethrin has a residual activity on the scalp which will help get rid of &nbsp;any newly hatched baby lice from the eggs for up to 14 days.</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span style=\"font-size: 12px;\">Don't depend on this. Re-apply it after a week.</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">If you seriously want to eliminate the lice, these manufacturers depend on you combing out the nits, live and dead lice every single day.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">If you slack on combing, you may not succeed the first&nbsp;time around.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">To make combing frustration free, invest in a good metal nit comb. If it is plastic, be ready to get frustrated.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "4,8,9,10,14,15,16,18"
 					},
 					{
+						"field": "natural_products",
 						"title": "<span class=\"purple_redfont\">Natural Approach</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><span style=\"font-size: 13px; line-height: 20.8px;\">This will assume you don't want to use insecticides on your hair.</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Natural lice treatment aids might sound very good.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">You may want to answer a few questions before deciding on one.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color3\">Do you intend to use this on a long hair?</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Stay away from dimethicone (LiceMD). It can be messy.&nbsp;</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">It will be a pain getting the gel out if you have long hair.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">See it as rubbing silicone gel on your hair. It can cake and you will end up swearing a lot.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">If you have short hair, you may give it a try.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Know that&nbsp;<span style=\"color: rgb(255, 0, 0);\">all</span>&nbsp;over-the-counter remedies depend on you combing,&nbsp;combing and combing to achieve any result and avoid treatment failure.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color16\">Want to avoid a dull, flat looking hair day after treatment?</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Then stay away from Cetaphil cleanser method.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">The&nbsp;Cetaphil&nbsp;cleanser method (Nuvo®) can make your hair look dull and flat after treatment.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Here is a brief rundown on these natural products before you start running to get them.</p>\n\t\t\t\t                        <ul style=\"font-size: 13px; line-height: 20.8px;\">\n\t\t\t\t                            <li>They all depend on you combing and combing for up to 10 days straight to get the nits and live or dead lice out.</li>\n\t\t\t\t                            <li>Your chances&nbsp;of&nbsp;failure are higher if you have long hair. You may have to cut the hair first.</li>\n\t\t\t\t                            <li>Invest in a good metal comb.<br>\n\t\t\t\t                                Most do come with a good metal&nbsp;comb, however.\n\t\t\t\t                            </li>\n\t\t\t\t                            <li>You will have to repeat application for up to 3 times for good results or the lice will come back with a vengeance.</li>\n\t\t\t\t                        </ul>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "5,8,11,12,14,15,17,18"
 					},
 					{
+						"field": "outsource",
 						"title": "<span class=\"purple_redfont\">Outsourcing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">May want to outsource if you have a large household that&nbsp;needs&nbsp;to be treated.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">See it as hiring a cleaning service - To come and clean your household's hair of lice!</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Getting rid of head lice is a major process that requires diligence, time and care. Washing hair, combing, cleaning the household items.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">If you decide to go this route, look for:</p>\n\t\t\t\t                        <ul style=\"font-size: 13px; line-height: 20.8px;\">\n\t\t\t\t                            <li>Specific pricing information.</li>\n\t\t\t\t                            <li>Hidden fees, such as travel fees.</li>\n\t\t\t\t                            <li>Hourly or per person charging.</li>\n\t\t\t\t                            <li>Aftercare process.</li>\n\t\t\t\t                            <li>Guarantee terms.</li>\n\t\t\t\t                        </ul>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "6,9,11,13,14,16,17,18"
 					},
 					{
+						"field": "doctor",
 						"title": "<span class=\"purple_redfont\">See a Doctor.</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><span style=\"font-size: 13px; line-height: 20.8px;\">You will need a prescription lice treatment lotion or cream.</span></p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode": "7,10,12,13,15,16,17,18"
 					},
 					{
+						"field": "Worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<h3><span class=\"color50\">Remember</span></h3>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">First thing is to check everyone in the household.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span style=\"font-size: 16px;\">It can take up to 3 weeks before you realize there is a lice problem.</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span style=\"font-size: 16px;\">The longer someone has it in the house, the greater the chance it has already spread&nbsp;to&nbsp;other members of the household.</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span style=\"font-size: 16px;\">Moreover, doing this would help you estimate how&nbsp;many lice&nbsp;shampoo / lotion to get should you decide to go that route.</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span style=\"font-size: 16px;\">You don't want to start running back and forth to the pharmacy.</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\"><span style=\"line-height: 1.6em;\">Hope you figured out what will work best for you.</span></p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">See the 'Know this' &nbsp;and 'What if' sections above for more information.</p>\n\t\t\t\t                        <p style=\"font-size: 13px; line-height: 20.8px;\">Contact me with any questions.</p>\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <!--------------------------Banner Link----------------------------- -->\n\t\t\t\t                        <p>&nbsp;</p>\n\t\t\t\t                        <p>&nbsp;</p>",
 						"mode_above": "2"
@@ -707,36 +622,6 @@
 				"header": "<p>&nbsp;</p>\n    <p>&nbsp;</p>\n    <div class=\"maxwidth450\">\n        <div class=\"ovalBorderRightPurple_red centerText\">\n            <span> Know this about the <span class=\"bluefont\">safe and effective</span> use of this recommendation.</span><br>\n        </div>\n        <div align=\"right\"><img src=\"http://www.selfcarepharmacist.com/images/articles/pharm-amanda-pink.svg\" width=\"80\" alt=\"Article photo\">\n        </div>\n    </div>\n    <div class=\"clearboth divider1\"></div>\n    <br>",
 				"colstart": 10,
 				"collapsable": [
-					{
-						"title": "How this recommendation work<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p></p>\n            <p>Here is how it works</p>\n            <p></p>",
-						"mode": ""
-					},
-					{
-						"title": "How to use what is recommended<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p></p>\n            <p>How to use</p>\n            <p></p>",
-						"mode": ""
-					},
-					{
-						"title": "What to know<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p></p>\n            <p>What to know about</p>\n            <p></p>",
-						"mode": ""
-					},
-					{
-						"title": "Important Safety Information<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p></p>\n            <p>Precautions to take</p>\n            <p></p>",
-						"mode": ""
-					},
-					{
-						"title": "FAQs<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p></p>\n            <p>What if FAQ</p>\n            <p></p>",
-						"mode": ""
-					},
-					{
-						"title": "Additional Resources<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p></p>\n            <p>FDA.gov</p>\n            <p></p>",
-						"mode": ""
-					},
 					{
 						"title": "Our disclaimer<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<div class=\"redBorderWhite\">\n                <ul>\n                    <li>Recommendation is the opinion of a registered US Pharmacist currently practicing as a community pharmacist.</li>\n                    <li>Recommendation is not an attempt to discuss all possible self care or treatment approach to this health challenge.</li>\n                    <li>The responsibility of the recommending pharmacist is limited to this question:<br>\n                        <em>\"If a patient presents with these symptoms, what will you recommend and why?\"</em><br>\n                        It is not an attempt to publish an article on the treatment of any condition. Just what would you tell a patient who present with so and so in the usual course of your practice.\n                    </li>\n                    <li>The pharmacist image presented in this article may or may not be the actual image of the authoring pharmacist.<br>Because we insist on using articles written by currently practicing community pharmacists, these pharmacists may choose to remain anonymous especially if they are employed by an employer to avoid being pressured to recommend a particular product to drive sales. </li>\n                    <li>Please read the policies and terms of use for self-care OTC, selfcarepharmacist.com and it's affiliates by clicking on the button below.</li>\n                </ul>\n            </div>",
