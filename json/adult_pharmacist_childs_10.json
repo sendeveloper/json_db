@@ -113,7 +113,7 @@
 						"mode": "-1"
 					},
 					{
-						"field": "greenfont",
+						"field": "worth_doing",
 						"title": "<span class=\"purplefont\">Worth doing<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
 						"content": "",
 						"mode": "-1"

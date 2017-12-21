@@ -1,6 +1,7 @@
 {
 	"52": {
 		"title": "Pharmacist",
+		"category": "Eczema",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -21,26 +22,7 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color34\">Moisturizers</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This will be used to hydrate the skin. <img alt=\"Lady using moisturizer\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/cream-lady.svg\" class=\"img_style91\">The more moisture the skin can retain, the better. Not only does moisturizers increase the water content of the skin, they also act as a barrier against moisture loss.</p>\n            <p>Make sure you choose one that is free of perfumes, additives or fragrances. Apply as often as you feel you need it. Your goal is to keep the skin moist all the time.</p>\n            <p><span class=\"color11\">Cream, ointment or lotion.</span> <span class=\"color8\">Which should you choose?</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>Well, the ointment lasts longer on the skin but is more greasy.<br>\n               The cream vanishes into the skin, less greasy, but not as long lasting as the ointment.<br>\n               Lotion spread easily, but last in terms of duration.\n            </p>\n            <p>Our best advice is to use what you prefer. Keep cream with you everywhere you go, ointment for legs, cream or lotion for the hands since you can easily reapply on the hand anywhere you are.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Bathing practices</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>A warm bath at least once a day for 10 minutes. Use a neutral or low pH non-soap cleanser. Make sure it is fragrance-free and hypoallergenic.</p>\n            <p><span style=\"line-height: 1.6em;\">Moisturize immediately after bathing.</span></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color10\">Cortizone</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Hydrocortisone 1% is the strongest over-the-counter steroid you can use for inflammation and itch.</p>\n            <p>Use this once a while to prevent flare-ups.</p>\n            <p>Make sure you don't rub this to a large skin area.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color78\">Wet-wrap therapy</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>You will use wet-wrap therapy to quickly reduce flares in areas of red, hot, weeping eczema.&nbsp;</p>\n            <p><strong><span class=\"color7\">To use a wet wrap,</span></strong> first moisturize your skin after bathing, get wet bandages, wrap around the skin.<br>\n               Then wrap a layer of dry bandages over the wet bandages and secure it.\n            </p>\n            <p>What this does is to increase penetration of the moisturizer, makes sure you don't scratch the area, reduce the loss of water from your skin and makes the skin heal quicker.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
+					
 				],
 				"irregular": {
 					"page": -1,
@@ -112,6 +94,7 @@
 	},
 	"53": {
 		"title": "Pharmacist",
+		"category": "Burns",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -132,26 +115,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color8\">Initially</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color8\">---&nbsp;</span><font class=\"color3\">&nbsp;</font>Remove any rings, bracelets, watches from the affected area in case any swelling occur.<br>\n               <br>\n               <span class=\"color11\">---&nbsp;&nbsp;</span>Clean the area with soap and water &nbsp;to remove debris.<br>\n               <br>\n               <span class=\"color8\">---</span><span class=\"color3\">&nbsp;</span>&nbsp;Do not burst the blisters if any and do not apply antiseptics like povidone/iodine or betadine.<br>\n               <br>\n               <span class=\"color9\">---&nbsp;</span>&nbsp;Need to keep the area moist. So apply cocoa butter, vaseline to the area.<br>\n               <br>\n               <span class=\"color8\">---&nbsp;</span>&nbsp;If no blistering, better to leave it open.<br>\n               &nbsp;\n            </p>\n            <p><span class=\"color5\">---&nbsp;</span>&nbsp;If some blisters, you will have to get a dressing like DuoDerm®, TegaDerm®; or Xerofoam®.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color7\">Relieving pain</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color11\">NSAIDs</span></p>\n            <p>Take ibuprofen or naproxen to help with the pain and minimize possible swelling that will take place.</p>\n            <p><span class=\"color16\">Lidocaine</span></p>\n            <p>Ask for 4% lidocaine at the pharmacy counter and apply to the affected area. This should provide pain relief that will last long. If the pharmacy is closed, over-the-counter Lanacaine should help for now.</p>\n            <p><span class=\"color5\">Aloe vera</span></p>\n            <p>Apply this to soothe the area if you can't find lidocaine or your skin is sensitive to lidocaine. Look for pure aloe vera leaf if you can find one. Know that 100% pure Aloe vera doesn't mean it is only aloe vera in the bottle. This means they used aloe vera plant and not processed aloe vera. Other things are&nbsp;added to the mixture.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Preventing infection</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color65\">Bacitracin</span> or <span class=\"color21\">triple antibiotic</span> ointment would help. Apply this to the affected area</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color5\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<ul>\n               <li>Use sunscreen on the affected area to prevent discoloration for a few months.<br>\n                  &nbsp;\n               </li>\n               <li>If this is a burned foot, use it to walk. If not, the foot will swell.<br>\n                  No clutches or walker. Better to hurt now than later when it gets&nbsp;swollen.<br>\n                  &nbsp;\n               </li>\n               <li>Medical grade honey such as <span class=\"color11\">medihoney®.</span><br>\n                  To be considered potent to heal burns, look for a minimum rating of 10 UMF <span style=\"font-size:12px;\"><em>(unique manuka factor).</em></span>\n               </li>\n            </ul>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -223,6 +186,7 @@
 	},
 	"54": {
 		"title": "Pharmacist",
+		"category": "Sunburn",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -243,26 +207,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color6\">Initially</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<ul>\n               <li>Move and stay away from direct sunlight, preferably go indoors or under a shade.<img alt=\"Woman drinking water\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-drinking-water-orange.svg\" class=\"img_style94\"></li>\n               <li style=\"font-family: inherit; font-weight: inherit; font-style: inherit; vertical-align: baseline; text-align: left; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent;\"><span class=\"color16\">Cool the skin</span> by:<br>\n                  - sponging it with cool water or &nbsp;<br>\n                  - a cool shower for about 10 minutes or<br>\n                  - a cool compress with a wet towel\n               </li>\n               <li style=\"font-family: inherit; font-weight: inherit; font-style: inherit; vertical-align: baseline; text-align: left; margin: 0px; padding: 0px; border: 0px; outline: 0px; background: transparent;\"><span class=\"color4\">Drink plenty of water.</span></li>\n            </ul>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color26\">Moisturize</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><strong><span class=\"color5\">Aloe vera</span></strong></p>\n            <p>This will provide a soothing effect, increase skin healing <img alt=\"Lady rubbing gel\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/suncreen-lady.svg\" class=\"img_style93\"> and protect the skin against moisture loss.</p>\n            <p>What to look out for in choosing a good aloe vera gel:</p>\n            <ul>\n               <li>Watch out for a sales ploy of 100% <span class=\"color15\">gel.</span> This is <span class=\"color8\">not </span>the same as 100% <span class=\"color15\">aloe vera gel.</span>&nbsp;&nbsp;&nbsp;&nbsp;</li>\n               <li>Also 100% natural, is not the same as 100% natural aloe vera gel. These usually contain other natural ingredients.</li>\n               <li>A gel with vitamin E is preferred to reduce any stinging effect.</li>\n               <li>Usually the more expensive the gel, the better.</li>\n               <li>If you want a 100% aloe vera gel, you will need to get the plant from the supermarket.&nbsp;&nbsp;&nbsp;&nbsp;</li>\n            </ul>\n            <p><strong><span class=\"color11\">After sun soothers:</span></strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>These usually contain aloe vera mixed with other soothing ingredients.</p>\n            <p>They will soothe the skin, moisturize it and reduce the feeling of the skin feeling tight.</p>\n            <p>Good products are Burt's Bees and Hawaiian Tropics after sun products.</p>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color7\">If itchy</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color46\">1. Calamine lotion</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p><span class=\"color26\">2. Sarna lotion</span> for cooling effect</p>\n            <p><span class=\"color8\">3. Hydrocortisone</span> to very inflamed areas only.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Pain and inflammation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color11\">NSAIDs</span></p>\n            <p>Ibuprofen or naproxen will help with pain and inflammation. Take as soon as possible.</p>\n            <p><span class=\"color3\">Acetaminophen</span></p>\n            <p>Take this if you cannot take ibuprofen or naproxen.</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -334,6 +278,7 @@
 	},
 	"55": {
 		"title": "Pharmacist",
+		"category": "Poison Ivy",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -415,28 +360,51 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color11\">Anti itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Calamine, etc</p>\n         <p>Diphenhydramine oral&nbsp;for night time itch.</p>\n         <p>&nbsp;</p>",
+						"field": "prevention",
+						"title": "<span class=\"bluefont\">Preventive measures<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
 						"mode": "-1"
 					},
 					{
-						"title": "<span class=\"color8\">Anti inflammatory</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span style=\"line-height: 1.6em;\">Hydrocortisone for inflammation</span></p>\n         <p>&nbsp;</p>",
+						"field": "anti_itch",
+						"title": "<span class=\"purplefont\">Anti-Itch Cream/Lotion<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
 						"mode": "-1"
 					},
 					{
-						"title": "<span class=\"color3\">Oil removal</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Content</p>\n         <p>&nbsp;</p>",
+						"field": "bismuth",
+						"title": "<span class=\"purple_redfont\">Bismuth Subsalicylate<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
 						"mode": "-1"
 					},
 					{
-						"title": "<span class=\"color55\">Drying agent</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Domebro astringent action.</p>\n         <p>&nbsp;</p>",
+						"field": "anti_inflammatory",
+						"title": "<span class=\"purple_redfont\">Anti inflammatory cream/lotion<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
 						"mode": "-1"
 					},
 					{
-						"title": "<span class=\"color5\">Prevention</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>ivyblock, and so on</p>\n         <p>&nbsp;</p>",
+						"field": "drying_agent",
+						"title": "<span class=\"purple_redfont\">Drying Agent<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "oil_removal",
+						"title": "<span class=\"purple_redfont\">Oil removal<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "doctor",
+						"title": "<span class=\"purple_redfont\">Seek Urgent Care<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
+						"mode": "-1"
+					},
+					{
+						"field": "worth_doing",
+						"title": "<span class=\"purplefont\">Worth doing<\/span><span class=\"ui-collapsible-heading-status\"> click to expand contents<\/span>",
+						"content": "",
 						"mode": "-1"
 					}
 				],
