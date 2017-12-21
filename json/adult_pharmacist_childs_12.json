@@ -1,6 +1,7 @@
 {
 	"48": {
 		"title": "Pharmacist",
+		"category": "Menstrual Pain",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -21,21 +22,7 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color8\">Relieving Pain</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color3\">Non-steroidal anti-inflammatory drugs <strong>(NSAIDs):&nbsp;</strong></span></p>\n            <p>Start taking this the day before your period &nbsp;starts, and continue for the first few days of the period.</p>\n            <p>Take the tablets regularly, for 2-3 days each period,<img alt=\"Lady taking pills\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-taking-pill.svg\" class=\"img_style71\"> rather than 'now and then' when pain builds up&nbsp;<span style=\"font-size:12px;\"><em>(taking as-needed use is not adequate </em></span><span style=\"font-size:14px;\"><em><span style=\"font-size:12px;\">for</span></em></span><span style=\"font-size:12px;\"><em> most people).</em></span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>If taken early and in prescription strength (see \"<span class=\"color9\">know this</span>\" for dosing), they are extremely successful in alleviating menstrual pain.</p>\n            <p>A good example is ibuprofen, naproxen, aspirin.</p>\n            <p>&nbsp;</p>\n            <p><strong><span class=\"color8\">Can't take</span> <span class=\"color3\">NSAIDS?</span>&nbsp;</strong>&nbsp;&nbsp;&nbsp;</p>\n            <p>Take&nbsp;a combination pill of <em>Acetaminophen 500 mg</em> (Pain reliever), <em>Pamabrom 25mg </em>(diuretic), <em>Pyrilamine maleate 15 mg&nbsp;</em>(antihistamine), C<em>affeine.</em>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p><span style=\"font-size:12px;\"><em>Examples are Midol®, Pamprin®,&nbsp;Premsyn PMS.&nbsp;</em></span>&nbsp;&nbsp;</p>\n            <p>These are useful if you experience significant <span class=\"color3\">bloating,</span>&nbsp;<span class=\"color11\">headache</span>&nbsp;and <span class=\"color58\">water retention.</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n            <p>Take midol® if the main thing is a <span class=\"color7\">headache.</span></p>\n            <p>Take Pamprin® if the main concern is <span class=\"color5\">feeling bloated.</span></p>\n            <p>&nbsp;</p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color55\">Bloated? headaches?</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Midol if mainly <span class=\"color3\">headaches.<img alt=\"Woman holding pills\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/holding-pills-lady.svg\" class=\"img_style38\"></span></p>\n            <p>Pamprin if mainly <span class=\"color11\">bloating.</span></p>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color7\">Worth trying</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "            <ul>\n               <li>Apply a heating pad to your lower belly area, below the belly button.<img alt=\"Woman with hot water bottle on pelvic area\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/waterbottle-lady2.svg\" class=\"img_style88\"><br>\n                  &nbsp;\n               </li>\n               <li>Take warm showers or baths.<br>\n                  &nbsp;\n               </li>\n               <li>Keep your legs raised while lying down.<br>\n                  &nbsp;\n               </li>\n               <li>Lie on the side with your knees bent.<br>\n                  &nbsp;\n               </li>\n               <li>Do light circular massage with your fingertips around your lower belly area.<br>\n                  &nbsp;\n               </li>\n               <li>Do low-fat vegetarian diet at least for now.<br>\n                  &nbsp;\n               </li>\n               <li>Cut back on salt to help prevent water retention.<br>\n                  <br>\n                  Water retention can lead to breast tenderness; swelling of your feet, ankles, and hands; and headaches.<br>\n                  &nbsp;\n               </li>\n               <li>Try vitamin B6, calcium, and magnesium supplements.<br>\n                  &nbsp;\n               </li>\n               <li>Now is a good time to take fish oil.</li>\n            </ul>\n            <p>&nbsp;</p>",
-						"mode": "-1"
-					}
+					
 				],
 				"irregular": {
 					"page": -1,
@@ -107,6 +94,8 @@
 	},
 	"49": {
 		"title": "Pharmacist",
+		"category": "Bites",
+		"category": "",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -198,61 +187,7 @@
 					}
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color80\">Anti-Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color20\">Diphenhydramine</span></p>\n                <p>You will take the tablets to help with itching if the affected area is pretty large. If not a large area, the cream, roll-on or spray will do fine.</p>\n                <p><span class=\"color46\">Calamine Lotion</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</p>\n                <p>This is good as an anti-itch, antiseptic to prevent infection and astringent to dry up the affected spots.</p>\n                <p><span class=\"color8\">Hydrocortisone 1%</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n                <p>This is a steroidal cream that helps relieve&nbsp;itching and inflammation. Use this if the affected area is not large and dab it on the spots rather than rubbing all over the skin. You want to minimize the amount that the skin will absorb.</p>\n                <p>&nbsp;</p>",
-						"mode": "1"
-					},
-					{
-						"title": "<span class=\"color8\">Anti-inflammation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color8\">Hydrocortisone 1%</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n                <p>This will help both with the inflammation and itching of the affected area. Do not apply to a very large continuous &nbsp;area. If the bedbugs bite area is large, you have to seek urgent care.</p>\n                <p><span class=\"color11\">NSAIDs</span></p>\n                <p>Ibuprofen or naproxen will help if the bites are painful or very inflamed.&nbsp;</p>\n                <p><span class=\"color3\">Witch Hazel</span></p>\n                <p>Consider dabbing witch hazel on the affected areas if it is oozing. Probably use this before applying hydrocortisone cream or lotion.</p>\n                <p>&nbsp;</p>",
-						"mode": "1"
-					},
-					{
-						"title": "<span class=\"color5\">Worth Doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>1. Must get pest control company to get rid of the bedbugs. Do not try to do this yourself. You won't be successful. DIY does not work here.</p>\n                <p>2. Vacuum mattress and box-spring crevices</p>\n                <p>3. Place beddings and clothes in the dryer for 20 minutes on medium to high heat.</p>\n                <p>4. Cover mattress and box springs with a mattress cover that is impermeable.</p>\n                <p>&nbsp;</p>",
-						"mode": "1"
-					},
-					{
-						"title": "<span class=\"color8\">Remove the Stinger</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This is the first step you have to take.<img alt=\"Removing a bee stinger\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/bee-stinger-removal.svg\" class=\"img_style38\"> It does not matter how you remove it, just do it. The earlier the better. A delay of a few seconds means more venom being injected.</p>\n                <p>&nbsp;</p>",
-						"mode": "2"
-					},
-					{
-						"title": "<span class=\"color24\">Pain Relief</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color72\">Cold Compress</span></p>\n                <p>Do this once the stinger has been removed. This will help reduce the inflammation or swelling.<img alt=\"Applying cold pack to the hand\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/cold-pack-hand.svg\" class=\"img_style98\"> Keep applying ice until the pain has subsided. While doing this, have someone go to the pharmacy to get you benzocaine.</p>\n                <p><span class=\"color11\">Benzocaine, Lidocaine</span></p>\n                <p>These are local anesthetics that will numb the area providing pain and itch relief. Look for Lanacaine, Solarcaine sprays. Or go to the pharmacy counter and ask for lidocaine gel/cream. Any percentage is adequate, but the higher the better. LMX is a good brand. If these are not available,&nbsp;apply Orajel or Anbesol used for a&nbsp;toothache&nbsp;if you have any at home.</p>\n                <p>&nbsp;</p>",
-						"mode": "2"
-					},
-					{
-						"title": "<span class=\"color59\">Inflammation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color8\">Hydrocortisone 1%</span></p>\n                <p>This should help with the swelling, redness and itch. Use this after using ice to reduce the pain.</p>\n                <p><span class=\"color11\">NSAIDs</span></p>\n                <p>Take <span class=\"color80\">aspirin</span> to help with the inflammation if you can,&nbsp;especially to reduce the redness. Prefer aspirin&nbsp;over ibuprofen or naproxen but either should be fine.</p>\n                <p>&nbsp;</p>",
-						"mode": "2"
-					},
-					{
-						"title": "<span class=\"color3\">Anti-Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color80\">Diphenhydramine</span></p>\n                <p>Take the tablets to help with the itch or prevent excessive itching. You will also take this to prevent any allergic reaction to the bee sting.</p>\n                <p>You may combine this hydrocortisone 1% cream or lotion for &nbsp;inflammation that can cause redness, swelling and itching.&nbsp;</p>\n                <p>You <span class=\"color8\">must not scratch</span> the area.</p>\n                <p>&nbsp;</p>",
-						"mode": "2"
-					},
-					{
-						"title": "<span class=\"color8\">Anti-Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color3\">Diphenhydramine</span></p>\n                <p>This is an antihistamine to relieve itching. Take the pills if affected area is all over the body</p>\n                <p><span class=\"color8\">Hydrocortisone 1%</span></p>\n                <p>Good for both itching and inflammation</p>\n                <p><span class=\"color11\">Witch Hazel</span></p>\n                <p>To help reduce inflammation</p>\n                <p>&nbsp;</p>",
-						"mode": "3"
-					},
-					{
-						"title": "<span class=\"color81\">For Itching</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color58\">1. Cold / Ice</span></p>\n                <p>Apply this to the affected area to start with.</p>\n                <p><span class=\"color8\">2. Hydrocortisone 1%</span></p>\n                <p>Will help with the itching and inflammation</p>\n                <p><span class=\"color11\">3. Capsaicin cream</span></p>\n                <p><span class=\"color3\">4. Heat the bite with a hair dryer</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n                <p><span class=\"color82\">5. Add 2 tablespoonful salt in a jar of Vicks Vapor rub.</span></p>\n                <p>&nbsp;</p>",
-						"mode": "4"
-					},
-					{
-						"title": "<span class=\"color80\">Anti-Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color8\">Hydrocortisone 1%</span></p>\n                <p>Apply this for both itching and to get rid of the swelling</p>\n                <p><span class=\"color80\">Antihistamine</span></p>\n                <p>Take the tablets if the bites are all over the body. Diphenhydramine is a good example. The creams, sprays or lotions are better used if the bites just happened. These can prevent further release of histamine that causes the itching.</p>\n                <p><span class=\"color46\">Calamine Lotion</span></p>\n                <p>This is useful to stop the itching and being an astringent, can reduce swelling.</p>\n                <p><span class=\"color24\">Combination</span></p>\n                <p>Hydrocortisone 1% + Diphenhydramine (tablets or cream)</p>\n                <p>&nbsp;</p>",
-						"mode": "7"
-					},
-					{
-						"title": "<span class=\"color83\">For inflammation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color72\">Cold Compress / Ice</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</p>\n                <p>Use this as soon as possible to control any swelling.</p>\n                <p><span class=\"color8\">Hydrocortisone 1%</span></p>\n                <p>Apply this to prevent or reduce swelling and redness of the affected area.</p>\n                <p>&nbsp;</p>",
-						"mode": "7"
-					}
+					
 				]
 			},
 			{
@@ -320,6 +255,7 @@
 	},
 	"50": {
 		"title": "Pharmacist",
+		"category": "Acne",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -361,6 +297,7 @@
 	},
 	"51": {
 		"title": "Pharmacist",
+		"category": "Rash",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -381,21 +318,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color8\">For Inflammation</span>&nbsp;<span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color8\">Hydrocortisone 1%</span></p>\n         <p>This will help with the inflammation of the affected area. Use this for mild cases only as this cream does not penetrate deep into the skin and as such effectiveness is limited.</p>\n         <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color25\">For Whole Body Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><strong><span class=\"color16\">Itching all over the body?</span></strong>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n         <p><span class=\"color3\">1. Diphenhydramine tablets</span><br>\n            This is an antihistamine that will ease the itching. Will make you drowsy. If you need something less drowsy for daytime use, try chlorpheniramine.\n         </p>\n         <p><span class=\"color24\">2. Sarna lotion</span><br>\n            This contains menthol(0.5%), camphor(0.5%)<img alt=\"Lady rubbing body anti-itch lotion\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/rash-lotion-lady.svg\" class=\"img_style89\"> which are very good ingredients for itchy skin. It is also steroid free.\n         </p>\n         <p><span class=\"color75\">3. Calamine lotion</span><br>\n            Combines anti-itch with antiseptic and astringent&nbsp;effect.\n         </p>\n         <p><span class=\"color76\">4. Oatmeal bath</span><br>\n            Prefer if the skin is dry, itchy and irritated. Oatmeal can help restore the skin's natural pH, provide temporary skin protection and restore moisture to the skin.\n         </p>\n         <p>We would rather you go to the store and get the colloidal oatmeal bath powder packets.<span style=\"font-size:11px;\"> Aveeno is a good brand.</span>&nbsp;It would be hard to get a good effect if you make it on your own. &nbsp; &#8203;</p>\n         <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color77\">For Spotty Itch</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color8\">Hydrocortisone 1%</span><br>\n            Steroidal anti-itch cream or lotion. Apply to affected area only.\n         </p>\n         <p><span class=\"color18\">Benzocaine, Lidocaine</span><br>\n            Will temporarily numb the itchy area. It may cause skin sensitization so do not use in children.<img alt=\"Woman using spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/rash-spray-lady.svg\" class=\"img_style90\">\n         </p>\n         <p><span class=\"color3\">Diphenhydramine cream, spray</span><br>\n            More specific for itching. The rash will have to disappear on its own with time. If you have the cash, probably mix this with hydrocortisone 1%.\n         </p>\n         <p><span class=\"color16\">Cold compress</span><br>\n            We recommend you start with this before applying any anti-itch cream or lotion\n         </p>\n         <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
