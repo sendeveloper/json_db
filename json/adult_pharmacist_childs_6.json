@@ -1,6 +1,7 @@
 {
 	"24": {
 		"title": "Pharmacist",
+		"category": "Sinus Pressure",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -21,21 +22,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color7\">Thin the mucus</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color67\">Drink plenty of water</span></p>\n                <p><img alt=\"Woman drinking water\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/drinking-water-lady.svg\" class=\"img_style75\"> This will help thin dried up mucus and get it moving again making sinus drainage better.</p>\n                <p><span class=\"color22\">Humidifier</span></p>\n                <p>Invest in one. If you don't have one handy, take a steam bath or breathe in steam.</p>\n                <p>This should help moisturize the nasal passages thinning the mucus.</p>\n                <p><span class=\"color11\">Saline nasal spray</span></p>\n                <p>This will help moisturize the nasal passages improving sinus air flow.<img alt=\"Lady use steam therapy\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/steam-therapy-lady.svg\" class=\"img_style76\"></p>\n                <p><span class=\"color3\">Steam therapy</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>\n                <p>A good idea to moisturize the sinuses.</p>\n                <p>&nbsp;</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Decongestant</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>Decongestant nasal sprays<img alt=\"Lady using nasal spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/nasalspray-lady3-red.svg\" class=\"img_style69\"></p>\n                <p>&nbsp;</p>\n                <p>Pseudoephedrine</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Inflammation</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><span class=\"color11\">1. Anti-inflammatory pain relievers</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;<img alt=\"Lady taking pill\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/lady-taking-pill2.svg\" class=\"img_style77\"></p>\n                <p>Ibuprofen, naproxen</p>\n                <p><span class=\"color58\">2. Steroidal nasal sprays</span></p>\n                <p>Triamcinolone acetonide nasal spray.</p>\n                <p>&nbsp;</p>\n                <p>&nbsp;</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
@@ -112,6 +98,7 @@
 	},
 	"25": {
 		"title": "Pharmacist",
+		"category": "Snoring",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -204,6 +191,7 @@
 	},
 	"26": {
 		"title": "Pharmacist",
+		"category": "",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -287,66 +275,48 @@
 				],
 				"collapsable": [
 					{
-						"title": "<span class=\"color19\">Dextromethorphan (DM)</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>DM is a cough suppressant that decreases<img alt=\"Lady pouring cough syrup\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/taking-medicine-lady.svg\" class=\"img_style78\"> activities in the part of the brain that controls the coughing reflex.</p>\n                <p>It is best for a dry and irritating cough where no mucus or phlegm is being produced. With a wet cough, you&nbsp;don't want to suppress it. You will need to cough it out. The only time you will need a cough suppressant if a cough is wet is to control coughing at night or if this&nbsp;cough is very bad and giving you chest pain.</p>\n                <p><span style=\"font-size:11px;\"><span class=\"color11\">Delsym or store brands</span></span></p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color68\">Guaifenesin</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This is an expectorant. It helps loosen thick, dried up mucus in the throat and chest so it is easier for you to cough up.</p>\n                <p>You will take this if you are experiencing chest congestion and coughing up stuff. If it is a dry cough, skip this.</p>\n                <p>You need to drink a lot of water for this to work.<img alt=\"Woman drinking water\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/drinking-water-lady-bottle.svg\" class=\"img_style79\"> Keep drinking water throughout the day not just when taking the medication. Because you need to keep the throat moist or lubricated so the mucus can flow.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color6\">Cough Drops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>This is better for a dry, irritating, scratchy, and tickling cough. Look for one with honey added to it. Honey should help with suppressing the cough.</p>\n                <p>Know that some brands contain dextromethorphan. Do not use this with dextromethorphan syrup or DM tablets. It is one or the other.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color8\">Decongestant</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>The recommended decongestant is <span class=\"color8\">Pseudoephedrine.</span> You will need to get this at the pharmacy counter using your driver's license. This should reduce&nbsp;the nasal congestion, sinus pressure, and increase the drainage of sinus&nbsp;secretions.</p>\n                <p><span class=\"color8\">Stay away</span> from <span class=\"color11\">phenylephrine.</span> If the pharmacy is closed, go with a <span class=\"color3\">decongestant nasal spray</span> instead.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color47\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>If fluid draining to the back of the throat is causing this cough, you will need to include an antihistamine.</p>\n                <p>You will also need this if you are experiencing a night time cough or the cough is keeping you awake at night.</p>\n                <p>Go with the antihistamine called <span class=\"color3\">diphenhydramine.</span> This will dry up the drainage, get you some sleep and also work on the cough.&nbsp;</p>\n                <p>If you need something during the day, <span class=\"color5\">chlorpheniramine</span> will be your best bet. This causes less drowsiness which is manageable to most people during the day.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
+						"field": "dextromethorphan",
 						"title": "<span class=\"orangefont\">Dextromethorphan</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"margin-top: 8px; margin-bottom: 15px; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\">DM is a cough suppressant that decreases<img alt=\"Lady pouring cough syrup\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/taking-medicine-lady.svg\" class=\"img_style96\">&nbsp;activities in the part of the brain that controls the coughing reflex.</p>\n                    <p style=\"margin-top: 8px; margin-bottom: 15px; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\">It is best for a dry and irritating cough where no mucus or phlegm is being produced. With a wet cough, you&nbsp;don't want to suppress it. You will need to cough it out. The only time you will need a cough suppressant if a cough is wet is to control coughing at night or if this&nbsp;cough is very bad and giving you chest pain.</p>\n                    <p style=\"margin-top: 8px; margin-bottom: 15px; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\"><span style=\"margin: 0px; padding: 0px; border: 0px; font-size: 11px; vertical-align: baseline;\"><span style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(255, 140, 0);\">Delsym or store brands</span></span></p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "5,10,11,12,13,20,21,22,23,24,25,30,31,32,33,35"
 					},
 					{
+						"field": "guaifenesin",
 						"title": "<span class=\"greenfont\">Guaifenesin</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">This is an expectorant. It helps loosen thick, dried up mucus in the throat and chest so it is easier for you to cough up.</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\">You will take this if you are experiencing chest congestion and coughing up stuff. If it is a dry cough, skip this.</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\">You need to drink a lot of water for this to work.</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\"><img alt=\"Woman drinking water\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/drinking-water-lady-bottle.svg\" class=\"img_style97\"></p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\">Keep drinking water throughout the day not just when taking the medication. Because you need to keep the throat moist or lubricated so the mucus can flow.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "6,10,14,15,16,20,21,22,26,27,28,30,31,32,34,35"
 					},
 					{
+						"field": "coughDrops",
 						"title": "<span class=\"purplefont\">Cough Drops</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode": "7,11,14,17,18,20,23,24,26,27,29,30,31,33,34,35"
 					},
 					{
+						"field": "decongestant",
 						"title": "<span class=\"redfont\">Decongestant</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"font-size: 13px; line-height: 20.8px;\">The recommended decongestant is&nbsp;<span class=\"color44\">Pseudoephedrine.</span>&nbsp;You will need to get this at the pharmacy counter using your driver's license. This should reduce&nbsp;the nasal congestion, sinus pressure, and increase the drainage of sinus&nbsp;secretions.</p>\n                    <p style=\"font-size: 13px; line-height: 20.8px;\"><span class=\"color44\">Stay away</span>&nbsp;from&nbsp;<span class=\"color29\">phenylephrine.</span>&nbsp;If the pharmacy is closed, go with a&nbsp;<span class=\"color28\">decongestant nasal spray</span>&nbsp;instead.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "8,12,15,17,19,21,23,25,26,28,29,30,32,33,34,35"
 					},
 					{
+						"field": "antihistamine",
 						"title": "<span class=\"purple_redfont\">Antihistamine</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p style=\"margin-top: 8px; margin-bottom: 15px; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\">If fluid draining to the back of the throat is causing this cough, you will need to include an antihistamine.</p>\n                    <p style=\"margin-top: 8px; margin-bottom: 15px; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\">You will also need this if you are experiencing a night time cough or the cough is keeping you awake at night.</p>\n                    <p style=\"margin-top: 8px; margin-bottom: 15px; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\">Go with the antihistamine called<span style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(128, 0, 128);\">diphenhydramine.</span>&nbsp;This will dry up the drainage, get you some sleep and also work on the cough.&nbsp;</p>\n                    <p style=\"margin-top: 8px; margin-bottom: 15px; padding: 0px 5px; border: 0px; font-size: 14px; vertical-align: baseline; line-height: 1.35; font-family: Arial, Helvetica, sans-serif;\">If you need something during the day,&nbsp;<span style=\"margin: 0px; padding: 0px; border: 0px; vertical-align: baseline; color: rgb(0, 128, 0);\">chlorpheniramine</span>&nbsp;will be your best bet. This causes less drowsiness which is manageable to most people during the day.</p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "9,13,16,18,19,22,24,25,27,28,29,31,32,33,34,35"
 					},
 					{
+						"field": "combination",
 						"title": "<span class=\"purplefont\">Combination Products</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><strong><span class=\"color5\">Guaifenesin + Dextromethorphan</span></strong></p>\n                    <p>Take this if you have a wet or a productive cough and this cough is keeping you up at night or you just can't stop coughing.</p>\n                    <p>Stay away if it is just a wet cough. You need to keep things moving or prevent the mucus from getting too far into the respiratory tracts. You need a cough reflex for this protective mechanism.</p>\n                    <p><span style=\"font-size:10px;\">Examples: Mucinex DM, Robitussin DM, Store brands</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</p>\n                    <p><span class=\"color11\">Guaifenesin + Pseudoephedrine</span></p>\n                    <p>This combines an expectorant with a decongestant. You will get this at the pharmacy counter because of the pseudoephedrine.<br>\n                        <span style=\"font-size:10px;\">Mucinex D</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;\n                    </p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode": "10,20,21,22,30,31,32,35"
 					},
 					{
+						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p><span class=\"color16\"><strong>1. Drink Plenty of Water</strong></span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</p>\n                    <p><span class=\"color11\">2. Honey</span>&nbsp;&nbsp;&nbsp;&nbsp;&#8203;</p>\n                    <p><span class=\"color3\">3. Steam showers</span></p>\n                    <!--------------------------Banner Link----------------------------- -->\n                    <!--------------------------Banner Link----------------------------- -->\n                    <p>&nbsp;</p>\n                    <p>&nbsp;</p>",
 						"mode_above": "2"
 					}				
-			],
+				],
 				"irregular": {
 					"page": -1,
 					"content": "<div class=\"clearboth divider1\"></div>\n        <p class=\"grayfontSmallSmall centerText\">\n            Last updated by pharmacist on : \n            02/03/2016          \n        </p>",
@@ -421,6 +391,7 @@
 	},
 	"27": {
 		"title": "Pharmacist",
+		"category": "Sore Throat",
 		"tabs_title": [
 			"Take This",
 			"Know This",
@@ -441,26 +412,6 @@
 				"mode_not": [
 				],
 				"collapsable": [
-					{
-						"title": "<span class=\"color11\">NSAIDS</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p><em>Non-Steroidal Antiinflammatory Drugs (NSAIDS)</em> will help with the pain and inflammation of this soreness of the throat.</p>\n                <p>If the throat also feels swollen, this would be your first choice to reduce the pain and swelling.</p>\n                <p><span style=\"font-size:11px;\"><span class=\"color11\">Ibuprofen,</span><span class=\"color9\"> Naproxen</span> are good examples.</span></p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color3\">Acetaminophen</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>You will take acetaminophen if the throat is not swollen. This will only help with the pain and not the inflammation of the throat linings.</p>\n                <p>Take acetaminophen however if a sore throat also includes a headache. Acetaminophen is better for headaches than NSAIDS.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color11\">Sprays /&nbsp;</span><span class=\"color61\">Lozenges</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>These help you target the pain where it hurts.<img alt=\"Lady using throat spray\" src=\"http://www.selfcarepharmacist.com/admin/images/articles/html_editor_uploads/throatspray-lady.svg\" class=\"img_style80\"> They may soothe the affected area but relief is usually&nbsp;short-lived.</p>\n                <p><span class=\"color18\">Spray or lozenges. Which should you choose?</span></p>\n                <p>Well, the lozenges are easier to carry around but their value also lies in&nbsp;moisturizing the throat which is a requirement if you have a sore throat. You want the throat to be constantly moisturized.</p>\n                <p>But if the pain is towards the back of the throat or deep down the throat, a spray will be better. It is better at targeting the pain.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					},
-					{
-						"title": "<span class=\"color5\">Worth Doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
-						"content": "<p>1. Gargle with salt water. Do this often.</p>\n                <p>2. Sucking on hard candy to keep the throat moist</p>\n                <p>3. Drink water more frequently.&nbsp;</p>\n                <p>4. Use humidifier when sleeping to prevent dry throat on waking up in the morning. Do this especially if you also have nasal congestion. Because at some point you may be breathing through your mouth. This will dry up the throat quickly and make a sore throat very bad.</p>\n                <p>5. Tea + Lemon</p>\n                <p>6. Hot soup</p>\n                <p>7. Gargle with ice chips.</p>\n                <p>&nbsp;</p>",
-						"mode": "-1"
-					}
 				],
 				"irregular": {
 					"page": -1,
