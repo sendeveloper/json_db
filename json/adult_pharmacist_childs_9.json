@@ -103,7 +103,7 @@
 					{
 						"mode_no": "100",
 						"content1": "<div class=\"clearboth divider1\"></div>\n\t\t\t\t                    <div class=\"centerText\">\n\t\t\t\t                        <span class=\"grayfontSmallSmall\">Last updated by pharmacist on  02/04/2016</span>\n\t\t\t\t                    </div>",
-						"content2": "<div class=\"clearboth divider1\"></div>\n        <p class=\"grayfontSmall redBorderAll centerText\">You can compare  over the counter <span class=\"orangefont\">multi-symptom cold and flu</span> medications that will work best for you.\n        </p>",
+						"content2": "",
 						"buttons": [
 							{
 								"class": "linkBlue",

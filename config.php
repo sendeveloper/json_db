@@ -6,7 +6,7 @@
 	if (!defined('PASSWORD'))
 	    define('PASSWORD', '');
 	if (!defined('DBNAME'))
-	    define('DBNAME', 'adult_pharmacist');
+	    define('DBNAME', 'scp_adserver');
 
 	$mysqli = new mysqli(SERVERNAME,USERNAME,PASSWORD,DBNAME);	
 	// Check connection	
