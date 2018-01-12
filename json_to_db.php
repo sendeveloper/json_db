@@ -1,8 +1,8 @@
 <?php
 	require_once("config.php");
 
-	$start = 	10; 
-	$end = 		11;
+	$start = 	16; 
+	$end = 		17;
 	$theme_type = array(
 		'g','a','i','n','n','p','a','i','i','i',
 		'o','n','o','i','p','e','d','a','n','i',
@@ -19,22 +19,21 @@
 		$json_data = json_decode($content, true);
 		foreach($json_data as $page_id => $data)
 		{
-			if ($page_id != 40) continue;
-			// $pages_sql = "INSERT INTO adult_pharmacist_pages (page_id, theme_type,title,category) VALUES ({$page_id}, '{$theme_type[$page_id]}', '{$data['title']}','{$data['category']}')";
-			// $mysqli->query($pages_sql);
+			$pages_sql = "INSERT INTO adult_pharmacist_pages (page_id, theme_type,title,category) VALUES ({$page_id}, '{$theme_type[$page_id]}', '{$data['title']}','{$data['category']}')";
+			$mysqli->query($pages_sql);
 
-			// $content = isset($data['tabs'][0]['top_header']) ? $mysqli->escape_string($data['tabs'][0]['top_header']) : '';
+			$content = isset($data['tabs'][0]['top_header']) ? $mysqli->escape_string($data['tabs'][0]['top_header']) : '';
 
 
-			// $topheader_sql = "INSERT INTO adult_pharmacist_top_header (page_id, content) VALUES ({$page_id}, '$content')";
-			// $mysqli->query($topheader_sql);
+			$topheader_sql = "INSERT INTO adult_pharmacist_top_header (page_id, content) VALUES ({$page_id}, '$content')";
+			$mysqli->query($topheader_sql);
 
-			// foreach($data['tabs'] as $tab_key => $each_tab)
-			// {
-			// 	$content = isset($each_tab['header']) ? $mysqli->escape_string($each_tab['header']) : '';
-			// 	$header_sql = "INSERT INTO adult_pharmacist_header (page_id, tab_id, content) VALUES ({$page_id}, {$tab_key}, '$content')";
-			// 	$mysqli->query($header_sql);
-			// }
+			foreach($data['tabs'] as $tab_key => $each_tab)
+			{
+				$content = isset($each_tab['header']) ? $mysqli->escape_string($each_tab['header']) : '';
+				$header_sql = "INSERT INTO adult_pharmacist_header (page_id, tab_id, content) VALUES ({$page_id}, {$tab_key}, '$content')";
+				$mysqli->query($header_sql);
+			}
 			
 			if (isset($data['tabs'][0]['fieldset']))
 			{
@@ -87,8 +86,7 @@
 			}
 
 			foreach($data['tabs'] as $tab_id => $each_tab)
-			{	
-				if ($tab_id != 0) continue;
+			{			
 				if (isset($each_tab['collapsable']))
 				{
 					foreach($each_tab['collapsable'] as $each_collapsable)
@@ -124,84 +122,84 @@
 
 			}
 
-			// if (isset($data['tabs'][0]['ullist']))
-			// {
-			// 	foreach($data['tabs'][0]['ullist'] as $list_key => $list_field)
-			// 	{
-			// 		$content = $mysqli->escape_string($list_field['text']);
-			// 		$goto = $list_field['goto'];
-			// 		$mode_sql = "INSERT INTO adult_pharmacist_ullist (page_id, content, goto) VALUES ({$page_id}, '{$content}', '{$goto}')";
-			// 		$mysqli->query($mode_sql);
-			// 	}
-			// }
+			if (isset($data['tabs'][0]['ullist']))
+			{
+				foreach($data['tabs'][0]['ullist'] as $list_key => $list_field)
+				{
+					$content = $mysqli->escape_string($list_field['text']);
+					$goto = $list_field['goto'];
+					$mode_sql = "INSERT INTO adult_pharmacist_ullist (page_id, content, goto) VALUES ({$page_id}, '{$content}', '{$goto}')";
+					$mysqli->query($mode_sql);
+				}
+			}
 
-			// if (isset($data['tabs'][0]['firstpage_buttons']))
-			// {
-			// 	foreach($data['tabs'][0]['firstpage_buttons'] as $button_key => $button_field)
-			// 	{
-			// 		$type = $button_field['type'];
-			// 		$title = $mysqli->escape_string($button_field['title']);
-			// 		$goto = $button_field['goto'];
+			if (isset($data['tabs'][0]['firstpage_buttons']))
+			{
+				foreach($data['tabs'][0]['firstpage_buttons'] as $button_key => $button_field)
+				{
+					$type = $button_field['type'];
+					$title = $mysqli->escape_string($button_field['title']);
+					$goto = $button_field['goto'];
 
-			// 		$button_sql = "INSERT INTO adult_pharmacist_firstpage_buttons (page_id, type, title, goto) VALUES ({$page_id}, '{$type}', '{$title}', {$goto})";
-			// 		$mysqli->query($button_sql);
-			// 	}
-			// }
+					$button_sql = "INSERT INTO adult_pharmacist_firstpage_buttons (page_id, type, title, goto) VALUES ({$page_id}, '{$type}', '{$title}', {$goto})";
+					$mysqli->query($button_sql);
+				}
+			}
 
-			// if (isset($data['tabs'][0]['header_iregular']))
-			// {
-			// 	$header = $mysqli->escape_string($data['tabs'][0]['header_iregular']);
-			// 	$page = isset($data['tabs'][0]['startpage']) ? $data['tabs'][0]['startpage'] : 0;
-			// 	$content = $mysqli->escape_string($data['tabs'][0]['irregular']['content']);
+			if (isset($data['tabs'][0]['header_iregular']))
+			{
+				$header = $mysqli->escape_string($data['tabs'][0]['header_iregular']);
+				$page = isset($data['tabs'][0]['startpage']) ? $data['tabs'][0]['startpage'] : 0;
+				$content = $mysqli->escape_string($data['tabs'][0]['irregular']['content']);
 
-			// 	$irregular_sql = "INSERT INTO adult_pharmacist_irregular_content (page_id, header, page, content) VALUES ({$page_id}, '{$header}', $page, '{$content}')";
-			// 	$mysqli->query($irregular_sql);
+				$irregular_sql = "INSERT INTO adult_pharmacist_irregular_content (page_id, header, page, content) VALUES ({$page_id}, '{$header}', $page, '{$content}')";
+				$mysqli->query($irregular_sql);
 
-			// 	$irregular_id = $mysqli->insert_id;
+				$irregular_id = $mysqli->insert_id;
 
-			// 	if (isset($data['tabs'][0]['irregular']['button']))
-			// 	{
-			// 		$irregular_button = $data['tabs'][0]['irregular']['button'];
-			// 		$type = 0;
-			// 		$title = $mysqli->escape_string($irregular_button['title']);
-			// 		$class = "";
-			// 		$goto = $irregular_button['goto'];
-			// 		$ir_button_sql = "INSERT INTO adult_pharmacist_irregular_buttons (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
-			// 		$mysqli->query($ir_button_sql);
-			// 	}
-			// 	if (isset($data['tabs'][0]['irregular']['buttongo']))
-			// 	{
-			// 		$irregular_buttongo = $data['tabs'][0]['irregular']['buttongo'];
-			// 		foreach($irregular_buttongo as $each_buttongo)
-			// 		{
-			// 			$type = 1;	// Means buttongo
-			// 			$title = $mysqli->escape_string($each_buttongo['title']);
-			// 			$class = $each_buttongo['class'];
-			// 			$goto = $each_buttongo['goto'];
-			// 			$ir_button_sql = "INSERT INTO adult_pharmacist_irregular_buttons (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
-			// 			$mysqli->query($ir_button_sql);
-			// 		}
-			// 	}
-			// }
+				if (isset($data['tabs'][0]['irregular']['button']))
+				{
+					$irregular_button = $data['tabs'][0]['irregular']['button'];
+					$type = 0;
+					$title = $mysqli->escape_string($irregular_button['title']);
+					$class = "";
+					$goto = $irregular_button['goto'];
+					$ir_button_sql = "INSERT INTO adult_pharmacist_irregular_buttons (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
+					$mysqli->query($ir_button_sql);
+				}
+				if (isset($data['tabs'][0]['irregular']['buttongo']))
+				{
+					$irregular_buttongo = $data['tabs'][0]['irregular']['buttongo'];
+					foreach($irregular_buttongo as $each_buttongo)
+					{
+						$type = 1;	// Means buttongo
+						$title = $mysqli->escape_string($each_buttongo['title']);
+						$class = $each_buttongo['class'];
+						$goto = $each_buttongo['goto'];
+						$ir_button_sql = "INSERT INTO adult_pharmacist_irregular_buttons (page_id, irregular_id, type, title, class, goto) VALUES ({$page_id}, {$irregular_id}, {$type}, '{$title}', '{$class}', {$goto})";
+						$mysqli->query($ir_button_sql);
+					}
+				}
+			}
 
-			// if (isset($data['tabs'][3]['buttons']))
-			// {
-			// 	$buttons = $data['tabs'][3]['buttons'];
-			// 	foreach($buttons as $each_button)
-			// 	{
-			// 		$class = $each_button['class'];
-			// 		$title = $mysqli->escape_string($each_button['title']);
-			// 		$goto = $each_button['goto'];
-			// 		$button_sql = "INSERT INTO adult_pharmacist_buttons (page_id, tab_id, class, title, goto) VALUES ({$page_id}, {$tab_id}, '{$class}', '{$title}', '{$goto}')";
-			// 		$mysqli->query($button_sql);
-			// 	}
-			// }
-			// if (isset($data['tabs'][3]['why']))
-			// {
-			// 	$why = $each_tab['why'];
-			// 	$why_sql = "INSERT INTO adult_pharmacist_why (page_id, tab_id, content) VALUES ({$page_id}, {$tab_id}, '{$why}')";
-			// 	$mysqli->query($why_sql);
-			// }
+			if (isset($data['tabs'][3]['buttons']))
+			{
+				$buttons = $data['tabs'][3]['buttons'];
+				foreach($buttons as $each_button)
+				{
+					$class = $each_button['class'];
+					$title = $mysqli->escape_string($each_button['title']);
+					$goto = $each_button['goto'];
+					$button_sql = "INSERT INTO adult_pharmacist_buttons (page_id, tab_id, class, title, goto) VALUES ({$page_id}, {$tab_id}, '{$class}', '{$title}', '{$goto}')";
+					$mysqli->query($button_sql);
+				}
+			}
+			if (isset($data['tabs'][3]['why']))
+			{
+				$why = $each_tab['why'];
+				$why_sql = "INSERT INTO adult_pharmacist_why (page_id, tab_id, content) VALUES ({$page_id}, {$tab_id}, '{$why}')";
+				$mysqli->query($why_sql);
+			}
 		}
 	}
 	echo 'success - ' . $end;
