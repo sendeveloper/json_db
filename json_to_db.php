@@ -3,6 +3,15 @@
 
 	$start = 	16; 
 	$end = 		17;
+	$theme_type = array(
+		'g','a','i','n','n','p','a','i','i','i',
+		'o','n','o','i','p','e','d','a','n','i',
+		'a','p','n','n','i','p','a','i','f','n',
+		'o','n','p','i','n','a','n','p','n','o',
+		'i','e','f','n','i','n','a','i','n','n',
+		'i','n','n','i','o','h','o','i','a','n',
+		'o','a','i','e','a','n','o','i'
+	);
 	for ($i=$start;$i<$end;$i++)
 	{
 		$file_name = "adult_pharmacist_childs_{$i}.json";
@@ -10,7 +19,7 @@
 		$json_data = json_decode($content, true);
 		foreach($json_data as $page_id => $data)
 		{
-			$pages_sql = "INSERT INTO adult_pharmacist_pages (page_id, theme_type,title) VALUES ({$page_id}, 0, '{$data['title']}')";
+			$pages_sql = "INSERT INTO adult_pharmacist_pages (page_id, theme_type,title,category) VALUES ({$page_id}, '{$theme_type[$page_id]}', '{$data['title']}','{$data['category']}')";
 			$mysqli->query($pages_sql);
 
 			$content = isset($data['tabs'][0]['top_header']) ? $mysqli->escape_string($data['tabs'][0]['top_header']) : '';
@@ -82,12 +91,18 @@
 				{
 					foreach($each_tab['collapsable'] as $each_collapsable)
 					{
+						if (isset($each_collapsable['field']))
+						{
+							$field = $mysqli->escape_string($each_collapsable['field']);
+						}
+						else
+							$field = "";
 						$title = $mysqli->escape_string($each_collapsable['title']);
 						$content = $mysqli->escape_string($each_collapsable['content']);
 						$mode = isset($each_collapsable['mode']) ? $each_collapsable['mode'] : '';
 						$mode_above = isset($each_collapsable['mode_above']) ? $each_collapsable['mode_above'] : '';
 
-						$collapsable_sql = "INSERT INTO adult_pharmacist_collapsable (page_id, tab_id, title, content, mode, mode_above) VALUES ({$page_id}, '{$tab_id}', '{$title}', '{$content}', '{$mode}', '$mode_above')";
+						$collapsable_sql = "INSERT INTO adult_pharmacist_collapsable (page_id, tab_id, title, field, content, mode, mode_above) VALUES ({$page_id}, '{$tab_id}', '{$title}', '{$field}', '{$content}', '{$mode}', '$mode_above')";
 						$mysqli->query($collapsable_sql);
 
 						if (isset($each_collapsable['buttons']))

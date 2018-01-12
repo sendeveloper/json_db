@@ -121,7 +121,7 @@
 						"title": "<span class=\"purplefont\">Combination Products</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",
 						"content": "<p>&nbsp;</p><p>&nbsp;</p>",
 						"mode_above": "3"
-					}
+					},
 					{
 						"field": "worth_doing",
 						"title": "<span class=\"greenfont\">Worth doing</span><span class=\"ui-collapsible-heading-status\"> click to expand contents</span>",

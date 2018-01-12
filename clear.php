@@ -8,7 +8,7 @@ $table_names = ['adult_pharmacist_buttons', 'adult_pharmacist_collapsable',
 				'adult_pharmacist_mode', 'adult_pharmacist_mode_not', 
 				'adult_pharmacist_mode_not_buttons', 'adult_pharmacist_pages', 
 				'adult_pharmacist_top_header', 'adult_pharmacist_ullist', 
-				'adult_pharmacist_why'];
+				'adult_pharmacist_why', 'adult_pharmacist_header'];
 foreach($table_names as $name)
 {
 	$mysqli->query("DELETE FROM {$name}");
