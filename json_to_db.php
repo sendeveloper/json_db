@@ -1,8 +1,8 @@
 <?php
 	require_once("config.php");
 
-	$start = 	9; 
-	$end = 		10;
+	$start = 	10; 
+	$end = 		11;
 	$theme_type = array(
 		'g','a','i','n','n','p','a','i','i','i',
 		'o','n','o','i','p','e','d','a','n','i',
@@ -19,7 +19,7 @@
 		$json_data = json_decode($content, true);
 		foreach($json_data as $page_id => $data)
 		{
-			if ($page_id != 39) continue;
+			if ($page_id != 40) continue;
 			// $pages_sql = "INSERT INTO adult_pharmacist_pages (page_id, theme_type,title,category) VALUES ({$page_id}, '{$theme_type[$page_id]}', '{$data['title']}','{$data['category']}')";
 			// $mysqli->query($pages_sql);
 
